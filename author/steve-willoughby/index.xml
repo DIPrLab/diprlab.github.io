@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Willoughby | DIPr Lab at PSU</title>
+    <link>/author/steve-willoughby/</link>
+      <atom:link href="/author/steve-willoughby/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steve Willoughby</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/author/steve-willoughby/avatar_hu2f864113be87685d93cb5e54981e0117_501131_270x270_fill_lanczos_center_3.png</url>
+      <title>Steve Willoughby</title>
+      <link>/author/steve-willoughby/</link>
+    </image>
+    
+  </channel>
+</rss>

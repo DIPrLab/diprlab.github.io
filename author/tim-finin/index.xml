@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Finin | DIPr Lab at PSU</title>
+    <link>/author/tim-finin/</link>
+      <atom:link href="/author/tim-finin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tim Finin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/author/tim-finin/avatar_hu5a0b7ea8f6647d9c1068a52d977ae858_48217_270x270_fill_lanczos_center_3.png</url>
+      <title>Tim Finin</title>
+      <link>/author/tim-finin/</link>
+    </image>
+    
+  </channel>
+</rss>
