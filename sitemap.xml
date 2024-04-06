@@ -10,24 +10,24 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/post/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/post/21-01-24-launch/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/contact/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/members/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/post/21-01-24-launch/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication-type/3/</loc>
@@ -98,6 +98,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/dylan-conklin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/esme-basnet/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/nicholas-g.e.-morales/</loc>
