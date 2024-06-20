@@ -5,12 +5,22 @@
     <link>/author/steve-willoughby/</link>
       <atom:link href="/author/steve-willoughby/index.xml" rel="self" type="application/rss+xml" />
     <description>Steve Willoughby</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/steve-willoughby/avatar_hu2f864113be87685d93cb5e54981e0117_501131_270x270_fill_lanczos_center_3.png</url>
       <title>Steve Willoughby</title>
       <link>/author/steve-willoughby/</link>
     </image>
+    
+    <item>
+      <title>Securing IoT Communication Protocols at Scale</title>
+      <link>/project/pubsubcontrol/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/project/pubsubcontrol/</guid>
+      <description>&lt;p&gt;The world of the connected “Internet of Things” is expanding to include more devices which observe our daily lives, routines, locations, and even our state of health. But have the underlying protocols by which they communicate this data kept pace with the need to protect our privacy and security?&lt;/p&gt;
+&lt;p&gt;Image Source: &lt;a href=&#34;https://www.twilio.com/en-us/blog/what-is-mqtt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.twilio.com/en-us/blog/what-is-mqtt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

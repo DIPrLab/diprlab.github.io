@@ -10,6 +10,98 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/tag/access-control/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/communication-protocols/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/internet-of-things/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/policies/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/privacy/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/project/pubsubcontrol/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/steve-willoughby/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/project/accord/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/anadi-shakya/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/project/bluetoothdetector/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/bluetooth-trackers/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/data-dependencies/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/databases/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/dylan-conklin/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/inference-control/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/nicholas-g.e.-morales/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/safety/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/project/sieve/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/smriti-basnet-esme/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/project/tattletale/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,10 +115,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/accord/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/authors/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -46,10 +134,6 @@
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/post/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -62,6 +146,14 @@
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/publication/tattle-tale/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/primal-pappachan-shufan-zhang-xi-he-sharad-mehrotra/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/contact/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -70,18 +162,7 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/tattle-tale/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/author/primal-pappachan-shufan-zhang-xi-he-sharad-mehrotra/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/admin/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/author/anadi-shakya/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/anna-squicciarini/</loc>
@@ -93,13 +174,7 @@
     <loc>/author/dave-meier/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/dylan-conklin/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/author/lakshmi-sahithi/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/author/nicholas-g.e.-morales/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/primal-pappachan/</loc>
@@ -108,13 +183,10 @@
     <loc>/author/roberto-yus/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/author/satvik-mudgal/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/author/siddhartha-challa/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/author/smriti-basnet-esme/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/author/steve-willoughby/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/tim-finin/</loc>

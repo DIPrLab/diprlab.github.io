@@ -28,6 +28,52 @@
     </item>
     
     <item>
+      <title>Securing IoT Communication Protocols at Scale</title>
+      <link>/project/pubsubcontrol/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/project/pubsubcontrol/</guid>
+      <description>&lt;p&gt;The world of the connected “Internet of Things” is expanding to include more devices which observe our daily lives, routines, locations, and even our state of health. But have the underlying protocols by which they communicate this data kept pace with the need to protect our privacy and security?&lt;/p&gt;
+&lt;p&gt;Image Source: &lt;a href=&#34;https://www.twilio.com/en-us/blog/what-is-mqtt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.twilio.com/en-us/blog/what-is-mqtt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accord</title>
+      <link>/project/accord/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/project/accord/</guid>
+      <description>&lt;p&gt;When multiple users  adopt collaborative cloud services like Google Drive to work on a shared resource, incorrect or missing permissions may cause conflicting or inconsistent access  or use privileges. These issues (or conflicts) compromise  resources confidentiality, integrity, or availability leading to a lack of trust in cloud services. An example conflict is when a user with editor permissions  changes the permissions on a shared resource without consent from the original resource owner. In this demonstration, we introduce ACCORD, a web application built on top of Google Drive able to detect and resolve multi-user conflicts. ACCORD employs a simulator to help users preemptively identify potential conflicts and assists them in defining action constraints. Using these constraints, ACCORD can automatically detect and resolve any future conflicts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bluetooth Detector</title>
+      <link>/project/bluetoothdetector/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/project/bluetoothdetector/</guid>
+      <description>&lt;p&gt;Bluetooth Detector is a mobile app based on Flutter, which combines GPS with Bluetooth scanning to detect unwanted trackers. Its purpose is to experiment with alternative methods to prevent unwanted trackers by taking a proactive approach, allowing users to see a report about all the devices of concern around them&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sieve</title>
+      <link>/project/sieve/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/project/sieve/</guid>
+      <description>&lt;p&gt;SIEVE is a versatile middleware that enhances access control in DBMS, enabling efficient query processing even with a large number of access control policies. We&amp;rsquo;re currently integrating caching to further improve query performance. Additionally, we&amp;rsquo;ve developed a workload generator that simulates various scenarios to test policy models and ensure access control compliance, reflecting real-world conditions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tattletale</title>
+      <link>/project/tattletale/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/project/tattletale/</guid>
+      <description>&lt;p&gt;Tattletale uses denial constraints to discovery data inferences inside of a database relative to sensitive cells.  The cells that make up the denial constraints are then checked to see which cells infer information on them.  In the end all the cells that infer data on the sensitive cells and the cells that could be used to reconstruct those inferences are placed into a list which is used to generate a view that does not contain those cells.  Since inference can only be reconstructed as long as only one predicate is missing we can use that to minimize how many cells we have to hide.  The benefit of Tattletale is that it provides protection against inference which access control lists don&amp;rsquo;t provide.  The current challenge is trying to improve the run time performance and decrease the number of cells that have to be hidden while also guaranteeing a certain level of protection against reconstruction.Tattletale uses denial constraints to discovery data inferences inside of a database relative to sensitive cells.  The cells that make up the denial constraints are then checked to see which cells infer information on them.  In the end all the cells that infer data on the sensitive cells and the cells that could be used to reconstruct those inferences are placed into a list which is used to generate a view that does not contain those cells.  Since inference can only be reconstructed as long as only one predicate is missing we can use that to minimize how many cells we have to hide.  The benefit of Tattletale is that it provides protection against inference which access control lists don&amp;rsquo;t provide.  The current challenge is trying to improve the run time performance and decrease the number of cells that have to be hidden while also guaranteeing a certain level of protection against reconstruction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ACCORD: Constraint-driven mediation of multi-user conflicts in cloud services</title>
       <link>/publication/accord/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
@@ -52,6 +98,14 @@
     </item>
     
     <item>
+      <title>Don&#34;t Be a Tattle-Tale: Preventing Leakages through Data Dependencies on Access Control Protected Data</title>
+      <link>/publication/tattle-tale/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/tattle-tale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
@@ -66,14 +120,6 @@ Photo by &lt;a href=&#34;https://unsplash.com/@tobiastu?utm_content=creditCopyTe
       <link>/members/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/members/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Don&#34;t Be a Tattle-Tale</title>
-      <link>/publication/tattle-tale/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tattle-tale/</guid>
       <description></description>
     </item>
     
