@@ -28,16 +28,24 @@
       <link>/project/accord/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/project/accord/</guid>
-      <description>&lt;p&gt;When multiple users  adopt collaborative cloud services like Google Drive to work on a shared resource, incorrect or missing permissions may cause conflicting or inconsistent access  or use privileges. These issues (or conflicts) compromise  resources confidentiality, integrity, or availability leading to a lack of trust in cloud services. An example conflict is when a user with editor permissions  changes the permissions on a shared resource without consent from the original resource owner. In this demonstration, we introduce ACCORD, a web application built on top of Google Drive able to detect and resolve multi-user conflicts. ACCORD employs a simulator to help users preemptively identify potential conflicts and assists them in defining action constraints. Using these constraints, ACCORD can automatically detect and resolve any future conflicts.&lt;/p&gt;
+      <description>&lt;p&gt;Users are increasingly adopting collaborative cloud services like Google Drive.
+The lack of fine-grained access controls on many cloud services make actions that violate the expectations of other users likely, resulting in multiuser conflicts.
+For example, a user with editor permissions may add a user outside the organization and revoke the permissions of another user, all without consent from the original resource owner.
+These multiuser conflicts may compromise a resource&amp;rsquo;s confidentiality, integrity, or availability, leading to a lack of trust in cloud services.&lt;/p&gt;
+&lt;p&gt;ACCORD is a web application built on top of Google Drive which prevents and detects multiuser conflicts.
+It employs a simulator to help users preemptively identify potential conflicts and
+assist them in defining action constraints.
+Then, using these action constraints, ACCORD can automatically detect future conflicts and suggest resolutions.&lt;/p&gt;
+&lt;p&gt;Currently, we are testing the scalability and practicality of ACCORD with larger numbers of users and resources.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Bluetooth Detector</title>
-      <link>/project/bluetoothdetector/</link>
+      <title>Blue Crab</title>
+      <link>/project/bluecrab/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/project/bluetoothdetector/</guid>
-      <description>&lt;p&gt;Bluetooth Detector is a mobile app based on Flutter, which combines GPS with Bluetooth scanning to detect unwanted trackers. Its purpose is to experiment with alternative methods to prevent unwanted trackers by taking a proactive approach, allowing users to see a report about all the devices of concern around them&lt;/p&gt;
+      <guid>/project/bluecrab/</guid>
+      <description>&lt;p&gt;Blue Crab is a mobile app based on Flutter, which combines GPS with Bluetooth scanning to detect unwanted trackers. Its purpose is to experiment with alternative methods to prevent unwanted trackers by taking a proactive approach, allowing users to see a report about all the devices of concern around them&lt;/p&gt;
 </description>
     </item>
     

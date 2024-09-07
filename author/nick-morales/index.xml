@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nick Morales | DIPr Lab at PSU</title>
+    <link>//localhost:1313/author/nick-morales/</link>
+      <atom:link href="//localhost:1313/author/nick-morales/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nick Morales</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/author/nick-morales/avatar_hu5a0b7ea8f6647d9c1068a52d977ae858_48217_270x270_fill_lanczos_center_3.png</url>
+      <title>Nick Morales</title>
+      <link>//localhost:1313/author/nick-morales/</link>
+    </image>
+    
+  </channel>
+</rss>
