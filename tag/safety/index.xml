@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Bluetooth Detector</title>
-      <link>/project/bluetoothdetector/</link>
+      <title>Blue Crab</title>
+      <link>/project/bluecrab/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/project/bluetoothdetector/</guid>
-      <description>&lt;p&gt;Bluetooth Detector is a mobile app based on Flutter, which combines GPS with Bluetooth scanning to detect unwanted trackers. Its purpose is to experiment with alternative methods to prevent unwanted trackers by taking a proactive approach, allowing users to see a report about all the devices of concern around them&lt;/p&gt;
+      <guid>/project/bluecrab/</guid>
+      <description>&lt;p&gt;Blue Crab is a mobile app based on Flutter, which combines GPS with Bluetooth scanning to detect unwanted trackers. Its purpose is to experiment with alternative methods to prevent unwanted trackers by taking a proactive approach, allowing users to see a report about all the devices of concern around them&lt;/p&gt;
 </description>
     </item>
     
