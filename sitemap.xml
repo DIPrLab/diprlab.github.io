@@ -30,6 +30,10 @@
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/dbrg/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/post/07-29-24-cyberpdx/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -216,9 +220,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/chelsea-teh/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/dbrg/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/dave-meier/</loc>
