@@ -5,9 +5,9 @@
     <link>/wiki/</link>
       <atom:link href="/wiki/index.xml" rel="self" type="application/rss+xml" />
     <description>Database &amp; Internet Privacy (DIPr) Lab</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu0f0a8221e05ad032f2ae11441278135b_1259_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu11534601174274055989.png</url>
       <title>Database &amp; Internet Privacy (DIPr) Lab</title>
       <link>/wiki/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Joining the lab</title>
       <link>/wiki/join/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/wiki/join/</guid>
       <description>&lt;p&gt;
 
@@ -36,10 +36,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text for my gif&#34; srcset=&#34;
-               /media/bird-landing_hu9e22667172d56751022778ba12daccac_2030726_61c8b6d4b3a31217d6e917adf89ffb1a.webp 400w,
-               /media/bird-landing_hu9e22667172d56751022778ba12daccac_2030726_14baf465790259994c7d68a2f2ca2e1e.webp 760w,
-               /media/bird-landing_hu9e22667172d56751022778ba12daccac_2030726_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;/media/bird-landing_hu9e22667172d56751022778ba12daccac_2030726_61c8b6d4b3a31217d6e917adf89ffb1a.webp&#34;
+               /media/bird-landing_hu14575599842816188098.webp 400w,
+               /media/bird-landing_hu14123454937878364025.webp 760w,
+               /media/bird-landing_hu13074279252669936980.webp 1200w&#34;
+               src=&#34;/media/bird-landing_hu14575599842816188098.webp&#34;
                width=&#34;760&#34;
                height=&#34;505&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -76,7 +76,7 @@ Graduate admissions are done by Grad admissions committee that processes all app
     <item>
       <title>Getting started</title>
       <link>/wiki/onboarding/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/wiki/onboarding/</guid>
       <description>&lt;p&gt;
 
@@ -97,16 +97,16 @@ Graduate admissions are done by Grad admissions committee that processes all app
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text for my gif&#34; srcset=&#34;
-               /media/bird-taking-off_hudb4fe9e02c55843f2267573fc19dc7a7_34529_7a767b10dfad63806962996e0a9d6733.webp 400w,
-               /media/bird-taking-off_hudb4fe9e02c55843f2267573fc19dc7a7_34529_6e2bb04d528c262856ff3b4177f0c927.webp 760w,
-               /media/bird-taking-off_hudb4fe9e02c55843f2267573fc19dc7a7_34529_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;/media/bird-taking-off_hudb4fe9e02c55843f2267573fc19dc7a7_34529_7a767b10dfad63806962996e0a9d6733.webp&#34;
+               /media/bird-taking-off_hu17662514611851701890.webp 400w,
+               /media/bird-taking-off_hu18111856093640927539.webp 760w,
+               /media/bird-taking-off_hu10748499809908364920.webp 1200w&#34;
+               src=&#34;/media/bird-taking-off_hu17662514611851701890.webp&#34;
                width=&#34;728&#34;
                height=&#34;471&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Welcome to DIPr Lab! We are excited that you have decided to join our team! We hope that these onboarding resources, guidelines, and tips will make the first few steps easier.&lt;/p&gt;
+&lt;p&gt;Welcome to DIPr Lab! We are excited that you have decided to join our team! We hope that these onboarding resources, guidelines, and tips will make the first few   steps easier.&lt;/p&gt;
 &lt;h2 id=&#34;set-up-the-first-meeting&#34;&gt;Set up the first meeting&lt;/h2&gt;
 &lt;p&gt;Check the Primal&amp;rsquo;s Google Calendar (&lt;a href=&#34;https://support.google.com/calendar/answer/6294878?hl=en&amp;amp;co=GENIE.Platform%3DDesktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See someone&amp;rsquo;s calendar availability&lt;/a&gt;) and propose a time to meet that works for both of you. Primal&amp;rsquo;s office is room FAB 115-08.&lt;/p&gt;
 &lt;h2 id=&#34;join-the-github-organization&#34;&gt;Join the GitHub organization&lt;/h2&gt;
@@ -134,7 +134,7 @@ Graduate admissions are done by Grad admissions committee that processes all app
     <item>
       <title>Expectations</title>
       <link>/wiki/expectations/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/wiki/expectations/</guid>
       <description>&lt;p&gt;
 
@@ -155,17 +155,17 @@ Graduate admissions are done by Grad admissions committee that processes all app
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text for my gif&#34; srcset=&#34;
-               /media/bird-mid-flight_hu028cef7a7758da56f9bd3b5efea85562_58029_279a505e750f0efd997651231824ba07.webp 400w,
-               /media/bird-mid-flight_hu028cef7a7758da56f9bd3b5efea85562_58029_a1bde05cda22d7ce89f21cd460c44a5c.webp 760w,
-               /media/bird-mid-flight_hu028cef7a7758da56f9bd3b5efea85562_58029_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;/media/bird-mid-flight_hu028cef7a7758da56f9bd3b5efea85562_58029_279a505e750f0efd997651231824ba07.webp&#34;
+               /media/bird-mid-flight_hu3941767993988583812.webp 400w,
+               /media/bird-mid-flight_hu8239882851009489724.webp 760w,
+               /media/bird-mid-flight_hu3394775616629222990.webp 1200w&#34;
+               src=&#34;/media/bird-mid-flight_hu3941767993988583812.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;working-hours&#34;&gt;Working hours&lt;/h3&gt;
-&lt;p&gt;You should create a working schedule that is a right fit for you and what this fit is will likely evolve over time. Depending on the nature of your appointment, there may be specific minimum number of hours that you are expected to work each work and you should check with about these in the first meeting. Graduate students can expect to work an average of
+&lt;p&gt;You should create a working schedule that is a right fit for you with the understanding that your ideal schedule may evolve over time. Depending on the nature of your appointment, there may be specific minimum number of hours that you are expected to work and you should check with about these in the first meeting. Graduate students can expect to work an average of
 at least 40 hours per week. For M.S., undergrad, and high school students this will vary depending on the project.
 You are not expected to work on weekends and holidays. Consult with Primal and notify fellow lab members in advance of any planned absences during the week. As a student, you should feel flexible to create a work schedule that work for you.&lt;/p&gt;
 &lt;p&gt;If you prefer to work remotely, this should be discussed and approved by Primal and arranged in accordance with &lt;a href=&#34;https://www.pdx.edu/human-resources/remote-work-guidelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Portland State University Polices on Remote Work&lt;/a&gt;. All lab members are expected to attend certain in-person events.&lt;/p&gt;
@@ -184,7 +184,7 @@ You are not expected to work on weekends and holidays. Consult with Primal and n
 &lt;p&gt;The schedule and venue for meetings will be determined at the beginning of the quarter and announced in the mailing list. In the beginning of the meeting, Primal will make group announcements followed by a presentation from the students. All the DIPr lab students are expected to present at least once during the quarter. This presentation can be one of the following:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Research presentation: A detailed talk about your research project covering aspects such as motivation, approach, and evaluation.&lt;/li&gt;
-&lt;li&gt;Project workshopping: Short presentation of the problem that you are working on. Rest of the meeting, we will use it for brainstorming collectively.&lt;/li&gt;
+&lt;li&gt;Project workshopping: A brief presentation of the problem that you are working on followed by collaborative brainstorming for the remainder of the meeting.&lt;/li&gt;
 &lt;li&gt;Tutorial: A hands-on presentation on a tool or a new approach that could benefit the entire group.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you are the presenter, send a detailed draft of the presentation to Primal at least 3 days prior to the meeting. Primal will review the presentation and will give you feedback on the presentation outline and indidivual slides.&lt;/p&gt;
@@ -227,7 +227,7 @@ We all work on related topics in the group so, we all benefit from utilizing eac
 &lt;p&gt;At the end of each quarter, you will be a receiving &lt;a href=&#34;https://docs.google.com/document/d/1TMegAEcxe3k87MGvLh3c3urhyd3dhHOpZq6CQ51Umdc/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the following evaluation form&lt;/a&gt; asking you to reflect you on your progress and your experience as a mentee. We will sit aside time during an individual meeting at the beginning of following  quarter to review your answers together. This is an opportunity for you to share any concerns you may have about your experience as a graduate student, whether they involve other students, faculty, or staff.&lt;/p&gt;
 &lt;p&gt;This discussion is also a chance to address any concerns you may have about my role as your advisor. If you need more guidance, would like more independence, or would prefer more frequent meetings, please let me know. Likewise, I’ll provide feedback on your progress, noting any areas where improvement is needed so we can address them proactively. This session is our time to address any concerns early, ensuring that we’re aligned on your goals and progress.&lt;/p&gt;
 &lt;h3 id=&#34;individual-development-plans&#34;&gt;Individual Development Plans&lt;/h3&gt;
-&lt;p&gt;Primal will work with each of you to develop your individual mentoring plan that serves to ensure your time in the lab progresses your short, medium, and long-term goals. This is a useful planning document that assists in aligning expectations. Graduate students will revisit the mentoring plan during an individual meeting with Primal during multiple times in the year. Other lab members will revisit these at appropriate time scales (e.g. every 6 months). For this purpose, we will modify a &lt;a href=&#34;https://docs.google.com/document/d/1DdQA4rMAdrPlMW7LMsE5pfBtDGZgKRBl/edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;template&lt;/a&gt; (for all students) or use an online &lt;a href=&#34;https://myidp.sciencecareers.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tool&lt;/a&gt; (geared towards PhD students and PostDocs). More examples of templates can be found &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1eBq02ibBu2h50jI38f6STt9TSfkzoJOts0OWaYDdXYc/edit?gid=117517556#gid=117517556&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Primal will work with each of you to develop your individual mentoring plan that serves to ensure your time in the lab progresses your short, medium, and long-term goals. This is a useful planning document that assists in aligning expectations. Graduate students will revisit the mentoring plan during an individual meeting with Primal during multiple times in the year. Other lab members will revisit these at appropriate time scales (e.g. every 6 months). For this purpose, we will modify a &lt;a href=&#34;https://docs.google.com/document/d/1DdQA4rMAdrPlMW7LMsE5pfBtDGZgKRBl/edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;template&lt;/a&gt; (for all students) or use an online &lt;a href=&#34;https://myidp.sciencecareers.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tool&lt;/a&gt; (geared towards PhD students and PostDocs).&lt;/p&gt;
 &lt;h2 id=&#34;take-care-of-yourself&#34;&gt;Take care of yourself!&lt;/h2&gt;
 &lt;p&gt;As a student, you may experience a wide variety of challenges to your physical and mental health, that can interfere with learning or doing research. Help is available on campus and an important aspect of taking care of yourself is learning how to ask for help.
 Talk to Primal or any of the lab members, if you are struggling. Ask for help early. We cannot change the past, but can influence the future. Confidential &lt;a href=&#34;https://www.pdx.edu/health-counseling/counseling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;counseling services&lt;/a&gt; are available at PSU. Please refer to the &lt;a href=&#34;https://www.pdx.edu/health-counseling/sites/studenthealthcounseling.web.wdt.pdx.edu/files/2023-03/Crisis%20Cards%20-%20Counseling.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student Crisis Resource Card&lt;/a&gt; for a list of phone numbers, contacts and support resources.&lt;/p&gt;
@@ -237,7 +237,7 @@ Talk to Primal or any of the lab members, if you are struggling. Ask for help ea
     <item>
       <title>Lab Policies</title>
       <link>/wiki/policies/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/wiki/policies/</guid>
       <description>&lt;p&gt;
 
@@ -258,10 +258,10 @@ Talk to Primal or any of the lab members, if you are struggling. Ask for help ea
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text for my gif&#34; srcset=&#34;
-               /media/bird-flock_hue84f8ceff7ab5329aec7941413844079_42711_f39c1a89ec5fa32f326cf06aab2e8933.webp 400w,
-               /media/bird-flock_hue84f8ceff7ab5329aec7941413844079_42711_98e79f310c9fb8d72cf730786402e3f3.webp 760w,
-               /media/bird-flock_hue84f8ceff7ab5329aec7941413844079_42711_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;/media/bird-flock_hue84f8ceff7ab5329aec7941413844079_42711_f39c1a89ec5fa32f326cf06aab2e8933.webp&#34;
+               /media/bird-flock_hu7944653659703506452.webp 400w,
+               /media/bird-flock_hu2383492516783929724.webp 760w,
+               /media/bird-flock_hu8206384986730966044.webp 1200w&#34;
+               src=&#34;/media/bird-flock_hu7944653659703506452.webp&#34;
                width=&#34;760&#34;
                height=&#34;506&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -291,7 +291,7 @@ If you would rather share information about these matters with a PSU staff membe
     <item>
       <title>Offboarding</title>
       <link>/wiki/offboarding/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/wiki/offboarding/</guid>
       <description>&lt;p&gt;
 
@@ -312,10 +312,10 @@ If you would rather share information about these matters with a PSU staff membe
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text for my gif&#34; srcset=&#34;
-               /media/bird-flying-away_hu88bcffd60d3be7df83f7023095d52144_327424_107486c18f077779c566168beb24b2ea.webp 400w,
-               /media/bird-flying-away_hu88bcffd60d3be7df83f7023095d52144_327424_afbbe384d372d8b4ab2b8bb97c5802cd.webp 760w,
-               /media/bird-flying-away_hu88bcffd60d3be7df83f7023095d52144_327424_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;/media/bird-flying-away_hu88bcffd60d3be7df83f7023095d52144_327424_107486c18f077779c566168beb24b2ea.webp&#34;
+               /media/bird-flying-away_hu14806664578354133516.webp 400w,
+               /media/bird-flying-away_hu9261922301974223104.webp 760w,
+               /media/bird-flying-away_hu1419810120524350741.webp 1200w&#34;
+               src=&#34;/media/bird-flying-away_hu14806664578354133516.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -338,7 +338,7 @@ If you would rather share information about these matters with a PSU staff membe
     <item>
       <title>References</title>
       <link>/wiki/references/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/wiki/references/</guid>
       <description>&lt;p&gt;Some of the content in this wiki is inspired by similar wikis from labs.&lt;/p&gt;
 &lt;ol&gt;
