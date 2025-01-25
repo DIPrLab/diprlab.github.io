@@ -2,247 +2,251 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/wiki/</loc>
+    <loc>//localhost:1313/wiki/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/wiki/join/</loc>
+    <loc>//localhost:1313/wiki/join/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/wiki/onboarding/</loc>
+    <loc>//localhost:1313/wiki/onboarding/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/wiki/expectations/</loc>
+    <loc>//localhost:1313/wiki/expectations/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/wiki/policies/</loc>
+    <loc>//localhost:1313/wiki/policies/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/wiki/offboarding/</loc>
+    <loc>//localhost:1313/wiki/offboarding/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/wiki/references/</loc>
+    <loc>//localhost:1313/wiki/references/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/07-29-24-cyberpdx/</loc>
+    <loc>//localhost:1313/dbrg/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/post/07-29-24-cyberpdx/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/</loc>
+    <loc>//localhost:1313/post/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/06-21-24-anadi-rpe/</loc>
+    <loc>//localhost:1313/post/06-21-24-anadi-rpe/</loc>
     <lastmod>2024-06-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/06-21-24-sra/</loc>
+    <loc>//localhost:1313/post/06-21-24-sra/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/access-control/</loc>
+    <loc>//localhost:1313/tag/access-control/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>//localhost:1313/authors/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/communication-protocols/</loc>
+    <loc>//localhost:1313/tag/communication-protocols/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/internet-of-things/</loc>
+    <loc>//localhost:1313/tag/internet-of-things/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/policies/</loc>
+    <loc>//localhost:1313/tag/policies/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/privacy/</loc>
+    <loc>//localhost:1313/tag/privacy/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/project/</loc>
+    <loc>//localhost:1313/project/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/project/pubsubcontrol/</loc>
+    <loc>//localhost:1313/project/pubsubcontrol/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/steve-willoughby/</loc>
+    <loc>//localhost:1313/author/steve-willoughby/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/project/accord/</loc>
+    <loc>//localhost:1313/project/accord/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/anadi-shakya/</loc>
+    <loc>//localhost:1313/author/anadi-shakya/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/project/bluecrab/</loc>
+    <loc>//localhost:1313/project/bluecrab/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/bluetooth-trackers/</loc>
+    <loc>//localhost:1313/tag/bluetooth-trackers/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/cloud/</loc>
+    <loc>//localhost:1313/tag/cloud/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/data-dependencies/</loc>
+    <loc>//localhost:1313/tag/data-dependencies/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/databases/</loc>
+    <loc>//localhost:1313/tag/databases/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/dylan-conklin/</loc>
+    <loc>//localhost:1313/author/dylan-conklin/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/grace-hunter/</loc>
+    <loc>//localhost:1313/author/grace-hunter/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/inference-control/</loc>
+    <loc>//localhost:1313/tag/inference-control/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/nicholas-g.e.-morales/</loc>
+    <loc>//localhost:1313/author/nicholas-g.e.-morales/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/safety/</loc>
+    <loc>//localhost:1313/tag/safety/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/project/sieve/</loc>
+    <loc>//localhost:1313/project/sieve/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/smriti-basnet-esme/</loc>
+    <loc>//localhost:1313/author/smriti-basnet-esme/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/project/tattletale/</loc>
+    <loc>//localhost:1313/project/tattletale/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/web-applications/</loc>
+    <loc>//localhost:1313/tag/web-applications/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/21-01-24-launch/</loc>
+    <loc>//localhost:1313/post/21-01-24-launch/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>//localhost:1313/contact/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/members/</loc>
+    <loc>//localhost:1313/members/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication-type/1/</loc>
+    <loc>//localhost:1313/publication-type/1/</loc>
     <lastmod>1969-12-31T16:33:44-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/aamir-hamid-hemanth-reddy-samidi-tim-finin-primal-pappachan-roberto-yus/</loc>
+    <loc>//localhost:1313/author/aamir-hamid-hemanth-reddy-samidi-tim-finin-primal-pappachan-roberto-yus/</loc>
     <lastmod>1969-12-31T16:33:44-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/abhiroop-tippavajjula-primal-pappachan-anna-squicciarini-jose-such/</loc>
+    <loc>//localhost:1313/author/abhiroop-tippavajjula-primal-pappachan-anna-squicciarini-jose-such/</loc>
     <lastmod>1969-12-31T16:33:44-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/accord/</loc>
+    <loc>//localhost:1313/publication/accord/</loc>
     <lastmod>1969-12-31T16:33:44-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/genaipa/</loc>
+    <loc>//localhost:1313/publication/genaipa/</loc>
     <lastmod>1969-12-31T16:33:44-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication_types/</loc>
+    <loc>//localhost:1313/publication_types/</loc>
     <lastmod>1969-12-31T16:33:44-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/</loc>
+    <loc>//localhost:1313/publication/</loc>
     <lastmod>1969-12-31T16:33:44-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/source-themes/</loc>
+    <loc>//localhost:1313/tag/source-themes/</loc>
     <lastmod>1969-12-31T16:33:44-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/tattle-tale/</loc>
+    <loc>//localhost:1313/publication/tattle-tale/</loc>
     <lastmod>1969-12-31T16:33:40-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/primal-pappachan-shufan-zhang-xi-he-sharad-mehrotra/</loc>
+    <loc>//localhost:1313/author/primal-pappachan-shufan-zhang-xi-he-sharad-mehrotra/</loc>
     <lastmod>1969-12-31T16:33:40-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/admin/</loc>
+    <loc>//localhost:1313/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/anna-squicciarini/</loc>
+    <loc>//localhost:1313/author/anna-squicciarini/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/chelsea-teh/</loc>
+    <loc>//localhost:1313/author/chelsea-teh/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/dbrg/</loc>
+    <loc>//localhost:1313/author/dave-meier/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/dave-meier/</loc>
+    <loc>//localhost:1313/author/lakshmi-sahithi/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/lakshmi-sahithi/</loc>
+    <loc>//localhost:1313/author/primal-pappachan/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/primal-pappachan/</loc>
+    <loc>//localhost:1313/author/roberto-yus/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/roberto-yus/</loc>
+    <loc>//localhost:1313/author/satvik-mudgal/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/satvik-mudgal/</loc>
+    <loc>//localhost:1313/author/siddhartha-challa/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/siddhartha-challa/</loc>
+    <loc>//localhost:1313/author/tim-finin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/tim-finin/</loc>
+    <loc>//localhost:1313/author/tina-mccomiskey/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/vipul-puttaswamy-gowda/</loc>
+    <loc>//localhost:1313/author/vipul-puttaswamy-gowda/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

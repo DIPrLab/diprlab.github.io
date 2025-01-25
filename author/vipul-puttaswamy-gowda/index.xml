@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vipul Puttaswamy Gowda | DIPr Lab at PSU</title>
-    <link>/author/vipul-puttaswamy-gowda/</link>
-      <atom:link href="/author/vipul-puttaswamy-gowda/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/author/vipul-puttaswamy-gowda/</link>
+      <atom:link href="//localhost:1313/author/vipul-puttaswamy-gowda/index.xml" rel="self" type="application/rss+xml" />
     <description>Vipul Puttaswamy Gowda</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>/author/vipul-puttaswamy-gowda/avatar_hucec12bdebbe86499084b2775b4b718f6_2154164_270x270_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/author/vipul-puttaswamy-gowda/avatar_hu1090356980091484172.png</url>
       <title>Vipul Puttaswamy Gowda</title>
-      <link>/author/vipul-puttaswamy-gowda/</link>
+      <link>//localhost:1313/author/vipul-puttaswamy-gowda/</link>
     </image>
     
   </channel>

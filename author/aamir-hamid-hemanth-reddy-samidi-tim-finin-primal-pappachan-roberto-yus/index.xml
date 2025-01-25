@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aamir Hamid, Hemanth Reddy Samidi, Tim Finin, Primal Pappachan, Roberto Yus | DIPr Lab at PSU</title>
-    <link>/author/aamir-hamid-hemanth-reddy-samidi-tim-finin-primal-pappachan-roberto-yus/</link>
-      <atom:link href="/author/aamir-hamid-hemanth-reddy-samidi-tim-finin-primal-pappachan-roberto-yus/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/author/aamir-hamid-hemanth-reddy-samidi-tim-finin-primal-pappachan-roberto-yus/</link>
+      <atom:link href="//localhost:1313/author/aamir-hamid-hemanth-reddy-samidi-tim-finin-primal-pappachan-roberto-yus/index.xml" rel="self" type="application/rss+xml" />
     <description>Aamir Hamid, Hemanth Reddy Samidi, Tim Finin, Primal Pappachan, Roberto Yus</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 1969 16:33:44 -0800</lastBuildDate>
     <image>
-      <url>/media/icon_hu0f0a8221e05ad032f2ae11441278135b_1259_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/media/icon_hu11534601174274055989.png</url>
       <title>Aamir Hamid, Hemanth Reddy Samidi, Tim Finin, Primal Pappachan, Roberto Yus</title>
-      <link>/author/aamir-hamid-hemanth-reddy-samidi-tim-finin-primal-pappachan-roberto-yus/</link>
+      <link>//localhost:1313/author/aamir-hamid-hemanth-reddy-samidi-tim-finin-primal-pappachan-roberto-yus/</link>
     </image>
     
     <item>
       <title>GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants</title>
-      <link>/publication/genaipa/</link>
+      <link>//localhost:1313/publication/genaipa/</link>
       <pubDate>Wed, 31 Dec 1969 16:33:44 -0800</pubDate>
-      <guid>/publication/genaipa/</guid>
+      <guid>//localhost:1313/publication/genaipa/</guid>
       <description></description>
     </item>
     
