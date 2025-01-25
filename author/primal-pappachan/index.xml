@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Primal Pappachan | DIPr Lab at PSU</title>
-    <link>//localhost:1313/author/primal-pappachan/</link>
-      <atom:link href="//localhost:1313/author/primal-pappachan/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/primal-pappachan/</link>
+      <atom:link href="/author/primal-pappachan/index.xml" rel="self" type="application/rss+xml" />
     <description>Primal Pappachan</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>//localhost:1313/author/primal-pappachan/avatar_hu7586429559316523178.png</url>
+      <url>/author/primal-pappachan/avatar_hu7586429559316523178.png</url>
       <title>Primal Pappachan</title>
-      <link>//localhost:1313/author/primal-pappachan/</link>
+      <link>/author/primal-pappachan/</link>
     </image>
     
   </channel>

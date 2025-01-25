@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DIPr Lab at PSU</title>
-    <link>//localhost:1313/</link>
-      <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>DIPr Lab at PSU</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu11534601174274055989.png</url>
+      <url>/media/icon_hu11534601174274055989.png</url>
       <title>DIPr Lab at PSU</title>
-      <link>//localhost:1313/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Joining the lab</title>
-      <link>//localhost:1313/wiki/join/</link>
+      <link>/wiki/join/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/wiki/join/</guid>
+      <guid>/wiki/join/</guid>
       <description>&lt;p&gt;
 
 
@@ -39,7 +39,7 @@
                /media/bird-landing_hu14575599842816188098.webp 400w,
                /media/bird-landing_hu14123454937878364025.webp 760w,
                /media/bird-landing_hu13074279252669936980.webp 1200w&#34;
-               src=&#34;//localhost:1313/media/bird-landing_hu14575599842816188098.webp&#34;
+               src=&#34;/media/bird-landing_hu14575599842816188098.webp&#34;
                width=&#34;760&#34;
                height=&#34;505&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -68,16 +68,16 @@ Graduate admissions are done by Grad admissions committee that processes all app
 &lt;!-- Note: This only applies to currently enrolled undergrad and M.S students at Portland State University.  --&gt;
 &lt;!-- The DIPr lab is focused on designing better data protection mechanisms for databases.  Undergraduate researchers will start by contributing to ongoing projects listed in the [home page](/). The activities may involve developing software prototypes, participating in research meetings, reading research papers, presenting results etc.  --&gt;
 &lt;p&gt;&lt;strong&gt;Ph.D. applicants&lt;/strong&gt;: When reaching out to Dr. Primal after completing the graduate application, please include your: (1) CV (including a link to your GitHub profile and website), (2) a description of your previous research experience and interests, and (3) specific information about which research projects in the lab interests you and why. Emails without these information may be ignored.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;M.S. applicants&lt;/strong&gt;: This only applies to currently enrolled M.S. students. After going through projects in the lab, if you are interested in applying to be part of the lab, send an email including: (1) your resume (PDF), (2) unofficial copy of your first year transcript (PDF), and (3) few paragraphs explaining why you’d like to work in our lab. To write this well, I suggest you look at some of our &lt;a href=&#34;//localhost:1313/publication/&#34;&gt;previous publications&lt;/a&gt; to orient yourself to our current projects. Make the subject of your email Masters Application” and send this to Dr. Primal. You are welcome to join the weekly group meetings (see &lt;a href=&#34;//localhost:1313/expectations&#34;&gt;Expectations&lt;/a&gt;) to learn more about the ongoing projects and connect with lab members.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Undergrad applicants&lt;/strong&gt;: This only applies to currently enrolled undergrad students. After going through projects in the lab, if you are interested in applying to be part of the lab, send an email including: (1) your resume (PDF), (2) unofficial copy of your transcript (PDF); freshman can send high school transcript (PDF), and (3) few paragraphs explaining why you’d like to work in our lab. To write this well, I suggest you look at some of our &lt;a href=&#34;//localhost:1313/publication/&#34;&gt;previous publications&lt;/a&gt; to orient yourself to our current projects. Make the subject of your email “Undergrad Application” and send this to Dr. Primal. You are welcome to join the weekly group meetings (see &lt;a href=&#34;//localhost:1313/expectations&#34;&gt;Expectations&lt;/a&gt;) to learn more about the ongoing projects and connect with lab members.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;M.S. applicants&lt;/strong&gt;: This only applies to currently enrolled M.S. students. After going through projects in the lab, if you are interested in applying to be part of the lab, send an email including: (1) your resume (PDF), (2) unofficial copy of your first year transcript (PDF), and (3) few paragraphs explaining why you’d like to work in our lab. To write this well, I suggest you look at some of our &lt;a href=&#34;/publication/&#34;&gt;previous publications&lt;/a&gt; to orient yourself to our current projects. Make the subject of your email Masters Application” and send this to Dr. Primal. You are welcome to join the weekly group meetings (see &lt;a href=&#34;/expectations&#34;&gt;Expectations&lt;/a&gt;) to learn more about the ongoing projects and connect with lab members.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Undergrad applicants&lt;/strong&gt;: This only applies to currently enrolled undergrad students. After going through projects in the lab, if you are interested in applying to be part of the lab, send an email including: (1) your resume (PDF), (2) unofficial copy of your transcript (PDF); freshman can send high school transcript (PDF), and (3) few paragraphs explaining why you’d like to work in our lab. To write this well, I suggest you look at some of our &lt;a href=&#34;/publication/&#34;&gt;previous publications&lt;/a&gt; to orient yourself to our current projects. Make the subject of your email “Undergrad Application” and send this to Dr. Primal. You are welcome to join the weekly group meetings (see &lt;a href=&#34;/expectations&#34;&gt;Expectations&lt;/a&gt;) to learn more about the ongoing projects and connect with lab members.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Getting started</title>
-      <link>//localhost:1313/wiki/onboarding/</link>
+      <link>/wiki/onboarding/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/wiki/onboarding/</guid>
+      <guid>/wiki/onboarding/</guid>
       <description>&lt;p&gt;
 
 
@@ -100,7 +100,7 @@ Graduate admissions are done by Grad admissions committee that processes all app
                /media/bird-taking-off_hu17662514611851701890.webp 400w,
                /media/bird-taking-off_hu18111856093640927539.webp 760w,
                /media/bird-taking-off_hu10748499809908364920.webp 1200w&#34;
-               src=&#34;//localhost:1313/media/bird-taking-off_hu17662514611851701890.webp&#34;
+               src=&#34;/media/bird-taking-off_hu17662514611851701890.webp&#34;
                width=&#34;728&#34;
                height=&#34;471&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -122,7 +122,7 @@ Graduate admissions are done by Grad admissions committee that processes all app
 &lt;h2 id=&#34;office-space&#34;&gt;Office Space&lt;/h2&gt;
 &lt;p&gt;If you prefer to work in the department, please request for a desk in the first meeting with Primal. Lab members sit either in the DIPr lab space (FAB 135-04), or in the shared graduate student cubicle space. Graduate students are expected to make use of their allocated desk in the DIPr lab space. Group meetings are held in one of the conference rooms.&lt;/p&gt;
 &lt;h2 id=&#34;individual-developmentmentoring-plans&#34;&gt;Individual Development/Mentoring plans&lt;/h2&gt;
-&lt;p&gt;Within the first few weeks of joining the DIPr Lab, you should work with Primal to develop a plan outlining your short, medium, and long term goals. More on individual developing plans can be found in &lt;a href=&#34;//localhost:1313/expectations&#34;&gt;Expectations&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Within the first few weeks of joining the DIPr Lab, you should work with Primal to develop a plan outlining your short, medium, and long term goals. More on individual developing plans can be found in &lt;a href=&#34;/expectations&#34;&gt;Expectations&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- 
 
 - Key access
@@ -133,9 +133,9 @@ Graduate admissions are done by Grad admissions committee that processes all app
     
     <item>
       <title>Expectations</title>
-      <link>//localhost:1313/wiki/expectations/</link>
+      <link>/wiki/expectations/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/wiki/expectations/</guid>
+      <guid>/wiki/expectations/</guid>
       <description>&lt;p&gt;
 
 
@@ -158,7 +158,7 @@ Graduate admissions are done by Grad admissions committee that processes all app
                /media/bird-mid-flight_hu3941767993988583812.webp 400w,
                /media/bird-mid-flight_hu8239882851009489724.webp 760w,
                /media/bird-mid-flight_hu3394775616629222990.webp 1200w&#34;
-               src=&#34;//localhost:1313/media/bird-mid-flight_hu3941767993988583812.webp&#34;
+               src=&#34;/media/bird-mid-flight_hu3941767993988583812.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -191,13 +191,13 @@ You are not expected to work on weekends and holidays. Consult with Primal and n
 &lt;h4 id=&#34;celebrations-&#34;&gt;Celebrations 🎉&lt;/h4&gt;
 &lt;p&gt;Once every month (typically the first or the last meeting of the month) we will celebrate with sweet treats (donuts, cupcakes, etc) to recognize any achievments or life milestones of the lab members. This includes and is not limited to paper acceptance, submissions, rejections (yes, we celebrate those too!), birthdays, and more.&lt;/p&gt;
 &lt;h3 id=&#34;database-reading-group-dbrg-meetings&#34;&gt;Database Reading Group (DBRG) meetings&lt;/h3&gt;
-&lt;p&gt;The Database Reading Group meets weekly to discuss papers related (broadly speaking) to database technology. Meeting times are decided at the beginning of the quarter. The regular meeting place is room 130 in PSU&amp;rsquo;s Fourth Avenue Building. The group welcomes anyone, inside or outside of PSU, with an interest in the subject matter. Designated group members will lead the discussion each week. More on database reading group can be found in &lt;a href=&#34;//localhost:1313/dbrg&#34;&gt;DBRG&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Database Reading Group meets weekly to discuss papers related (broadly speaking) to database technology. Meeting times are decided at the beginning of the quarter. The regular meeting place is room 130 in PSU&amp;rsquo;s Fourth Avenue Building. The group welcomes anyone, inside or outside of PSU, with an interest in the subject matter. Designated group members will lead the discussion each week. More on database reading group can be found in &lt;a href=&#34;/dbrg&#34;&gt;DBRG&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;attendance&#34;&gt;Attendance&lt;/h3&gt;
 &lt;p&gt;In-person attendance is expected for the following.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Weekly group meetings&lt;/li&gt;
 &lt;li&gt;individual meetings with Primal to discuss your research&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/dbrg&#34;&gt;Database Reading Group meetings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/dbrg&#34;&gt;Database Reading Group meetings&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://pdxscholar.library.pdx.edu/studentsymposium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student Research Symposiums&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Outreach events (such as &lt;a href=&#34;https://www.pdx.edu/center-for-internship-mentoring-and-research/summer-research-academy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer Research Academy&lt;/a&gt;, &lt;a href=&#34;https://www.pdx.edu/engineering/cyberpdx-cybersecurity-camp-native-indigenous-high-school-students&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CyberPDX&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
@@ -235,9 +235,9 @@ Talk to Primal or any of the lab members, if you are struggling. Ask for help ea
     
     <item>
       <title>Lab Policies</title>
-      <link>//localhost:1313/wiki/policies/</link>
+      <link>/wiki/policies/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/wiki/policies/</guid>
+      <guid>/wiki/policies/</guid>
       <description>&lt;p&gt;
 
 
@@ -260,7 +260,7 @@ Talk to Primal or any of the lab members, if you are struggling. Ask for help ea
                /media/bird-flock_hu7944653659703506452.webp 400w,
                /media/bird-flock_hu2383492516783929724.webp 760w,
                /media/bird-flock_hu8206384986730966044.webp 1200w&#34;
-               src=&#34;//localhost:1313/media/bird-flock_hu7944653659703506452.webp&#34;
+               src=&#34;/media/bird-flock_hu7944653659703506452.webp&#34;
                width=&#34;760&#34;
                height=&#34;506&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -289,9 +289,9 @@ If you would rather share information about these matters with a PSU staff membe
     
     <item>
       <title>Offboarding</title>
-      <link>//localhost:1313/wiki/offboarding/</link>
+      <link>/wiki/offboarding/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/wiki/offboarding/</guid>
+      <guid>/wiki/offboarding/</guid>
       <description>&lt;p&gt;
 
 
@@ -314,7 +314,7 @@ If you would rather share information about these matters with a PSU staff membe
                /media/bird-flying-away_hu14806664578354133516.webp 400w,
                /media/bird-flying-away_hu9261922301974223104.webp 760w,
                /media/bird-flying-away_hu1419810120524350741.webp 1200w&#34;
-               src=&#34;//localhost:1313/media/bird-flying-away_hu14806664578354133516.webp&#34;
+               src=&#34;/media/bird-flying-away_hu14806664578354133516.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -336,9 +336,9 @@ If you would rather share information about these matters with a PSU staff membe
     
     <item>
       <title>References</title>
-      <link>//localhost:1313/wiki/references/</link>
+      <link>/wiki/references/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/wiki/references/</guid>
+      <guid>/wiki/references/</guid>
       <description>&lt;p&gt;Some of the content in this wiki is inspired by similar wikis from labs.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://atomslab.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ATOMS lab&lt;/a&gt;&lt;/li&gt;
@@ -351,14 +351,14 @@ If you would rather share information about these matters with a PSU staff membe
     
     <item>
       <title>CyberPDX 2024</title>
-      <link>//localhost:1313/post/07-29-24-cyberpdx/</link>
+      <link>/post/07-29-24-cyberpdx/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/07-29-24-cyberpdx/</guid>
+      <guid>/post/07-29-24-cyberpdx/</guid>
       <description>&lt;p&gt;About CyberPDX:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;CyberPDX is a no-cost 5-day residential summer STEAM camp hosted at the Portland State University Maseeh College of Engineering &amp;amp; Computer Science. This year&amp;rsquo;s camp is designed for Native and Indigenous high school students to introduce them to cybersecurity skills, principles, policies, and careers through an interactive STEAM curriculum and career exposure. All are welcome. The camp activities will be led by many PSU faculty and local experts, which includes local Indigenous leaders. This is an incredible opportunity for Native and Indigenous students to get an immersive, interdisciplinary, and fun experience on a college campus. No prior experience is necessary, and beginners are welcome!&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;This year&amp;rsquo;s CyberPDX had threads on Cryptography, Programming, Privacy, Policy and Film. &lt;a href=&#34;//localhost:1313/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt; was the instructor for the Privacy thread and &lt;a href=&#34;//localhost:1313/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt; was the Teaching Assistant. The topics covered in this thread include&lt;/p&gt;
+&lt;p&gt;This year&amp;rsquo;s CyberPDX had threads on Cryptography, Programming, Privacy, Policy and Film. &lt;a href=&#34;/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt; was the instructor for the Privacy thread and &lt;a href=&#34;/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt; was the Teaching Assistant. The topics covered in this thread include&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Importance of Privacy&lt;/li&gt;
 &lt;li&gt;Difference between Privacy and Security&lt;/li&gt;
@@ -371,33 +371,33 @@ If you would rather share information about these matters with a PSU staff membe
     
     <item>
       <title>RPE presentation - Anadi Shakya</title>
-      <link>//localhost:1313/post/06-21-24-anadi-rpe/</link>
+      <link>/post/06-21-24-anadi-rpe/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/06-21-24-anadi-rpe/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;//localhost:1313/author/anadi-shakya/&#34;&gt;Anadi Shakya&lt;/a&gt; successfully completed the oral part of her Research Profiency Examination (RPE) on &lt;strong&gt;‘Sieve and Cache: Scalable Access Control for Dynamic IoT Applications’&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Committee Members&lt;/strong&gt;: &lt;a href=&#34;//localhost:1313/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt; (Portland State University) ; Dave Maier (Portland State University) ; Wu-chang Feng (Portland State University)&lt;/p&gt;
+      <guid>/post/06-21-24-anadi-rpe/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/author/anadi-shakya/&#34;&gt;Anadi Shakya&lt;/a&gt; successfully completed the oral part of her Research Profiency Examination (RPE) on &lt;strong&gt;‘Sieve and Cache: Scalable Access Control for Dynamic IoT Applications’&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Committee Members&lt;/strong&gt;: &lt;a href=&#34;/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt; (Portland State University) ; Dave Maier (Portland State University) ; Wu-chang Feng (Portland State University)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: The proliferation of smart technologies and newer privacy regulations necessitate effective management of user preferences about data sharing using access control policies. Current Database Management Systems (DBMS) struggle to efficiently answer queries while enforcing a large number of Fine-Grained Access Control (FGAC) policies. Sieve is a middleware for relational DBMSs that generate guarded expressions, which are efficient rewriting of queries with a given set of policies. In this paper, we extend Sieve with caching of guarded expressions to better handle dynamic workloads involving a series of policy insertions and queries at different frequencies. Our novel caching approach includes a replacement policy based on clock algorithm and a refresh strategy based on cost analysis to select between regeneration and update of guarded expressions. We also develop a workload generator that creates different workloads with different distributions of policies, and queries that are relevant to a chosen scenario. These workloads simulate realistic IoT scenarios, such as smart campus applications. Experimental results show that Sieve, enhanced with caching, is effective in terms of cache-hits and efficient in terms of system load and latency of query answering, in dynamic environments.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>DIPr Lab at 2024 Summer Research Academy (SRA)</title>
-      <link>//localhost:1313/post/06-21-24-sra/</link>
+      <link>/post/06-21-24-sra/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/06-21-24-sra/</guid>
+      <guid>/post/06-21-24-sra/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Summer Research Academy (SRA) is designed to engage undergraduate students interested in making a difference in
 their communities by pursuing research opportunities in STEM, biomedical, behavioral, clinical, health, and social
 sciences.  Students do not have to have prior research experience to participate!&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;DIPr lab had a table at SRA 2024 with the following members attending (from left to right): &lt;a href=&#34;//localhost:1313/author/nicholas-g.e.-morales/&#34;&gt;Nicholas G.E. Morales&lt;/a&gt;, Michael Howard, &lt;a href=&#34;//localhost:1313/author/satvik-mudgal/&#34;&gt;Satvik Mudgal&lt;/a&gt;, &lt;a href=&#34;//localhost:1313/author/steve-willoughby/&#34;&gt;Steve Willoughby&lt;/a&gt;, &lt;a href=&#34;//localhost:1313/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt;, and &lt;a href=&#34;//localhost:1313/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt;. We had many interested undergraduates stop by our table to learn about our various research projects.&lt;/p&gt;
+&lt;p&gt;DIPr lab had a table at SRA 2024 with the following members attending (from left to right): &lt;a href=&#34;/author/nicholas-g.e.-morales/&#34;&gt;Nicholas G.E. Morales&lt;/a&gt;, Michael Howard, &lt;a href=&#34;/author/satvik-mudgal/&#34;&gt;Satvik Mudgal&lt;/a&gt;, &lt;a href=&#34;/author/steve-willoughby/&#34;&gt;Steve Willoughby&lt;/a&gt;, &lt;a href=&#34;/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt;, and &lt;a href=&#34;/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt;. We had many interested undergraduates stop by our table to learn about our various research projects.&lt;/p&gt;
 &lt;p&gt;To learn more about, please check out their website &lt;a href=&#34;https://sites.google.com/pdx.edu/2024-sra/home-page?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2024 SRA website&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Securing IoT Communication Protocols at Scale</title>
-      <link>//localhost:1313/project/pubsubcontrol/</link>
+      <link>/project/pubsubcontrol/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/pubsubcontrol/</guid>
+      <guid>/project/pubsubcontrol/</guid>
       <description>&lt;p&gt;The world of the connected “Internet of Things” is expanding to include more devices which observe our daily lives, routines, locations, and even our state of health. But have the underlying protocols by which they communicate this data kept pace with the need to protect our privacy and security?&lt;/p&gt;
 &lt;p&gt;In this project, we will investigate various “middleware” approaches to injecting dynamic access control agents into existing MQTT broker servers and measure their performance on real and/or simulated network environments as well as their resilience to security threats.&lt;/p&gt;
 &lt;p&gt;We seek to strengthen the protocols underlying the communication between IoT devices, such as MQTT, to adjudicate who is authorized to access which information, where the access parameters may rapidly and frequently change, without impacting performance, based on the implications of the MQTT message topic hierarchical structure combined with geospacial security policy “zones” and techniques to simplfy and consolidate policy rules in real time.&lt;/p&gt;
@@ -406,9 +406,9 @@ sciences.  Students do not have to have prior research experience to participate
     
     <item>
       <title>Accord</title>
-      <link>//localhost:1313/project/accord/</link>
+      <link>/project/accord/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/accord/</guid>
+      <guid>/project/accord/</guid>
       <description>&lt;p&gt;Users are increasingly adopting collaborative cloud services like Google Drive.
 The lack of fine-grained access controls on many cloud services make actions that violate the expectations of other users likely, resulting in multiuser conflicts.
 For example, a user with editor permissions may add a user outside the organization and revoke the permissions of another user, all without consent from the original resource owner.
@@ -423,44 +423,44 @@ Then, using these action constraints, ACCORD can automatically detect future con
     
     <item>
       <title>Blue Crab</title>
-      <link>//localhost:1313/project/bluecrab/</link>
+      <link>/project/bluecrab/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/bluecrab/</guid>
+      <guid>/project/bluecrab/</guid>
       <description>&lt;p&gt;Blue Crab is a mobile app based on Flutter, which combines GPS with Bluetooth scanning to detect unwanted trackers. Its purpose is to experiment with alternative methods to prevent unwanted trackers by taking a proactive approach, allowing users to see a report about all the devices of concern around them&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sieve</title>
-      <link>//localhost:1313/project/sieve/</link>
+      <link>/project/sieve/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/sieve/</guid>
+      <guid>/project/sieve/</guid>
       <description>&lt;p&gt;SIEVE is a versatile middleware that enhances access control in DBMS, enabling efficient query processing even with a large number of access control policies. We&amp;rsquo;re currently integrating caching to further improve query performance. Additionally, we&amp;rsquo;ve developed a workload generator that simulates various scenarios to test policy models and ensure access control compliance, reflecting real-world conditions.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Tattletale</title>
-      <link>//localhost:1313/project/tattletale/</link>
+      <link>/project/tattletale/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/tattletale/</guid>
+      <guid>/project/tattletale/</guid>
       <description>&lt;p&gt;Tattletale uses denial constraints to discovery data inferences inside of a database relative to sensitive cells.  The cells that make up the denial constraints are then checked to see which cells infer information on them.  In the end all the cells that infer data on the sensitive cells and the cells that could be used to reconstruct those inferences are placed into a list which is used to generate a view that does not contain those cells.  Since inference can only be reconstructed as long as only one predicate is missing we can use that to minimize how many cells we have to hide.  The benefit of Tattletale is that it provides protection against inference which access control lists don&amp;rsquo;t provide.  The current challenge is trying to improve the run time performance and decrease the number of cells that have to be hidden while also guaranteeing a certain level of protection against reconstruction.Tattletale uses denial constraints to discovery data inferences inside of a database relative to sensitive cells.  The cells that make up the denial constraints are then checked to see which cells infer information on them.  In the end all the cells that infer data on the sensitive cells and the cells that could be used to reconstruct those inferences are placed into a list which is used to generate a view that does not contain those cells.  Since inference can only be reconstructed as long as only one predicate is missing we can use that to minimize how many cells we have to hide.  The benefit of Tattletale is that it provides protection against inference which access control lists don&amp;rsquo;t provide.  The current challenge is trying to improve the run time performance and decrease the number of cells that have to be hidden while also guaranteeing a certain level of protection against reconstruction.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome to DIPr lab at PSU</title>
-      <link>//localhost:1313/post/21-01-24-launch/</link>
+      <link>/post/21-01-24-launch/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/21-01-24-launch/</guid>
+      <guid>/post/21-01-24-launch/</guid>
       <description>&lt;p&gt;The Database &amp;amp; Internet Privacy Lab offically starts at the Portland State University. We are a diverse group of researchers studying problems in user privacy, data management, access control, differential privacy, systems, algorithms, and privacy regulations.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>//localhost:1313/contact/</link>
+      <link>/contact/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/contact/</guid>
+      <guid>/contact/</guid>
       <description>&lt;!-- 
 Photo by &lt;a href=&#34;https://unsplash.com/@tobiastu?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash&#34;&gt;Tobias Tullius&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/photos/black-and-white-rectangular-frame-4dKy7d3lkKM?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash&#34;&gt;Unsplash&lt;/a&gt;
    --&gt;</description>
@@ -468,41 +468,41 @@ Photo by &lt;a href=&#34;https://unsplash.com/@tobiastu?utm_content=creditCopyTe
     
     <item>
       <title>People</title>
-      <link>//localhost:1313/members/</link>
+      <link>/members/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/members/</guid>
+      <guid>/members/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ACCORD: Constraint-driven mediation of multi-user conflicts in cloud services</title>
-      <link>//localhost:1313/publication/accord/</link>
+      <link>/publication/accord/</link>
       <pubDate>Wed, 31 Dec 1969 16:33:44 -0800</pubDate>
-      <guid>//localhost:1313/publication/accord/</guid>
+      <guid>/publication/accord/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants</title>
-      <link>//localhost:1313/publication/genaipa/</link>
+      <link>/publication/genaipa/</link>
       <pubDate>Wed, 31 Dec 1969 16:33:44 -0800</pubDate>
-      <guid>//localhost:1313/publication/genaipa/</guid>
+      <guid>/publication/genaipa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dont Be a Tattle-Tale: Preventing Leakages through Data Dependencies on Access Control Protected Data</title>
-      <link>//localhost:1313/publication/tattle-tale/</link>
+      <link>/publication/tattle-tale/</link>
       <pubDate>Wed, 31 Dec 1969 16:33:40 -0800</pubDate>
-      <guid>//localhost:1313/publication/tattle-tale/</guid>
+      <guid>/publication/tattle-tale/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/admin/</link>
+      <link>/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/admin/</guid>
+      <guid>/admin/</guid>
       <description>&lt;!-- ---
 # Generate Wowchemy CMS
 type: wowchemycms

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abhiroop Tippavajjula, Primal Pappachan, Anna Squicciarini, Jose Such | DIPr Lab at PSU</title>
-    <link>//localhost:1313/author/abhiroop-tippavajjula-primal-pappachan-anna-squicciarini-jose-such/</link>
-      <atom:link href="//localhost:1313/author/abhiroop-tippavajjula-primal-pappachan-anna-squicciarini-jose-such/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/abhiroop-tippavajjula-primal-pappachan-anna-squicciarini-jose-such/</link>
+      <atom:link href="/author/abhiroop-tippavajjula-primal-pappachan-anna-squicciarini-jose-such/index.xml" rel="self" type="application/rss+xml" />
     <description>Abhiroop Tippavajjula, Primal Pappachan, Anna Squicciarini, Jose Such</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 1969 16:33:44 -0800</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu11534601174274055989.png</url>
+      <url>/media/icon_hu11534601174274055989.png</url>
       <title>Abhiroop Tippavajjula, Primal Pappachan, Anna Squicciarini, Jose Such</title>
-      <link>//localhost:1313/author/abhiroop-tippavajjula-primal-pappachan-anna-squicciarini-jose-such/</link>
+      <link>/author/abhiroop-tippavajjula-primal-pappachan-anna-squicciarini-jose-such/</link>
     </image>
     
     <item>
       <title>ACCORD: Constraint-driven mediation of multi-user conflicts in cloud services</title>
-      <link>//localhost:1313/publication/accord/</link>
+      <link>/publication/accord/</link>
       <pubDate>Wed, 31 Dec 1969 16:33:44 -0800</pubDate>
-      <guid>//localhost:1313/publication/accord/</guid>
+      <guid>/publication/accord/</guid>
       <description></description>
     </item>
     

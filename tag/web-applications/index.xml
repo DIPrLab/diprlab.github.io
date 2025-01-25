@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Applications | DIPr Lab at PSU</title>
-    <link>//localhost:1313/tag/web-applications/</link>
-      <atom:link href="//localhost:1313/tag/web-applications/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/web-applications/</link>
+      <atom:link href="/tag/web-applications/index.xml" rel="self" type="application/rss+xml" />
     <description>Web Applications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu11534601174274055989.png</url>
+      <url>/media/icon_hu11534601174274055989.png</url>
       <title>Web Applications</title>
-      <link>//localhost:1313/tag/web-applications/</link>
+      <link>/tag/web-applications/</link>
     </image>
     
     <item>
       <title>Accord</title>
-      <link>//localhost:1313/project/accord/</link>
+      <link>/project/accord/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/accord/</guid>
+      <guid>/project/accord/</guid>
       <description>&lt;p&gt;Users are increasingly adopting collaborative cloud services like Google Drive.
 The lack of fine-grained access controls on many cloud services make actions that violate the expectations of other users likely, resulting in multiuser conflicts.
 For example, a user with editor permissions may add a user outside the organization and revoke the permissions of another user, all without consent from the original resource owner.
