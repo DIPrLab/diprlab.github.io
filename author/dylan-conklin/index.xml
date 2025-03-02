@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Blue Crab</title>
+      <title>BL(u)E CRAB</title>
       <link>/project/bluecrab/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/project/bluecrab/</guid>
-      <description>&lt;p&gt;Blue Crab is a mobile app based on Flutter, which combines GPS with Bluetooth scanning to detect unwanted trackers. Its purpose is to experiment with alternative methods to prevent unwanted trackers by taking a proactive approach, allowing users to see a report about all the devices of concern around them&lt;/p&gt;
+      <description>&lt;p&gt;BL(u)E CRAB is a Flutter-based mobile app, which leverages various risk factors and dynamic thresholds to detect unwanted Bluetooth Low Energy (BLE) trackers. It allows users to take a proactive approach to prevent unwanted tracking by allowing users to see a report about all surrounding devices of concern.&lt;/p&gt;
 </description>
     </item>
     

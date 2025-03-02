@@ -68,7 +68,7 @@ Graduate admissions are done by Grad admissions committee that processes all app
 &lt;!-- Note: This only applies to currently enrolled undergrad and M.S students at Portland State University.  --&gt;
 &lt;!-- The DIPr lab is focused on designing better data protection mechanisms for databases.  Undergraduate researchers will start by contributing to ongoing projects listed in the [home page](/). The activities may involve developing software prototypes, participating in research meetings, reading research papers, presenting results etc.  --&gt;
 &lt;p&gt;&lt;strong&gt;Ph.D. applicants&lt;/strong&gt;: When reaching out to Dr. Primal after completing the graduate application, please include your: (1) CV (including a link to your GitHub profile and website), (2) a description of your previous research experience and interests, and (3) specific information about which research projects in the lab interests you and why. Emails without these information may be ignored.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;M.S. applicants&lt;/strong&gt;: This only applies to currently enrolled M.S. students. After going through projects in the lab, if you are interested in applying to be part of the lab, send an email including: (1) your resume (PDF), (2) unofficial copy of your first year transcript (PDF), and (3) few paragraphs explaining why you’d like to work in our lab. To write this well, I suggest you look at some of our &lt;a href=&#34;/publication/&#34;&gt;previous publications&lt;/a&gt; to orient yourself to our current projects. Make the subject of your email Masters Application” and send this to Dr. Primal. You are welcome to join the weekly group meetings (see &lt;a href=&#34;/expectations&#34;&gt;Expectations&lt;/a&gt;) to learn more about the ongoing projects and connect with lab members.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;M.S. applicants&lt;/strong&gt;: This only applies to currently enrolled M.S. students. After going through projects in the lab, if you are interested in applying to be part of the lab, send an email including: (1) your resume (PDF), (2) unofficial copy of your first year transcript (PDF), and (3) few paragraphs explaining why you’d like to work in our lab. To write this well, I suggest you look at some of our &lt;a href=&#34;/publication/&#34;&gt;previous publications&lt;/a&gt; to orient yourself to our current projects. Make the subject of your email &amp;ldquo;Masters Application&amp;rdquo; and send this to Dr. Primal. You are welcome to join the weekly group meetings (see &lt;a href=&#34;/expectations&#34;&gt;Expectations&lt;/a&gt;) to learn more about the ongoing projects and connect with lab members.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Undergrad applicants&lt;/strong&gt;: This only applies to currently enrolled undergrad students. After going through projects in the lab, if you are interested in applying to be part of the lab, send an email including: (1) your resume (PDF), (2) unofficial copy of your transcript (PDF); freshman can send high school transcript (PDF), and (3) few paragraphs explaining why you’d like to work in our lab. To write this well, I suggest you look at some of our &lt;a href=&#34;/publication/&#34;&gt;previous publications&lt;/a&gt; to orient yourself to our current projects. Make the subject of your email “Undergrad Application” and send this to Dr. Primal. You are welcome to join the weekly group meetings (see &lt;a href=&#34;/expectations&#34;&gt;Expectations&lt;/a&gt;) to learn more about the ongoing projects and connect with lab members.&lt;/p&gt;
 </description>
     </item>
@@ -355,7 +355,7 @@ If you would rather share information about these matters with a PSU staff membe
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
       <guid>/post/02-07-25-nwds/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://db.cs.washington.edu/events/database_day/2025/database_day_2025.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Northwest Database Society&lt;/a&gt; Annual Meeting brings together researchers and practitioners from the greater Pacific Northwest for a day of technical talks and networking on the broad topic of data management systems.
-DIPr lab members  (from left to right): Orobosa Ekhator, &lt;a href=&#34;/author/anadi-shakya/&#34;&gt;Anadi Shakya&lt;/a&gt;, and &lt;a href=&#34;/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt; attended the full day event at University of Washington, Seattle.&lt;/p&gt;</description>
+DIPr lab members (from left to right): &lt;a href=&#34;/author/orobosa-ekhator/&#34;&gt;Orobosa Ekhator&lt;/a&gt;, &lt;a href=&#34;/author/anadi-shakya/&#34;&gt;Anadi Shakya&lt;/a&gt;, and &lt;a href=&#34;/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt; attended the full day event at University of Washington, Seattle.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -431,11 +431,11 @@ Then, using these action constraints, ACCORD can automatically detect future con
     </item>
     
     <item>
-      <title>Blue Crab</title>
+      <title>BL(u)E CRAB</title>
       <link>/project/bluecrab/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/project/bluecrab/</guid>
-      <description>&lt;p&gt;Blue Crab is a mobile app based on Flutter, which combines GPS with Bluetooth scanning to detect unwanted trackers. Its purpose is to experiment with alternative methods to prevent unwanted trackers by taking a proactive approach, allowing users to see a report about all the devices of concern around them&lt;/p&gt;
+      <description>&lt;p&gt;BL(u)E CRAB is a Flutter-based mobile app, which leverages various risk factors and dynamic thresholds to detect unwanted Bluetooth Low Energy (BLE) trackers. It allows users to take a proactive approach to prevent unwanted tracking by allowing users to see a report about all surrounding devices of concern.&lt;/p&gt;
 </description>
     </item>
     
@@ -455,6 +455,22 @@ Then, using these action constraints, ACCORD can automatically detect future con
       <guid>/project/tattletale/</guid>
       <description>&lt;p&gt;Tattletale uses denial constraints to discovery data inferences inside of a database relative to sensitive cells.  The cells that make up the denial constraints are then checked to see which cells infer information on them.  In the end all the cells that infer data on the sensitive cells and the cells that could be used to reconstruct those inferences are placed into a list which is used to generate a view that does not contain those cells.  Since inference can only be reconstructed as long as only one predicate is missing we can use that to minimize how many cells we have to hide.  The benefit of Tattletale is that it provides protection against inference which access control lists don&amp;rsquo;t provide.  The current challenge is trying to improve the run time performance and decrease the number of cells that have to be hidden while also guaranteeing a certain level of protection against reconstruction.Tattletale uses denial constraints to discovery data inferences inside of a database relative to sensitive cells.  The cells that make up the denial constraints are then checked to see which cells infer information on them.  In the end all the cells that infer data on the sensitive cells and the cells that could be used to reconstruct those inferences are placed into a list which is used to generate a view that does not contain those cells.  Since inference can only be reconstructed as long as only one predicate is missing we can use that to minimize how many cells we have to hide.  The benefit of Tattletale is that it provides protection against inference which access control lists don&amp;rsquo;t provide.  The current challenge is trying to improve the run time performance and decrease the number of cells that have to be hidden while also guaranteeing a certain level of protection against reconstruction.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>ACCORD: Constraint-driven mediation of multi-user conflicts in cloud services</title>
+      <link>/publication/accord/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/accord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants</title>
+      <link>/publication/genaipa/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/genaipa/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -484,25 +500,9 @@ Photo by &lt;a href=&#34;https://unsplash.com/@tobiastu?utm_content=creditCopyTe
     </item>
     
     <item>
-      <title>ACCORD: Constraint-driven mediation of multi-user conflicts in cloud services</title>
-      <link>/publication/accord/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:44 -0800</pubDate>
-      <guid>/publication/accord/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants</title>
-      <link>/publication/genaipa/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:44 -0800</pubDate>
-      <guid>/publication/genaipa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Don&#39;t Be a Tattle-Tale: Preventing Leakages through Data Dependencies on Access Control Protected Data</title>
       <link>/publication/tattle-tale/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:40 -0800</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/publication/tattle-tale/</guid>
       <description></description>
     </item>
