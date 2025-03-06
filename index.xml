@@ -350,6 +350,27 @@ If you would rather share information about these matters with a PSU staff membe
     </item>
     
     <item>
+      <title>EduPrivacy</title>
+      <link>/project/eduprivacy/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/project/eduprivacy/</guid>
+      <description>&lt;p&gt;EduPrivacy is an educational website design to help children
+learn about different aspects of online privacy. It presents
+lessons in the format of comics, and then quizzes them on
+their knowledge after each lesson.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Access Control in Vector Databases</title>
+      <link>/project/vectordb-access-control/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/project/vectordb-access-control/</guid>
+      <description>&lt;p&gt;Vector databases are particularly well-suited for similarity search using search algorithms like approximate nearest neighbor (ANN) search and they are used in development of Retrieval-Augmented Generation (RAG) systems, to reduce hallucinations in responses of AI systems. One significant challenge in using vector databases, especially in applications like RAG, is ensuring data privacy and security. For example, a clothing company that builds an AI chatbot that interacts with a vector database containing customer orders and product data could expose sensitive customer information without proper access restrictions. Incorporating Fine-Grained Access Control in vector databases is important for enforcing user preferences on data sharing and complying with privacy regulations. This project explores how to embed fine-grained access control within vector databases to ensure secure and privacy-compliant query answering.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DIPr Lab at NorthWest Database Society (2025) Meeting</title>
       <link>/post/02-07-25-nwds/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
@@ -435,7 +456,7 @@ Then, using these action constraints, ACCORD can automatically detect future con
       <link>/project/bluecrab/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/project/bluecrab/</guid>
-      <description>&lt;p&gt;BL(u)E CRAB is a Flutter-based mobile app, which leverages various risk factors and dynamic thresholds to detect unwanted Bluetooth Low Energy (BLE) trackers. It allows users to take a proactive approach to prevent unwanted tracking by allowing users to see a report about all surrounding devices of concern.&lt;/p&gt;
+      <description>&lt;p&gt;Detecting unwanted or suspicious Bluetooth Low Energy (BLE)-based trackers is challenging, due in part to cross-platform compatibility issues, and inconsistent detection methods. BL(u)E CRAB identifies suspicious BLE trackers based on various risk factors including the number of encounters, time with the user, distance traveled with the user, number of areas each device appeared in and device proximity to user. BL(u)E CRAB presents this information in an intuitive way to help users determine which devices pose the biggest threat to them based on their context.&lt;/p&gt;
 </description>
     </item>
     

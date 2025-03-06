@@ -5,7 +5,7 @@
     <link>/tag/safety/</link>
       <atom:link href="/tag/safety/index.xml" rel="self" type="application/rss+xml" />
     <description>Safety</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu11534601174274055989.png</url>
       <title>Safety</title>
@@ -13,11 +13,23 @@
     </image>
     
     <item>
+      <title>EduPrivacy</title>
+      <link>/project/eduprivacy/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/project/eduprivacy/</guid>
+      <description>&lt;p&gt;EduPrivacy is an educational website design to help children
+learn about different aspects of online privacy. It presents
+lessons in the format of comics, and then quizzes them on
+their knowledge after each lesson.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>BL(u)E CRAB</title>
       <link>/project/bluecrab/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/project/bluecrab/</guid>
-      <description>&lt;p&gt;BL(u)E CRAB is a Flutter-based mobile app, which leverages various risk factors and dynamic thresholds to detect unwanted Bluetooth Low Energy (BLE) trackers. It allows users to take a proactive approach to prevent unwanted tracking by allowing users to see a report about all surrounding devices of concern.&lt;/p&gt;
+      <description>&lt;p&gt;Detecting unwanted or suspicious Bluetooth Low Energy (BLE)-based trackers is challenging, due in part to cross-platform compatibility issues, and inconsistent detection methods. BL(u)E CRAB identifies suspicious BLE trackers based on various risk factors including the number of encounters, time with the user, distance traveled with the user, number of areas each device appeared in and device proximity to user. BL(u)E CRAB presents this information in an intuitive way to help users determine which devices pose the biggest threat to them based on their context.&lt;/p&gt;
 </description>
     </item>
     
