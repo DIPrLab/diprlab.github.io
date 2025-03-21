@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dylan Conklin | DIPr Lab at PSU</title>
+    <link>/author/dylan-conklin/</link>
+      <atom:link href="/author/dylan-conklin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dylan Conklin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/dylan-conklin/avatar_hu_eda51fab252b3047.png</url>
+      <title>Dylan Conklin</title>
+      <link>/author/dylan-conklin/</link>
+    </image>
+    
+    <item>
+      <title>BL(u)E CRAB</title>
+      <link>/project/bluecrab/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/project/bluecrab/</guid>
+      <description>&lt;p&gt;Detecting unwanted or suspicious Bluetooth Low Energy (BLE)-based trackers is challenging, due in part to cross-platform compatibility issues, and inconsistent detection methods. BL(u)E CRAB identifies suspicious BLE trackers based on various risk factors including the number of encounters, time with the user, distance traveled with the user, number of areas each device appeared in and device proximity to user. BL(u)E CRAB presents this information in an intuitive way to help users determine which devices pose the biggest threat to them based on their context.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
