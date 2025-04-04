@@ -7,13 +7,13 @@
     <description>Access Control</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu_f3015b549a964d47.png</url>
+      <url>/media/logo_hu_f67add51057eb433.png</url>
       <title>Access Control</title>
       <link>/tag/access-control/</link>
     </image>
     
     <item>
-      <title>Access Control in Vector Databases</title>
+      <title>Fine Grained Access Control in Vector Databases</title>
       <link>/project/vectordb-access-control/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       <guid>/project/vectordb-access-control/</guid>
