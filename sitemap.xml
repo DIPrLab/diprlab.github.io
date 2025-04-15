@@ -300,5 +300,11 @@
   </url><url>
     <loc>/author/vipul-puttaswamy-gowda/</loc>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/your_first_name-your_last_name/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/your_first_name-your_last_name/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
