@@ -350,6 +350,74 @@ If you would rather share information about these matters with a PSU staff membe
     </item>
     
     <item>
+      <title>Spring 2025 Week 3</title>
+      <link>/dbrg/events/spring_2025_03/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/dbrg/events/spring_2025_03/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      PDX: A Data Layout for Vector Similarity Search
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Leonardo Kuffo, Elena Krippner, and Peter Boncz from CWI Amsterdam, The Netherlands
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      We propose Partition Dimensions Across (PDX), a data layout for vectors (e.g., embeddings) that, similar to PAX, stores multiple vectors in one block, using a vertical layout for the dimensions (Figure 1). PDX accelerates exact and approximate similarity search thanks to its dimension-by-dimension search strategy that operates on multiple-vectors-at-a-time in tight loops. It beats SIMD-optimized distance kernels on standard horizontal vector storage (avg 40% faster), only relying on scalar code that gets auto-vectorized. We combined the PDX layout with recent dimension-pruning algorithms ADSampling and BSA that accelerate approximate vector search. We found that these algorithms on the horizontal vector layout can lose to SIMD-optimized linear scans, even if they are SIMD-optimized. However, when used on PDX, their benefit is restored to 2-7x. We find that search on PDX is especially fast if a limited number of dimensions has to be scanned fully, which is what the dimension-pruning approaches do. We finally introduce PDX-BOND, an even more flexible dimension-pruning strategy, with good performance on exact search and reasonable performance on approximate search. Unlike previous pruning algorithms, it can work on vector data &#34;as-is&#34; without preprocessing; making it attractive for vector databases with frequent updates.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spring 2025 Week 1</title>
+      <link>/dbrg/events/spring_2025_01/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/dbrg/events/spring_2025_01/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Yuzheng Cai, Jiayang Shi, Yizhuo Chen, Weigue Zheng
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      Given a query vector, approximate nearest neighbor search (ANNS) aims to retrieve similar vectors from a set of high-dimensional base vectors. However, many real-world applications jointly query both vector data and structured data, imposing label constraints such as attributes and keywords on the search, known as filtered ANNS. Effectively incorporating filtering conditions with vector similarity presents significant challenges, including index for dynamically filtered search space, agnostic query labels, computational overhead for label-irrelevant vectors, and potential inadequacy in returning results. To tackle these challenges, we introduce a novel approach called the Label Navigating Graph, which encodes the containment relationships of label sets for all vectors. Built upon graph-based ANNS methods, we develop a general framework termed Unified Navigating Graph (UNG) to bridge the gap between label set containment and vector proximity relations. UNG offers several advantages, including versatility in supporting any query label size and specificity, fidelity in exclusively searching filtered vectors, completeness in providing sufficient answers, and adaptability in integration with most graph-based ANNS algorithms. Extensive experiments on real datasets demonstrate that the proposed framework outperforms all baselines, achieving 10x speedups at the same accuracy.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DIPr Lab at PERCOM 2025</title>
       <link>/post/18-03-25-percom/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
@@ -522,9 +590,10 @@ Then, using these action constraints, ACCORD can automatically detect future con
       <link>/contact/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
       <guid>/contact/</guid>
-      <description>&lt;!-- 
+      <description>&lt;!--
 Photo by &lt;a href=&#34;https://unsplash.com/@tobiastu?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash&#34;&gt;Tobias Tullius&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/photos/black-and-white-rectangular-frame-4dKy7d3lkKM?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash&#34;&gt;Unsplash&lt;/a&gt;
-   --&gt;</description>
+   --&gt;
+</description>
     </item>
     
     <item>

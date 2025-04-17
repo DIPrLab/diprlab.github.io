@@ -30,8 +30,28 @@
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/dbrg/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/lakshmi-sahithi/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/dbrg/events/spring_2025_03/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/primal-pappachan/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/dbrg/events/spring_2025_01/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/post/18-03-25-percom/</loc>
@@ -40,10 +60,6 @@
   </url><url>
     <loc>/post/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/education/</loc>
@@ -111,10 +127,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/inference-control/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/author/lakshmi-sahithi/</loc>
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -281,9 +293,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/orobosa-ekhator/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/author/primal-pappachan/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/roberto-yus/</loc>
