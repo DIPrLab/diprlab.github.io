@@ -31,18 +31,26 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/dbrg/</loc>
-    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/dave-meier/</loc>
+    <lastmod>2025-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/dbrg/events/2025_spring_04/</loc>
+    <lastmod>2025-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/lakshmi-sahithi/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/dbrg/events/spring_2025_03/</loc>
+    <loc>/dbrg/events/2025_spring_03/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -50,7 +58,7 @@
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/dbrg/events/spring_2025_01/</loc>
+    <loc>/dbrg/events/2025_spring_01/</loc>
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -94,10 +102,6 @@
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication-type/7/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/publication/bluecrab/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -115,6 +119,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/source-themes/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication-type/thesis/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -230,10 +238,6 @@
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/author/aamir-hamid-hemanth-reddy-samidi-tim-finin-primal-pappachan-roberto-yus/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -243,6 +247,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/accord/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication-type/conference/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -274,6 +282,10 @@
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -284,9 +296,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/chelsea-teh/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/author/dave-meier/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/julay-leatherman-brooks/</loc>

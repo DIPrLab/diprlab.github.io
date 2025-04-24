@@ -350,10 +350,44 @@ If you would rather share information about these matters with a PSU staff membe
     </item>
     
     <item>
+      <title>Spring 2025 Week 4</title>
+      <link>/dbrg/events/2025_spring_04/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/dbrg/events/2025_spring_04/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      How good are query optimizers, really?
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Viktor Leis, Andrey Gubichev, Atanas Mirchev, Peter Boncz, Alfons Kemper, Thomas Neumann
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      Finding a good join order is crucial for query performance. In this paper, we introduce the Join Order Benchmark (JOB) and experimentally revisit the main components in the classic query optimizer architecture using a complex, real-world data set and realistic multi-join queries. We investigate the quality of industrial-strength cardinality estimators and find that all estimators routinely produce large errors. We further show that while estimates are essential for finding a good join order, query performance is unsatisfactory if the query engine relies too heavily on these estimates. Using another set of experiments that measure the impact of the cost model, we find that it has much less influence on query performance than the cardinality estimates. Finally, we investigate plan enumeration techniques comparing exhaustive dynamic programming with heuristic algorithms and find that exhaustive enumeration improves performance despite the sub-optimal cardinality estimates.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Spring 2025 Week 3</title>
-      <link>/dbrg/events/spring_2025_03/</link>
+      <link>/dbrg/events/2025_spring_03/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/dbrg/events/spring_2025_03/</guid>
+      <guid>/dbrg/events/2025_spring_03/</guid>
       <description>&lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
@@ -385,9 +419,9 @@ If you would rather share information about these matters with a PSU staff membe
     
     <item>
       <title>Spring 2025 Week 1</title>
-      <link>/dbrg/events/spring_2025_01/</link>
+      <link>/dbrg/events/2025_spring_01/</link>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/dbrg/events/spring_2025_01/</guid>
+      <guid>/dbrg/events/2025_spring_01/</guid>
       <description>&lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
@@ -422,8 +456,9 @@ If you would rather share information about these matters with a PSU staff membe
       <link>/post/18-03-25-percom/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <guid>/post/18-03-25-percom/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.percom.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE PERCOM&lt;/a&gt; is an annual meeting that brings together researchers and practitioners of pervasive computing and communications for technical talks and networking on the broad topic of pervasive computing.
-&lt;a href=&#34;/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt; presented the demo paper and a live demonstration of &lt;a href=&#34;../../project/bluecrab&#34;&gt;BL(u)E CRAB&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.percom.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE PERCOM&lt;/a&gt; is an annual meeting that brings together researchers and practitioners of pervasive computing and communications for technical talks and networking on the broad topic of pervasive computing. &lt;a href=&#34;/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt; presented the demo paper and a live demonstration of &lt;a href=&#34;../../project/bluecrab&#34;&gt;BL(u)E CRAB&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We thank the &lt;a href=&#34;https://www.nsf.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Science Foundation (NSF)&lt;/a&gt; for awarding &lt;a href=&#34;/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt; a travel grant for this conference.&lt;/p&gt;
+</description>
     </item>
     
     <item>
