@@ -5,12 +5,46 @@
     <link>/dbrg/</link>
       <atom:link href="/dbrg/index.xml" rel="self" type="application/rss+xml" />
     <description>Database Reading Group</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo_hu_f67add51057eb433.png</url>
       <title>Database Reading Group</title>
       <link>/dbrg/</link>
     </image>
+    
+    <item>
+      <title>Spring 2025 Week 5</title>
+      <link>/dbrg/events/2025_spring_05/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>/dbrg/events/2025_spring_05/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      Grouping, Subsumption, and Disjunctive Join Optimizations in Oracle
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Rafi Ahmed, Krishna Kantikiran Pasupuleti, Sriram Tirupattur, Lei Sheng, Hong Su, Mohamed Ziauddin
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      Query optimization must evolve with new workloads. As analytic and data warehouse workloads become more ubiquitous, optimization techniques that reduce the amount of data processed during query execution, enable shared computation and avoid expensive data access and joins must be rigorously explored. In this paper, we present aggregate-decomposition techniques as enhancements to an existing query transformation that performs grouping before joins. Consequently, the transformation generates more query rewrite candidates and can also be applied to a larger set of queries. Further, we introduce two new query transformations, i) subsumption of views and subqueries that explores opportunities for sharing computation and ii) union-all duplicator transformation for queries with disjunctive join predicates that removes the need for multiple data access and joins. These techniques are applicable to commonly noticed query patterns in customer workloads and provide significant performance benefit as indicated in our performance study. They have been implemented in Oracle RDBMS.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Spring 2025 Week 4</title>
