@@ -30,15 +30,31 @@
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/anadi-shakya/</loc>
-    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/dbrg/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/orobosa-ekhator/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/dbrg/events/2025_spring_08/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/dbrg/events/2025_spring_07/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/steve-willoughby/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/anadi-shakya/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -186,10 +202,6 @@
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/steve-willoughby/</loc>
-    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/project/accord/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -303,9 +315,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/julay-leatherman-brooks/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/author/orobosa-ekhator/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/roberto-yus/</loc>

@@ -5,12 +5,46 @@
     <link>/author/steve-willoughby/</link>
       <atom:link href="/author/steve-willoughby/index.xml" rel="self" type="application/rss+xml" />
     <description>Steve Willoughby</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/steve-willoughby/avatar_hu_6296aa5e920ce26b.png</url>
       <title>Steve Willoughby</title>
       <link>/author/steve-willoughby/</link>
     </image>
+    
+    <item>
+      <title>Spring 2025 Week 7</title>
+      <link>/dbrg/events/2025_spring_07/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>/dbrg/events/2025_spring_07/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      Highly Efficient and Scalable Access Control Mechanism for IoT Devices in Pervasive Environments
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Alian Yu, Jian Kang, Wei Jiang and Dan Lin
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      With the continuous advancement of sensing, networking, controlling, and computing technologies, there is a growing number of IoT (Internet of Things) devices emerging that are expected to integrate into public infrastructure in the near future. However, the deployment of these smart devices in public venues presents new challenges for existing access control mechanisms, particularly in terms of efficiency. To address these challenges, we have developed a highly efficient and scalable access control mechanism that enables automatic and fine-grained access control management while incurring low overhead in large-scale settings. Our mechanism includes a dual-hierarchy access control structure and associated information retrieval algorithms, which we have used to develop a large-scale IoT device access control system called FACT+. FACT+ overcomes the efficiency issues of granting and inquiring access control status over millions of devices in pervasive environments. Additionally, our system offers a pay-and-consume scheme and plug-and-play device management for convenient adoption by service providers. We have conducted extensive experiments to demonstrate the practicality, effectiveness, and efficiency of our access control mechanism.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Securing IoT Communication Protocols at Scale</title>

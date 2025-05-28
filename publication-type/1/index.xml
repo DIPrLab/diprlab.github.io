@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | DIPr Lab at PSU</title>
+    <link>//localhost:1313/publication-type/1/</link>
+      <atom:link href="//localhost:1313/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 1969 16:33:44 -0800</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu_f3015b549a964d47.png</url>
+      <title>1</title>
+      <link>//localhost:1313/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>ACCORD: Constraint-driven mediation of multi-user conflicts in cloud services</title>
+      <link>//localhost:1313/publication/accord/</link>
+      <pubDate>Wed, 31 Dec 1969 16:33:44 -0800</pubDate>
+      <guid>//localhost:1313/publication/accord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants</title>
+      <link>//localhost:1313/publication/genaipa/</link>
+      <pubDate>Wed, 31 Dec 1969 16:33:44 -0800</pubDate>
+      <guid>//localhost:1313/publication/genaipa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Be a Tattle-Tale: Preventing Leakages through Data Dependencies on Access Control Protected Data</title>
+      <link>//localhost:1313/publication/tattle-tale/</link>
+      <pubDate>Wed, 31 Dec 1969 16:33:40 -0800</pubDate>
+      <guid>//localhost:1313/publication/tattle-tale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

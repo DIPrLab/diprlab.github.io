@@ -5,12 +5,80 @@
     <link>/dbrg/</link>
       <atom:link href="/dbrg/index.xml" rel="self" type="application/rss+xml" />
     <description>Database Reading Group</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo_hu_f67add51057eb433.png</url>
       <title>Database Reading Group</title>
       <link>/dbrg/</link>
     </image>
+    
+    <item>
+      <title>Spring 2025 Week 8</title>
+      <link>/dbrg/events/2025_spring_08/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>/dbrg/events/2025_spring_08/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      In-Database Time Series Clustering
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Yunxiang Su, Kenny Ye Liang, Shaoxu Song
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      Time series data are often clustered repeatedly across various time ranges to mine frequent subsequence patterns from different periods, which could further support downstream applications. Existing state-of-the-art (SOTA) time series clustering method, such as K-Shape, can proficiently cluster time series data referring to their shapes. However, in-database time series clustering problem has been neglected, especially in IoT scenarios with large-volume data and high efficiency demands. Most time series databases employ LSM-Tree based storage to support intensive writings, yet causing underlying data points out-of-order in timestamps. Therefore, to apply existing out-of-database methods, all data points must be fully loaded into memory and chronologically sorted. Additionally, out-of-database methods must cluster from scratch each time, making them inefficient when handling queries across different time ranges. In this work, we propose an in-database adaptation of SOTA time series clustering method K-Shape. Moreover, to solve the problem that K-Shape cannot efficiently handle long time series, we propose Medoid-Shape, as well as its in-database adaptation for further acceleration. Extensive experiments are conducted to demonstrate the higher efficiency of our proposals, with comparable effectiveness. Remarkably, all proposals have already been implemented in an open-source commodity time series database, Apache IoTDB.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spring 2025 Week 7</title>
+      <link>/dbrg/events/2025_spring_07/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>/dbrg/events/2025_spring_07/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      Highly Efficient and Scalable Access Control Mechanism for IoT Devices in Pervasive Environments
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Alian Yu, Jian Kang, Wei Jiang and Dan Lin
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      With the continuous advancement of sensing, networking, controlling, and computing technologies, there is a growing number of IoT (Internet of Things) devices emerging that are expected to integrate into public infrastructure in the near future. However, the deployment of these smart devices in public venues presents new challenges for existing access control mechanisms, particularly in terms of efficiency. To address these challenges, we have developed a highly efficient and scalable access control mechanism that enables automatic and fine-grained access control management while incurring low overhead in large-scale settings. Our mechanism includes a dual-hierarchy access control structure and associated information retrieval algorithms, which we have used to develop a large-scale IoT device access control system called FACT+. FACT+ overcomes the efficiency issues of granting and inquiring access control status over millions of devices in pervasive environments. Additionally, our system offers a pay-and-consume scheme and plug-and-play device management for convenient adoption by service providers. We have conducted extensive experiments to demonstrate the practicality, effectiveness, and efficiency of our access control mechanism.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Spring 2025 Week 5</title>
