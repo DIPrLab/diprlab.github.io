@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YOUR_FIRST_NAME YOUR_LAST_NAME | DIPr Lab at PSU</title>
-    <link>/author/your_first_name-your_last_name/</link>
-      <atom:link href="/author/your_first_name-your_last_name/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diprlab.github.io/author/your_first_name-your_last_name/</link>
+      <atom:link href="https://diprlab.github.io/author/your_first_name-your_last_name/index.xml" rel="self" type="application/rss+xml" />
     <description>YOUR_FIRST_NAME YOUR_LAST_NAME</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>/author/your_first_name-your_last_name/avatar_hu_386d2ffc11da7ada.png</url>
+      <url>https://diprlab.github.io/author/your_first_name-your_last_name/avatar_hu_386d2ffc11da7ada.png</url>
       <title>YOUR_FIRST_NAME YOUR_LAST_NAME</title>
-      <link>/author/your_first_name-your_last_name/</link>
+      <link>https://diprlab.github.io/author/your_first_name-your_last_name/</link>
     </image>
     
   </channel>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | DIPr Lab at PSU</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diprlab.github.io/publication/</link>
+      <atom:link href="https://diprlab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/logo_hu_f67add51057eb433.png</url>
+      <url>https://diprlab.github.io/media/logo_hu_f67add51057eb433.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://diprlab.github.io/publication/</link>
     </image>
     
     <item>
       <title>BL(u)E CRAB: A User-Centric Framework for Identifying Suspicious Bluetooth Trackers</title>
-      <link>/publication/bluecrab/</link>
+      <link>https://diprlab.github.io/publication/bluecrab/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/bluecrab/</guid>
+      <guid>https://diprlab.github.io/publication/bluecrab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ACCORD: Constraint-driven mediation of multi-user conflicts in cloud services</title>
-      <link>/publication/accord/</link>
+      <link>https://diprlab.github.io/publication/accord/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/accord/</guid>
+      <guid>https://diprlab.github.io/publication/accord/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants</title>
-      <link>/publication/genaipa/</link>
+      <link>https://diprlab.github.io/publication/genaipa/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/genaipa/</guid>
+      <guid>https://diprlab.github.io/publication/genaipa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Don&#39;t Be a Tattle-Tale: Preventing Leakages through Data Dependencies on Access Control Protected Data</title>
-      <link>/publication/tattle-tale/</link>
+      <link>https://diprlab.github.io/publication/tattle-tale/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tattle-tale/</guid>
+      <guid>https://diprlab.github.io/publication/tattle-tale/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Primal Pappachan | DIPr Lab at PSU</title>
-    <link>/author/primal-pappachan/</link>
-      <atom:link href="/author/primal-pappachan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diprlab.github.io/author/primal-pappachan/</link>
+      <atom:link href="https://diprlab.github.io/author/primal-pappachan/index.xml" rel="self" type="application/rss+xml" />
     <description>Primal Pappachan</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/primal-pappachan/avatar_hu_674704180feafb53.png</url>
+      <url>https://diprlab.github.io/author/primal-pappachan/avatar_hu_674704180feafb53.png</url>
       <title>Primal Pappachan</title>
-      <link>/author/primal-pappachan/</link>
+      <link>https://diprlab.github.io/author/primal-pappachan/</link>
     </image>
     
     <item>
       <title>Spring 2025 Week 1</title>
-      <link>/dbrg/events/2025_spring_01/</link>
+      <link>https://diprlab.github.io/dbrg/events/2025_spring_01/</link>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/dbrg/events/2025_spring_01/</guid>
+      <guid>https://diprlab.github.io/dbrg/events/2025_spring_01/</guid>
       <description>&lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;

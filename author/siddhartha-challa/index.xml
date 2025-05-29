@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Siddhartha Challa | DIPr Lab at PSU</title>
-    <link>/author/siddhartha-challa/</link>
-      <atom:link href="/author/siddhartha-challa/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diprlab.github.io/author/siddhartha-challa/</link>
+      <atom:link href="https://diprlab.github.io/author/siddhartha-challa/index.xml" rel="self" type="application/rss+xml" />
     <description>Siddhartha Challa</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>/author/siddhartha-challa/avatar_hu_4cd0f4fed5a14099.png</url>
+      <url>https://diprlab.github.io/author/siddhartha-challa/avatar_hu_4cd0f4fed5a14099.png</url>
       <title>Siddhartha Challa</title>
-      <link>/author/siddhartha-challa/</link>
+      <link>https://diprlab.github.io/author/siddhartha-challa/</link>
     </image>
     
   </channel>

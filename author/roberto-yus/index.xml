@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roberto Yus | DIPr Lab at PSU</title>
-    <link>/author/roberto-yus/</link>
-      <atom:link href="/author/roberto-yus/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diprlab.github.io/author/roberto-yus/</link>
+      <atom:link href="https://diprlab.github.io/author/roberto-yus/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto Yus</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>/author/roberto-yus/avatar_hu_386d2ffc11da7ada.png</url>
+      <url>https://diprlab.github.io/author/roberto-yus/avatar_hu_386d2ffc11da7ada.png</url>
       <title>Roberto Yus</title>
-      <link>/author/roberto-yus/</link>
+      <link>https://diprlab.github.io/author/roberto-yus/</link>
     </image>
     
   </channel>

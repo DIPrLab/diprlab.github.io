@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Database &amp; Internet Privacy (DIPr) Lab | DIPr Lab at PSU</title>
-    <link>/wiki/</link>
-      <atom:link href="/wiki/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diprlab.github.io/wiki/</link>
+      <atom:link href="https://diprlab.github.io/wiki/index.xml" rel="self" type="application/rss+xml" />
     <description>Database &amp; Internet Privacy (DIPr) Lab</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/logo_hu_f67add51057eb433.png</url>
+      <url>https://diprlab.github.io/media/logo_hu_f67add51057eb433.png</url>
       <title>Database &amp; Internet Privacy (DIPr) Lab</title>
-      <link>/wiki/</link>
+      <link>https://diprlab.github.io/wiki/</link>
     </image>
     
     <item>
       <title>Joining the lab</title>
-      <link>/wiki/join/</link>
+      <link>https://diprlab.github.io/wiki/join/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/wiki/join/</guid>
+      <guid>https://diprlab.github.io/wiki/join/</guid>
       <description>&lt;p&gt;
 
 
@@ -39,7 +39,7 @@
                /media/bird-landing_hu_f2c23b2db82270ad.webp 400w,
                /media/bird-landing_hu_11d89950f9609ab3.webp 760w,
                /media/bird-landing_hu_e596a193b06bc514.webp 1200w&#34;
-               src=&#34;/media/bird-landing_hu_f2c23b2db82270ad.webp&#34;
+               src=&#34;https://diprlab.github.io/media/bird-landing_hu_f2c23b2db82270ad.webp&#34;
                width=&#34;760&#34;
                height=&#34;505&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -68,16 +68,16 @@ Graduate admissions are done by Grad admissions committee that processes all app
 &lt;!-- Note: This only applies to currently enrolled undergrad and M.S students at Portland State University.  --&gt;
 &lt;!-- The DIPr lab is focused on designing better data protection mechanisms for databases.  Undergraduate researchers will start by contributing to ongoing projects listed in the [home page](/). The activities may involve developing software prototypes, participating in research meetings, reading research papers, presenting results etc.  --&gt;
 &lt;p&gt;&lt;strong&gt;Ph.D. applicants&lt;/strong&gt;: When reaching out to Dr. Primal after completing the graduate application, please include your: (1) CV (including a link to your GitHub profile and website), (2) a description of your previous research experience and interests, and (3) specific information about which research projects in the lab interests you and why. Emails without these information may be ignored.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;M.S. applicants&lt;/strong&gt;: This only applies to currently enrolled M.S. students. After going through projects in the lab, if you are interested in applying to be part of the lab, send an email including: (1) your resume (PDF), (2) unofficial copy of your first year transcript (PDF), and (3) few paragraphs explaining why you’d like to work in our lab. To write this well, I suggest you look at some of our &lt;a href=&#34;/publication/&#34;&gt;previous publications&lt;/a&gt; to orient yourself to our current projects. Make the subject of your email &amp;ldquo;Masters Application&amp;rdquo; and send this to Dr. Primal. You are welcome to join the weekly group meetings (see &lt;a href=&#34;/expectations&#34;&gt;Expectations&lt;/a&gt;) to learn more about the ongoing projects and connect with lab members.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Undergrad applicants&lt;/strong&gt;: This only applies to currently enrolled undergrad students. After going through projects in the lab, if you are interested in applying to be part of the lab, send an email including: (1) your resume (PDF), (2) unofficial copy of your transcript (PDF); freshman can send high school transcript (PDF), and (3) few paragraphs explaining why you’d like to work in our lab. To write this well, I suggest you look at some of our &lt;a href=&#34;/publication/&#34;&gt;previous publications&lt;/a&gt; to orient yourself to our current projects. Make the subject of your email “Undergrad Application” and send this to Dr. Primal. You are welcome to join the weekly group meetings (see &lt;a href=&#34;/expectations&#34;&gt;Expectations&lt;/a&gt;) to learn more about the ongoing projects and connect with lab members.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;M.S. applicants&lt;/strong&gt;: This only applies to currently enrolled M.S. students. After going through projects in the lab, if you are interested in applying to be part of the lab, send an email including: (1) your resume (PDF), (2) unofficial copy of your first year transcript (PDF), and (3) few paragraphs explaining why you’d like to work in our lab. To write this well, I suggest you look at some of our &lt;a href=&#34;https://diprlab.github.io/publication/&#34;&gt;previous publications&lt;/a&gt; to orient yourself to our current projects. Make the subject of your email &amp;ldquo;Masters Application&amp;rdquo; and send this to Dr. Primal. You are welcome to join the weekly group meetings (see &lt;a href=&#34;https://diprlab.github.io/expectations&#34;&gt;Expectations&lt;/a&gt;) to learn more about the ongoing projects and connect with lab members.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Undergrad applicants&lt;/strong&gt;: This only applies to currently enrolled undergrad students. After going through projects in the lab, if you are interested in applying to be part of the lab, send an email including: (1) your resume (PDF), (2) unofficial copy of your transcript (PDF); freshman can send high school transcript (PDF), and (3) few paragraphs explaining why you’d like to work in our lab. To write this well, I suggest you look at some of our &lt;a href=&#34;https://diprlab.github.io/publication/&#34;&gt;previous publications&lt;/a&gt; to orient yourself to our current projects. Make the subject of your email “Undergrad Application” and send this to Dr. Primal. You are welcome to join the weekly group meetings (see &lt;a href=&#34;https://diprlab.github.io/expectations&#34;&gt;Expectations&lt;/a&gt;) to learn more about the ongoing projects and connect with lab members.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Getting started</title>
-      <link>/wiki/onboarding/</link>
+      <link>https://diprlab.github.io/wiki/onboarding/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/wiki/onboarding/</guid>
+      <guid>https://diprlab.github.io/wiki/onboarding/</guid>
       <description>&lt;p&gt;
 
 
@@ -100,7 +100,7 @@ Graduate admissions are done by Grad admissions committee that processes all app
                /media/bird-taking-off_hu_e63a0ba3ab8812ca.webp 400w,
                /media/bird-taking-off_hu_705576c7b11f7c09.webp 760w,
                /media/bird-taking-off_hu_2f42ad519b2a2763.webp 1200w&#34;
-               src=&#34;/media/bird-taking-off_hu_e63a0ba3ab8812ca.webp&#34;
+               src=&#34;https://diprlab.github.io/media/bird-taking-off_hu_e63a0ba3ab8812ca.webp&#34;
                width=&#34;728&#34;
                height=&#34;471&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -122,7 +122,7 @@ Graduate admissions are done by Grad admissions committee that processes all app
 &lt;h2 id=&#34;office-space&#34;&gt;Office Space&lt;/h2&gt;
 &lt;p&gt;If you prefer to work in the department, please request for a desk in the first meeting with Primal. Lab members sit either in the DIPr lab space (FAB 135-04), or in the shared graduate student cubicle space. Graduate students are expected to make use of their allocated desk in the DIPr lab space. Group meetings are held in one of the conference rooms.&lt;/p&gt;
 &lt;h2 id=&#34;individual-developmentmentoring-plans&#34;&gt;Individual Development/Mentoring plans&lt;/h2&gt;
-&lt;p&gt;Within the first few weeks of joining the DIPr Lab, you should work with Primal to develop a plan outlining your short, medium, and long term goals. More on individual developing plans can be found in &lt;a href=&#34;/expectations&#34;&gt;Expectations&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Within the first few weeks of joining the DIPr Lab, you should work with Primal to develop a plan outlining your short, medium, and long term goals. More on individual developing plans can be found in &lt;a href=&#34;https://diprlab.github.io/expectations&#34;&gt;Expectations&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;key-access&#34;&gt;Key access&lt;/h2&gt;
 &lt;p&gt;If you require regular use of the lab space, you should discuss your need with Primal before applying for key access. Once you&amp;rsquo;ve received permission to receive a lab key, you should fill out a &lt;a href=&#34;https://www.pdx.edu/facilities/sites/facilities.web.wdt.pdx.edu/files/2022-09/Key%20Request%20Form%20-%20August%202022_0.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Key Authorization &amp;amp; Request form&lt;/a&gt; and email your request to &lt;a href=&#34;mailto:keys@pdx.edu&#34;&gt;keys@pdx.edu&lt;/a&gt;. Key requests require an active &lt;a href=&#34;https://www.pdx.edu/technology/odin-account&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ODIN Account&lt;/a&gt;.&lt;/p&gt;
 &lt;!--
@@ -133,9 +133,9 @@ Graduate admissions are done by Grad admissions committee that processes all app
     
     <item>
       <title>Expectations</title>
-      <link>/wiki/expectations/</link>
+      <link>https://diprlab.github.io/wiki/expectations/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/wiki/expectations/</guid>
+      <guid>https://diprlab.github.io/wiki/expectations/</guid>
       <description>&lt;p&gt;
 
 
@@ -158,7 +158,7 @@ Graduate admissions are done by Grad admissions committee that processes all app
                /media/bird-mid-flight_hu_63522e7262220333.webp 400w,
                /media/bird-mid-flight_hu_64961156bad421cd.webp 760w,
                /media/bird-mid-flight_hu_8a5ea93f76e8e991.webp 1200w&#34;
-               src=&#34;/media/bird-mid-flight_hu_63522e7262220333.webp&#34;
+               src=&#34;https://diprlab.github.io/media/bird-mid-flight_hu_63522e7262220333.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -191,13 +191,13 @@ You are not expected to work on weekends and holidays. Consult with Primal and n
 &lt;h4 id=&#34;celebrations-&#34;&gt;Celebrations 🎉&lt;/h4&gt;
 &lt;p&gt;Once every month (typically the first or the last meeting of the month) we will celebrate with sweet treats (donuts, cupcakes, etc) to recognize any achievments or life milestones of the lab members. This includes and is not limited to paper acceptance, submissions, rejections (yes, we celebrate those too!), birthdays, and more.&lt;/p&gt;
 &lt;h3 id=&#34;database-reading-group-dbrg-meetings&#34;&gt;Database Reading Group (DBRG) meetings&lt;/h3&gt;
-&lt;p&gt;The Database Reading Group meets weekly to discuss papers related (broadly speaking) to database technology. Meeting times are decided at the beginning of the quarter. The regular meeting place is room 130 in PSU&amp;rsquo;s Fourth Avenue Building. The group welcomes anyone, inside or outside of PSU, with an interest in the subject matter. Designated group members will lead the discussion each week. More on database reading group can be found in &lt;a href=&#34;/dbrg&#34;&gt;DBRG&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Database Reading Group meets weekly to discuss papers related (broadly speaking) to database technology. Meeting times are decided at the beginning of the quarter. The regular meeting place is room 130 in PSU&amp;rsquo;s Fourth Avenue Building. The group welcomes anyone, inside or outside of PSU, with an interest in the subject matter. Designated group members will lead the discussion each week. More on database reading group can be found in &lt;a href=&#34;https://diprlab.github.io/dbrg&#34;&gt;DBRG&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;attendance&#34;&gt;Attendance&lt;/h3&gt;
 &lt;p&gt;In-person attendance is expected for the following.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Weekly group meetings&lt;/li&gt;
 &lt;li&gt;individual meetings with Primal to discuss your research&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/dbrg&#34;&gt;Database Reading Group meetings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://diprlab.github.io/dbrg&#34;&gt;Database Reading Group meetings&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://pdxscholar.library.pdx.edu/studentsymposium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student Research Symposiums&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Outreach events (such as &lt;a href=&#34;https://www.pdx.edu/center-for-internship-mentoring-and-research/summer-research-academy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer Research Academy&lt;/a&gt;, &lt;a href=&#34;https://www.pdx.edu/engineering/cyberpdx-cybersecurity-camp-native-indigenous-high-school-students&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CyberPDX&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
@@ -235,9 +235,9 @@ Talk to Primal or any of the lab members, if you are struggling. Ask for help ea
     
     <item>
       <title>Lab Policies</title>
-      <link>/wiki/policies/</link>
+      <link>https://diprlab.github.io/wiki/policies/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/wiki/policies/</guid>
+      <guid>https://diprlab.github.io/wiki/policies/</guid>
       <description>&lt;p&gt;
 
 
@@ -260,7 +260,7 @@ Talk to Primal or any of the lab members, if you are struggling. Ask for help ea
                /media/bird-flock_hu_75fe9f0e1b6545.webp 400w,
                /media/bird-flock_hu_bc33fe29ac6fb790.webp 760w,
                /media/bird-flock_hu_6a86b88820ddaf52.webp 1200w&#34;
-               src=&#34;/media/bird-flock_hu_75fe9f0e1b6545.webp&#34;
+               src=&#34;https://diprlab.github.io/media/bird-flock_hu_75fe9f0e1b6545.webp&#34;
                width=&#34;760&#34;
                height=&#34;506&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -289,9 +289,9 @@ If you would rather share information about these matters with a PSU staff membe
     
     <item>
       <title>Offboarding</title>
-      <link>/wiki/offboarding/</link>
+      <link>https://diprlab.github.io/wiki/offboarding/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/wiki/offboarding/</guid>
+      <guid>https://diprlab.github.io/wiki/offboarding/</guid>
       <description>&lt;p&gt;
 
 
@@ -314,7 +314,7 @@ If you would rather share information about these matters with a PSU staff membe
                /media/bird-flying-away_hu_fa9bbd1321f6649.webp 400w,
                /media/bird-flying-away_hu_d8a70d0dc9b9146e.webp 760w,
                /media/bird-flying-away_hu_30a7be38a8600969.webp 1200w&#34;
-               src=&#34;/media/bird-flying-away_hu_fa9bbd1321f6649.webp&#34;
+               src=&#34;https://diprlab.github.io/media/bird-flying-away_hu_fa9bbd1321f6649.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -336,9 +336,9 @@ If you would rather share information about these matters with a PSU staff membe
     
     <item>
       <title>References</title>
-      <link>/wiki/references/</link>
+      <link>https://diprlab.github.io/wiki/references/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/wiki/references/</guid>
+      <guid>https://diprlab.github.io/wiki/references/</guid>
       <description>&lt;p&gt;Some of the content in this wiki is inspired by similar wikis from labs.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://atomslab.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ATOMS lab&lt;/a&gt;&lt;/li&gt;

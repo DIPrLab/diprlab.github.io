@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chelsea Teh | DIPr Lab at PSU</title>
-    <link>/author/chelsea-teh/</link>
-      <atom:link href="/author/chelsea-teh/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diprlab.github.io/author/chelsea-teh/</link>
+      <atom:link href="https://diprlab.github.io/author/chelsea-teh/index.xml" rel="self" type="application/rss+xml" />
     <description>Chelsea Teh</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>/author/chelsea-teh/avatar_hu_386d2ffc11da7ada.png</url>
+      <url>https://diprlab.github.io/author/chelsea-teh/avatar_hu_386d2ffc11da7ada.png</url>
       <title>Chelsea Teh</title>
-      <link>/author/chelsea-teh/</link>
+      <link>https://diprlab.github.io/author/chelsea-teh/</link>
     </image>
     
   </channel>

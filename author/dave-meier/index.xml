@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dave Meier | DIPr Lab at PSU</title>
-    <link>/author/dave-meier/</link>
-      <atom:link href="/author/dave-meier/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diprlab.github.io/author/dave-meier/</link>
+      <atom:link href="https://diprlab.github.io/author/dave-meier/index.xml" rel="self" type="application/rss+xml" />
     <description>Dave Meier</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/dave-meier/avatar_hu_386d2ffc11da7ada.png</url>
+      <url>https://diprlab.github.io/author/dave-meier/avatar_hu_386d2ffc11da7ada.png</url>
       <title>Dave Meier</title>
-      <link>/author/dave-meier/</link>
+      <link>https://diprlab.github.io/author/dave-meier/</link>
     </image>
     
     <item>
       <title>Spring 2025 Week 4</title>
-      <link>/dbrg/events/2025_spring_04/</link>
+      <link>https://diprlab.github.io/dbrg/events/2025_spring_04/</link>
       <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/dbrg/events/2025_spring_04/</guid>
+      <guid>https://diprlab.github.io/dbrg/events/2025_spring_04/</guid>
       <description>&lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
