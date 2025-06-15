@@ -42,11 +42,11 @@
     <lastmod>2025-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/dbrg/events/2025_spring_09/</loc>
+    <loc>https://diprlab.github.io/dbrg/events/2025/spring/09/</loc>
     <lastmod>2025-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/dbrg/events/2025_spring_08/</loc>
+    <loc>https://diprlab.github.io/dbrg/events/2025/spring/08/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -58,7 +58,7 @@
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/dbrg/events/2025_spring_06/</loc>
+    <loc>https://diprlab.github.io/dbrg/events/2025/spring/06/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -74,7 +74,7 @@
     <lastmod>2025-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/dbrg/events/2025_spring_04/</loc>
+    <loc>https://diprlab.github.io/dbrg/events/2025/spring/04/</loc>
     <lastmod>2025-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -82,7 +82,7 @@
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/dbrg/events/2025_spring_03/</loc>
+    <loc>https://diprlab.github.io/dbrg/events/2025/spring/03/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -90,7 +90,7 @@
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/dbrg/events/2025_spring_01/</loc>
+    <loc>https://diprlab.github.io/dbrg/events/2025/spring/01/</loc>
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -328,6 +328,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/author/siddhartha-challa/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/spencer-henwood/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/author/tim-finin/</loc>
