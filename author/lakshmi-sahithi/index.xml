@@ -5,12 +5,46 @@
     <link>https://diprlab.github.io/author/lakshmi-sahithi/</link>
       <atom:link href="https://diprlab.github.io/author/lakshmi-sahithi/index.xml" rel="self" type="application/rss+xml" />
     <description>Lakshmi Sahithi</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diprlab.github.io/author/lakshmi-sahithi/avatar_hu_d331a8ff4c9272d3.png</url>
       <title>Lakshmi Sahithi</title>
       <link>https://diprlab.github.io/author/lakshmi-sahithi/</link>
     </image>
+    
+    <item>
+      <title>Summer 2025 Week 3</title>
+      <link>https://diprlab.github.io/dbrg/events/2025/summer/03/</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/dbrg/events/2025/summer/03/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      HoneyBee: Efficient Role-based Access Control for Vector Databases via Dynamic Partitioning
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Hongbin Zhong, Matthew Lentz, Nina Narodytska, Adriana Szekeres, Kexin Rong 
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      As vector databases gain traction in enterprise applications, robust access control has become critical to safeguard sensitive data. Access control in these systems is often implemented through hybrid vector queries, which combine nearest neighbor search on vector data with relational predicates based on user permissions. However, existing approaches face significant trade-offs: creating dedicated indexes for each user minimizes query latency but introduces excessive storage redundancy, while building a single index and applying access control after vector search reduces storage overhead but suffers from poor recall and increased query latency. This paper introduces HoneyBee, a dynamic partitioning framework that bridges the gap between these approaches by leveraging the structure of Role-Based Access Control (RBAC) policies. RBAC, widely adopted in enterprise settings, groups users into roles and assigns permissions to those roles, creating a natural &#34;thin waist&#34; in the permission structure that is ideal for partitioning decisions. Specifically, HoneyBee produces overlapping partitions where vectors can be strategically replicated across different partitions to reduce query latency while controlling storage overhead. By introducing analytical models for the performance and recall of the vector search, HoneyBee formulates the partitioning strategy as a constrained optimization problem to dynamically balance storage, query efficiency, and recall. Evaluations on RBAC workloads demonstrate that HoneyBee reduces storage redundancy compared to role partitioning and achieves up to 6x faster query speeds than row-level security (RLS) with only 1.4x storage increase, offering a practical middle ground for secure and efficient vector search.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Spring 2025 Week 3</title>

@@ -5,12 +5,47 @@
     <link>https://diprlab.github.io/author/dave-meier/</link>
       <atom:link href="https://diprlab.github.io/author/dave-meier/index.xml" rel="self" type="application/rss+xml" />
     <description>Dave Meier</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diprlab.github.io/author/dave-meier/avatar_hu_386d2ffc11da7ada.png</url>
       <title>Dave Meier</title>
       <link>https://diprlab.github.io/author/dave-meier/</link>
     </image>
+    
+    <item>
+      <title>Summer 2025 Week 1</title>
+      <link>https://diprlab.github.io/dbrg/events/2025/summer/01/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/dbrg/events/2025/summer/01/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      Streaming Democratized: Ease Across the Latency Spectrum with Delayed View Semantics and Snowflake Dynamic Tables
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Daniel Sotolongo, Daniel Mills, Tyler Akidau, Anirudh Santhiar, Attila-Péter Tóth, Botong Huang, Boyuan Zhang, Igor Belianski, Ling Geng, Matt Uhlar, Nikhil Shah, Olivia Zhou, Saras Nowak, Sasha Lionheart, Vlad Lifliand, Wendy Grus, Yiwen Zhu, Ankur Sharma, Dzmitry Pauliukevich, Enrico Sartorello, Ilaria Battiston, Ivan Kalev, Lawrence Benson, Leon Papke, Niklas Semmler, Till Merker, Yi Huang
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      Streaming data pipelines remain challenging and expensive to build and maintain, despite significant advancements in stronger consistency, event time semantics, and SQL support over the last decade. Persistent obstacles continue to hinder usability, such as the need for manual incrementalization, semantic discrepancies across SQL implementations, and the lack of enterprise-grade operational features (e.g. granular access control, disaster recovery). While the rise of incremental view maintenance (IVM) as a way to integrate streaming with databases has been a huge step forward, transaction isolation in the presence of IVM remains underspecified, which leaves the maintenance of application-level invariants as a painful exercise for the user. Meanwhile, most streaming systems optimize for latencies of 100 milliseconds to 3 seconds, whereas many practical use cases are well-served by latencies ranging from seconds to tens of minutes.
+&lt;p&gt;In this paper, we present delayed view semantics (DVS), a conceptual foundation that bridges the semantic gap between streaming and databases, and introduce Dynamic Tables, Snowflake&amp;rsquo;s declarative streaming transformation primitive designed to democratize analytical stream processing. DVS formalizes the intuition that stream processing is primarily a technique to eagerly compute derived results asynchronously, while also addressing the need to reason about the resulting system end to end. Dynamic Tables then offer two key advantages: ease of use through DVS, enterprise-grade features, and simplicity; as well as scalable cost efficiency via IVM with an architecture designed for diverse latency requirements. We first develop extensions to transaction isolation that permit the preservation of invariants in streaming applications. We then detail the implementation challenges of Dynamic Tables and our experience operating it at scale. Finally, we share insights into user adoption and discuss our vision for the future of stream processing.&lt;/p&gt;
+&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Spring 2025 Week 4</title>
