@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gagandeep Bhatia | DIPr Lab at PSU</title>
+    <link>https://diprlab.github.io/author/gagandeep-bhatia/</link>
+      <atom:link href="https://diprlab.github.io/author/gagandeep-bhatia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gagandeep Bhatia</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://diprlab.github.io/author/gagandeep-bhatia/avatar_hu_1f108ad3f1b7edfd.jpg</url>
+      <title>Gagandeep Bhatia</title>
+      <link>https://diprlab.github.io/author/gagandeep-bhatia/</link>
+    </image>
+    
+  </channel>
+</rss>
