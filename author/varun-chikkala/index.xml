@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Varun Chikkala | DIPr Lab at PSU</title>
+    <link>https://diprlab.github.io/author/varun-chikkala/</link>
+      <atom:link href="https://diprlab.github.io/author/varun-chikkala/index.xml" rel="self" type="application/rss+xml" />
+    <description>Varun Chikkala</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://diprlab.github.io/author/varun-chikkala/avatar_hu_eddabd8ab4f774e.png</url>
+      <title>Varun Chikkala</title>
+      <link>https://diprlab.github.io/author/varun-chikkala/</link>
+    </image>
+    
+  </channel>
+</rss>
