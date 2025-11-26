@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: November 25, 2025 --><html lang="en-us" >
+<!-- Last Published: November 26, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -271,7 +271,7 @@
 
   
 
-<meta name="description" content="Adding fine-grained dynamic access controls in large-scale, information-sensitive IoT and IIoT environments based on MQTT Protocols." />
+<meta name="description" content="Adding fine-grained dynamic access controls in large-scale, privacy- and information-sensitive environments such as MQTT-based IIoT networks." />
 
 
 
@@ -315,17 +315,17 @@
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="DIPr Lab at PSU" />
 <meta property="og:url" content="https://diprlab.github.io/project/pubsubcontrol/" />
-<meta property="og:title" content="Securing IoT Communication Protocols at Scale | DIPr Lab at PSU" />
-<meta property="og:description" content="Adding fine-grained dynamic access controls in large-scale, information-sensitive IoT and IIoT environments based on MQTT Protocols." /><meta property="og:image" content="https://diprlab.github.io/project/pubsubcontrol/featured.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="PaPrica-PS: Fine-Grained, Dynamic Access Control Policy Enforcement for Pub/Sub Systems | DIPr Lab at PSU" />
+<meta property="og:description" content="Adding fine-grained dynamic access controls in large-scale, privacy- and information-sensitive environments such as MQTT-based IIoT networks." /><meta property="og:image" content="https://diprlab.github.io/project/pubsubcontrol/featured.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2024-06-15T00:00:00&#43;00:00"
+      content="2025-11-26T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2024-06-15T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2025-11-26T00:00:00&#43;00:00">
   
 
 
@@ -351,14 +351,14 @@
     "@type": "WebPage",
     "@id": "https://diprlab.github.io/project/pubsubcontrol/"
   },
-  "headline": "Securing IoT Communication Protocols at Scale",
+  "headline": "PaPrica-PS: Fine-Grained, Dynamic Access Control Policy Enforcement for Pub/Sub Systems",
   
   "image": [
     "https://diprlab.github.io/project/pubsubcontrol/featured.png"
   ],
   
-  "datePublished": "2024-06-15T00:00:00Z",
-  "dateModified": "2024-06-15T00:00:00Z",
+  "datePublished": "2025-11-26T00:00:00Z",
+  "dateModified": "2025-11-26T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -373,7 +373,7 @@
       "url": "https://diprlab.github.io/media/logo_hu_f95ea2bc01977d21.png"
     }
   },
-  "description": "Adding fine-grained dynamic access controls in large-scale, information-sensitive IoT and IIoT environments based on MQTT Protocols."
+  "description": "Adding fine-grained dynamic access controls in large-scale, privacy- and information-sensitive environments such as MQTT-based IIoT networks."
 }
 </script>
 
@@ -395,7 +395,7 @@
 
 
   
-  <title>Securing IoT Communication Protocols at Scale | DIPr Lab at PSU</title>
+  <title>PaPrica-PS: Fine-Grained, Dynamic Access Control Policy Enforcement for Pub/Sub Systems | DIPr Lab at PSU</title>
 
   
   
@@ -802,7 +802,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Securing IoT Communication Protocols at Scale</h1>
+  <h1>PaPrica-PS: Fine-Grained, Dynamic Access Control Policy Enforcement for Pub/Sub Systems</h1>
 
   
 
@@ -819,7 +819,8 @@
     
 
   <span >
-      <a href="/author/steve-willoughby/">Steve Willoughby</a></span>
+      <a href="/author/steve-willoughby/">Steve Willoughby</a></span>, <span >
+      <a href="/author/jacob-olinger/">Jacob Olinger</a></span>
   </div>
   
   
@@ -830,7 +831,7 @@
     
       
     
-    Jun 15, 2024
+    Nov 26, 2025
   </span>
   
 
@@ -857,9 +858,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 409px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 946px;">
   <div style="position: relative">
-    <img src="/project/pubsubcontrol/featured_hu_59ca07aa7093d257.webp" width="720" height="409" alt="" class="featured-image">
+    <img src="/project/pubsubcontrol/featured_hu_aee26b83c8e16bd7.webp" width="720" height="946" alt="" class="featured-image">
     
   </div>
 </div>
@@ -869,9 +870,25 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>The world of the connected “Internet of Things” is expanding to include more devices which observe our daily lives, routines, locations, and even our state of health. But have the underlying protocols by which they communicate this data kept pace with the need to protect our privacy and security?</p>
-<p>In this project, we will investigate various “middleware” approaches to injecting dynamic access control agents into existing MQTT broker servers and measure their performance on real and/or simulated network environments as well as their resilience to security threats.</p>
-<p>We seek to strengthen the protocols underlying the communication between IoT devices, such as MQTT, to adjudicate who is authorized to access which information, where the access parameters may rapidly and frequently change, without impacting performance, based on the implications of the MQTT message topic hierarchical structure combined with geospacial security policy “zones” and techniques to simplfy and consolidate policy rules in real time.</p>
+      <p>High-volume publish/subscribe (pub/sub) systems include collections
+of hardware and software components such as IoT sensors and the protocols
+that connect them. Many of these have heretofore lacked robust security
+and privacy controls by default despite there being significant security,
+safety, and privacy implications driving the need to control access to
+the data they generate and manage.</p>
+<p>Examples of such pub/sub-based systems are those which power critical systems
+from smart buildings
+and factories to full city-wide device networks.
+In this project, we are developing a
+fine-grained access control model and enforcement mechanism to
+address this gap. Our proposed FGAC model builds upon
+Attribute-Based Access Control (ABAC) defining access rules based
+on the MQTT protocol message &ldquo;topics&rdquo;, attributes of the subscribers
+and publishers to those topics, as well as
+ephemeral and per-message context information.</p>
+<p>Our framework is platform-agnostic and we implement the prototype for our
+experiments based on an off-the-shelf open source MQTT pub/sub
+system without altering the base code of that server itself.</p>
 
     </div>
 
@@ -948,6 +965,21 @@
     
     
     
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/steve-willoughby-47832aa/" target="_blank" rel="noopener">
+        <i class="fa fa-linkedin-in"></i>
+      </a>
+    </li>
+  
+    
+    
+    
       
     
     
@@ -959,6 +991,83 @@
     <li>
       <a href="https://github.com/MadScienceZone" target="_blank" rel="noopener">
         <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/jacob-olinger/"><img class="avatar mr-3 avatar-circle" src="/author/jacob-olinger/avatar_hu_69bafe66f2ec1feb.jpeg" alt="Jacob Olinger"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/jacob-olinger/">Jacob Olinger</a></h5>
+      <h6 class="card-subtitle">M.S. student in Computer Science</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:jacoboli@pdx.edu" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/rhit-olingejj" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://linkedin.com/in/jacob-olinger" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
   
@@ -1065,7 +1174,7 @@
 
 
   <p class="powered-by">
-    Last updated: November 25, 2025.
+    Last updated: November 26, 2025.
     
     Powered by the
     <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>

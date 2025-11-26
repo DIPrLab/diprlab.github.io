@@ -5,12 +5,47 @@
     <link>https://diprlab.github.io/author/dave-meier/</link>
       <atom:link href="https://diprlab.github.io/author/dave-meier/index.xml" rel="self" type="application/rss+xml" />
     <description>Dave Meier</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diprlab.github.io/author/dave-meier/avatar_hu_386d2ffc11da7ada.png</url>
       <title>Dave Meier</title>
       <link>https://diprlab.github.io/author/dave-meier/</link>
     </image>
+    
+    <item>
+      <title>Fall 2025 Week 7</title>
+      <link>https://diprlab.github.io/dbrg/events/2025/fall/07/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/dbrg/events/2025/fall/07/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      Scribe: How Meta transports terabytes per second in real time
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Manos Karpathiotakis, et al.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      Millions of web servers and a multitude of applications are producing ever-increasing amounts of data in real time at Meta. Regardless of how data is generated and how it is processed, there is a need for infrastructure that can accommodate the transport of arbitrarily large data streams from their generation location to their processing location with low latency. &lt;br /&gt; &lt;br /&gt;
+      This paper presents Scribe, a multi-tenant message queue service that natively supports the requirements of Meta’s data-intensive applications, ingesting &gt; 15 TB/s and serving &gt; 110 TB/s to its consumers. Scribe relies on a multi-hop write path and opportunistic data placement to maximise write availability, whereas its read path adapts replica placement and representation based on the incoming workload as a means to minimise resource consumption for both Scribe and its downstreams. The wide range of Scribe use cases can pick from a range of offered guarantees, based on the trade-offs favourable for each one.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Summer 2025 Week 1</title>

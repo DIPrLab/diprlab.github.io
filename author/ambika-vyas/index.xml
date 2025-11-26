@@ -5,12 +5,21 @@
     <link>https://diprlab.github.io/author/ambika-vyas/</link>
       <atom:link href="https://diprlab.github.io/author/ambika-vyas/index.xml" rel="self" type="application/rss+xml" />
     <description>Ambika Vyas</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diprlab.github.io/author/ambika-vyas/avatar_hu_f8c322eb204d242f.png</url>
       <title>Ambika Vyas</title>
       <link>https://diprlab.github.io/author/ambika-vyas/</link>
     </image>
+    
+    <item>
+      <title>Sieve</title>
+      <link>https://diprlab.github.io/project/sieve/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/project/sieve/</guid>
+      <description>&lt;p&gt;SIEVE is a versatile middleware that enhances access control in DBMS, enabling efficient query processing even with a large number of access control policies. We&amp;rsquo;re currently integrating caching to further improve query performance. Additionally, we&amp;rsquo;ve developed a workload generator that simulates various scenarios to test policy models and ensure access control compliance, reflecting real-world conditions.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

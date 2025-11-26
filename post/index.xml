@@ -5,12 +5,23 @@
     <link>https://diprlab.github.io/post/</link>
       <atom:link href="https://diprlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diprlab.github.io/media/logo_hu_f67add51057eb433.png</url>
       <title>Latest News</title>
       <link>https://diprlab.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>UR2PhD Program Acceptance</title>
+      <link>https://diprlab.github.io/post/09-04-25-ur2phd/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/post/09-04-25-ur2phd/</guid>
+      <description>&lt;p&gt;UR2PhD is a program organized by the Computing Research Association (CRA) that involves undergraduate students, graduate students, faculty mentors, universities, colleges, and non-profits to enhance both the quantity and quality of mentored research experiences, while maintaining student engagement in research.
+&lt;a href=&#34;https://diprlab.github.io/author/orobosa-ekhator/&#34;&gt;Orobosa Ekhator&lt;/a&gt; and &lt;a href=&#34;https://diprlab.github.io/author/anadi-shakya/&#34;&gt;Anadi Shakya&lt;/a&gt; got accepted into the Graduate Student Mentor Training Course for Fall 2025. The goal of the course is to provide mentors of undergraduate researchers with the essential skills necessary to build robust research settings.&lt;/p&gt;
+&lt;p&gt;To learn more, please check out the &lt;a href=&#34;https://cra.org/ur2phd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UR2PhD website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DIPr Lab at URMP Poster Competition</title>

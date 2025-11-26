@@ -5,7 +5,7 @@
     <link>https://diprlab.github.io/tag/policies/</link>
       <atom:link href="https://diprlab.github.io/tag/policies/index.xml" rel="self" type="application/rss+xml" />
     <description>Policies</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diprlab.github.io/media/logo_hu_f67add51057eb433.png</url>
       <title>Policies</title>
@@ -13,13 +13,29 @@
     </image>
     
     <item>
-      <title>Securing IoT Communication Protocols at Scale</title>
+      <title>PaPrica-PS: Fine-Grained, Dynamic Access Control Policy Enforcement for Pub/Sub Systems</title>
       <link>https://diprlab.github.io/project/pubsubcontrol/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://diprlab.github.io/project/pubsubcontrol/</guid>
-      <description>&lt;p&gt;The world of the connected “Internet of Things” is expanding to include more devices which observe our daily lives, routines, locations, and even our state of health. But have the underlying protocols by which they communicate this data kept pace with the need to protect our privacy and security?&lt;/p&gt;
-&lt;p&gt;In this project, we will investigate various “middleware” approaches to injecting dynamic access control agents into existing MQTT broker servers and measure their performance on real and/or simulated network environments as well as their resilience to security threats.&lt;/p&gt;
-&lt;p&gt;We seek to strengthen the protocols underlying the communication between IoT devices, such as MQTT, to adjudicate who is authorized to access which information, where the access parameters may rapidly and frequently change, without impacting performance, based on the implications of the MQTT message topic hierarchical structure combined with geospacial security policy “zones” and techniques to simplfy and consolidate policy rules in real time.&lt;/p&gt;
+      <description>&lt;p&gt;High-volume publish/subscribe (pub/sub) systems include collections
+of hardware and software components such as IoT sensors and the protocols
+that connect them. Many of these have heretofore lacked robust security
+and privacy controls by default despite there being significant security,
+safety, and privacy implications driving the need to control access to
+the data they generate and manage.&lt;/p&gt;
+&lt;p&gt;Examples of such pub/sub-based systems are those which power critical systems
+from smart buildings
+and factories to full city-wide device networks.
+In this project, we are developing a
+fine-grained access control model and enforcement mechanism to
+address this gap. Our proposed FGAC model builds upon
+Attribute-Based Access Control (ABAC) defining access rules based
+on the MQTT protocol message &amp;ldquo;topics&amp;rdquo;, attributes of the subscribers
+and publishers to those topics, as well as
+ephemeral and per-message context information.&lt;/p&gt;
+&lt;p&gt;Our framework is platform-agnostic and we implement the prototype for our
+experiments based on an off-the-shelf open source MQTT pub/sub
+system without altering the base code of that server itself.&lt;/p&gt;
 </description>
     </item>
     

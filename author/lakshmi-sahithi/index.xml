@@ -5,12 +5,47 @@
     <link>https://diprlab.github.io/author/lakshmi-sahithi/</link>
       <atom:link href="https://diprlab.github.io/author/lakshmi-sahithi/index.xml" rel="self" type="application/rss+xml" />
     <description>Lakshmi Sahithi</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diprlab.github.io/author/lakshmi-sahithi/avatar_hu_d331a8ff4c9272d3.png</url>
       <title>Lakshmi Sahithi</title>
       <link>https://diprlab.github.io/author/lakshmi-sahithi/</link>
     </image>
+    
+    <item>
+      <title>Fall 2025 Week 9</title>
+      <link>https://diprlab.github.io/dbrg/events/2025/fall/09/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/dbrg/events/2025/fall/09/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      SIEVE: Effective Filtered Vector Search with Collection of Indexes
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Zhaoheng Li, et al.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      Real-world tasks such as recommending videos tagged kids can be reduced to finding similar vectors associated with hard predicates. This task, filtered vector search, is challenging as prior state-of-the-art graph-based (unfiltered) similarity search techniques degenerate when hard constraints are considered: effective graph-based filtered similarity search relies on sufficient connectivity for reaching similar items within a few hops. To consider predicates, recent works propose modifying graph traversal to visit only items that satisfy predicates. However, they fail to offer the just-a-few-hops property for a wide range of predicates: they must restrict predicates significantly or lose efficiency if only few items satisfy predicates. &lt;br /&gt; &lt;br /&gt;
+      We propose an opposite approach: instead of constraining traversal, we build many indexes each serving different predicate forms. For effective construction, we devise a three-dimensional analytical model capturing relationships among index size, search time, and recall, with which we follow a workload-aware approach to pack as many useful indexes as possible into a collection. At query time, the analytical model is employed yet again to discern the one that offers the fastest search at a given recall. We show superior performance and support on datasets with varying selectivities and forms: our approach achieves up to 8.06 x speedup while having as low as 1% build time versus other indexes, with less than 2.15 x memory of a standard HNSW graph and modest knowledge of past workloads.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Summer 2025 Week 3</title>

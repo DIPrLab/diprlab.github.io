@@ -5,12 +5,46 @@
     <link>https://diprlab.github.io/author/primal-pappachan/</link>
       <atom:link href="https://diprlab.github.io/author/primal-pappachan/index.xml" rel="self" type="application/rss+xml" />
     <description>Primal Pappachan</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diprlab.github.io/author/primal-pappachan/avatar_hu_674704180feafb53.png</url>
       <title>Primal Pappachan</title>
       <link>https://diprlab.github.io/author/primal-pappachan/</link>
     </image>
+    
+    <item>
+      <title>Fall 2025 Week 6</title>
+      <link>https://diprlab.github.io/dbrg/events/2025/fall/06/</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/dbrg/events/2025/fall/06/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      Delta Sharing: An Open Protocol for Cross-Platform Data Sharing
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Krishna Puttaswamy, et al.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      Organizations across industries increasingly rely on sharing data to drive collaboration, innovation, and business performance. However, securely and efficiently sharing live data across diverse platforms and adhering to varying governance requirements remains a significant challenge. Traditional approaches, such as FTP and proprietary in-data-warehouse solutions, often fail to meet the demands of interoperability, cost, scalability, and low overhead. This paper introduces Delta Sharing, an open protocol we developed in collaboration with industry partners, to overcome these limitations. Delta Sharing leverages open formats like Delta Lake and Apache Parquet alongside simple HTTP APIs to enable seamless, secure, and live data sharing across heterogeneous systems. Since its launch in 2021, Delta Sharing has been adopted by over 4000 enterprises and supported by hundreds of major software and data vendors. We discuss the key challenges in developing Delta Sharing and how our design addresses them. We also present, to our knowledge, the first large-scale study of production data sharing workloads offering insights into this emerging data platform capability.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Spring 2025 Week 1</title>

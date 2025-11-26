@@ -269,7 +269,7 @@ Talk to Primal or any of the lab members, if you are struggling. Ask for help ea
 &lt;h3 id=&#34;diversity-and-inclusivity-policy&#34;&gt;Diversity and Inclusivity Policy&lt;/h3&gt;
 &lt;p&gt;At DIPr lab, we also aim to build and sustain a community in which everyone feels welcomed, respected, and intellectually stimulated. It is my intent to ensure that members from diverse backgrounds, including but not limited to race, color, national origin, language, sex, disability, age, sexual orientation, gender identity, and religion, feel welcome and included in this group. If you notice that any of the interactions in this group are not respectful of this diversity, please bring it to my attention. Any suggestions on how to improve the inclusivity of the lab policies are also much appreciated. If you have experienced or observed any discrimination, please report it and/or reach out to support groups listed on PSU&amp;rsquo;s &lt;a href=&#34;https://www.pdx.edu/diversity/equity-compliance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Equity and Compliance&lt;/a&gt; website.&lt;/p&gt;
 &lt;h3 id=&#34;reporting&#34;&gt;Reporting&lt;/h3&gt;
-&lt;p&gt;DIPr lab desires to create a safe space for everyone. If you or someone you know has been harassed by a lab member or if you have concerns, please contact Primal. If you do not wish to contact Primal, please contact the Department Chair - &lt;a href=&#34;mailto:mpj@pdx.edu&#34;&gt;Dr. Mark Jones&lt;/a&gt; or the Dean of College - &lt;a href=&#34;mailto:joseph.bull@pdx.edu&#34;&gt;Dr. Joseph Bull&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;DIPr lab desires to create a safe space for everyone. If you or someone you know has been harassed by a lab member or if you have concerns, please contact Primal. If you do not wish to contact Primal, please contact the Department Chair - &lt;a href=&#34;mailto:wuchi@cs.pdx.edu&#34;&gt;Dr. Wu-chi Feng&lt;/a&gt; or the Dean of College - &lt;a href=&#34;mailto:joseph.bull@pdx.edu&#34;&gt;Dr. Joseph Bull&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Please remember that by way of his position at the university, Primal is a mandated reporter under Title IX. This means that he is not allowed to keep matters falling under Title IX confidential, and is required to disclose these incidents to the administration. You are welcome to discuss matters with Primal, but please keep this in mind when doing so. Primal will do his best to remind you of his responsibilities at the start of conversations anticipated to relate to these topics.
 If you would rather share information about these matters with a PSU staff member who does not have these reporting responsibilities and can keep the information confidential, please use these campus resources:&lt;/p&gt;
 &lt;ul&gt;
@@ -350,6 +350,182 @@ If you would rather share information about these matters with a PSU staff membe
     </item>
     
     <item>
+      <title>Fall 2025 Week 9</title>
+      <link>https://diprlab.github.io/dbrg/events/2025/fall/09/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/dbrg/events/2025/fall/09/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      SIEVE: Effective Filtered Vector Search with Collection of Indexes
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Zhaoheng Li, et al.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      Real-world tasks such as recommending videos tagged kids can be reduced to finding similar vectors associated with hard predicates. This task, filtered vector search, is challenging as prior state-of-the-art graph-based (unfiltered) similarity search techniques degenerate when hard constraints are considered: effective graph-based filtered similarity search relies on sufficient connectivity for reaching similar items within a few hops. To consider predicates, recent works propose modifying graph traversal to visit only items that satisfy predicates. However, they fail to offer the just-a-few-hops property for a wide range of predicates: they must restrict predicates significantly or lose efficiency if only few items satisfy predicates. &lt;br /&gt; &lt;br /&gt;
+      We propose an opposite approach: instead of constraining traversal, we build many indexes each serving different predicate forms. For effective construction, we devise a three-dimensional analytical model capturing relationships among index size, search time, and recall, with which we follow a workload-aware approach to pack as many useful indexes as possible into a collection. At query time, the analytical model is employed yet again to discern the one that offers the fastest search at a given recall. We show superior performance and support on datasets with varying selectivities and forms: our approach achieves up to 8.06 x speedup while having as low as 1% build time versus other indexes, with less than 2.15 x memory of a standard HNSW graph and modest knowledge of past workloads.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PaPrica-PS: Fine-Grained, Dynamic Access Control Policy Enforcement for Pub/Sub Systems</title>
+      <link>https://diprlab.github.io/project/pubsubcontrol/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/project/pubsubcontrol/</guid>
+      <description>&lt;p&gt;High-volume publish/subscribe (pub/sub) systems include collections
+of hardware and software components such as IoT sensors and the protocols
+that connect them. Many of these have heretofore lacked robust security
+and privacy controls by default despite there being significant security,
+safety, and privacy implications driving the need to control access to
+the data they generate and manage.&lt;/p&gt;
+&lt;p&gt;Examples of such pub/sub-based systems are those which power critical systems
+from smart buildings
+and factories to full city-wide device networks.
+In this project, we are developing a
+fine-grained access control model and enforcement mechanism to
+address this gap. Our proposed FGAC model builds upon
+Attribute-Based Access Control (ABAC) defining access rules based
+on the MQTT protocol message &amp;ldquo;topics&amp;rdquo;, attributes of the subscribers
+and publishers to those topics, as well as
+ephemeral and per-message context information.&lt;/p&gt;
+&lt;p&gt;Our framework is platform-agnostic and we implement the prototype for our
+experiments based on an off-the-shelf open source MQTT pub/sub
+system without altering the base code of that server itself.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fall 2025 Week 8</title>
+      <link>https://diprlab.github.io/dbrg/events/2025/fall/08/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/dbrg/events/2025/fall/08/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      Adaptive Differentially Private Structural Entropy Minimization for Unsupervised Social Event Detection
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Zhiwei Yang, et al.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      Social event detection refers to extracting relevant message clusters from social media data streams to represent specific events in the real world. Social event detection is important in numerous areas, such as opinion analysis, social safety, and decision-making. Most current methods are supervised and require access to large amounts of data. These methods need prior knowledge of the events and carry a high risk of leaking sensitive information in the messages, making them less applicable in open-world settings. Therefore, conducting unsupervised detection while fully utilizing the rich information in the messages and protecting data privacy remains a significant challenge. To this end, we propose a novel social event detection framework, ADP-SEMEvent, an unsupervised social event detection method that prioritizes privacy. Specifically, ADP-SEMEvent is divided into two stages, i.e., the construction stage of the private message graph and the clustering stage of the private message graph. In the first stage, an adaptive differential privacy approach is used to construct a private message graph. In this process, our method can adaptively apply differential privacy based on the events occurring each day in an open environment to maximize the use of the privacy budget. In the second stage, to address the reduction in data utility caused by noise, a novel 2-dimensional structural entropy minimization algorithm based on optimal subgraphs is used to detect events in the message graph. The highlight of this process is unsupervised and does not compromise differential privacy. Extensive experiments on two public datasets demonstrate that ADP-SEMEvent can achieve detection performance comparable to state-of-the-art methods while maintaining reasonable privacy budget parameters.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fall 2025 Week 7</title>
+      <link>https://diprlab.github.io/dbrg/events/2025/fall/07/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/dbrg/events/2025/fall/07/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      Scribe: How Meta transports terabytes per second in real time
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Manos Karpathiotakis, et al.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      Millions of web servers and a multitude of applications are producing ever-increasing amounts of data in real time at Meta. Regardless of how data is generated and how it is processed, there is a need for infrastructure that can accommodate the transport of arbitrarily large data streams from their generation location to their processing location with low latency. &lt;br /&gt; &lt;br /&gt;
+      This paper presents Scribe, a multi-tenant message queue service that natively supports the requirements of Meta’s data-intensive applications, ingesting &gt; 15 TB/s and serving &gt; 110 TB/s to its consumers. Scribe relies on a multi-hop write path and opportunistic data placement to maximise write availability, whereas its read path adapts replica placement and representation based on the incoming workload as a means to minimise resource consumption for both Scribe and its downstreams. The wide range of Scribe use cases can pick from a range of offered guarantees, based on the trade-offs favourable for each one.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fall 2025 Week 6</title>
+      <link>https://diprlab.github.io/dbrg/events/2025/fall/06/</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/dbrg/events/2025/fall/06/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Title
+    &lt;/td&gt;
+    &lt;td&gt;
+      Delta Sharing: An Open Protocol for Cross-Platform Data Sharing
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;
+      Authors
+    &lt;/td&gt;
+    &lt;td&gt;
+      Krishna Puttaswamy, et al.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+   &lt;td&gt;
+      Abstract
+    &lt;/td&gt;
+    &lt;td&gt;
+      Organizations across industries increasingly rely on sharing data to drive collaboration, innovation, and business performance. However, securely and efficiently sharing live data across diverse platforms and adhering to varying governance requirements remains a significant challenge. Traditional approaches, such as FTP and proprietary in-data-warehouse solutions, often fail to meet the demands of interoperability, cost, scalability, and low overhead. This paper introduces Delta Sharing, an open protocol we developed in collaboration with industry partners, to overcome these limitations. Delta Sharing leverages open formats like Delta Lake and Apache Parquet alongside simple HTTP APIs to enable seamless, secure, and live data sharing across heterogeneous systems. Since its launch in 2021, Delta Sharing has been adopted by over 4000 enterprises and supported by hundreds of major software and data vendors. We discuss the key challenges in developing Delta Sharing and how our design addresses them. We also present, to our knowledge, the first large-scale study of production data sharing workloads offering insights into this emerging data platform capability.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UR2PhD Program Acceptance</title>
+      <link>https://diprlab.github.io/post/09-04-25-ur2phd/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/post/09-04-25-ur2phd/</guid>
+      <description>&lt;p&gt;UR2PhD is a program organized by the Computing Research Association (CRA) that involves undergraduate students, graduate students, faculty mentors, universities, colleges, and non-profits to enhance both the quantity and quality of mentored research experiences, while maintaining student engagement in research.
+&lt;a href=&#34;https://diprlab.github.io/author/orobosa-ekhator/&#34;&gt;Orobosa Ekhator&lt;/a&gt; and &lt;a href=&#34;https://diprlab.github.io/author/anadi-shakya/&#34;&gt;Anadi Shakya&lt;/a&gt; got accepted into the Graduate Student Mentor Training Course for Fall 2025. The goal of the course is to provide mentors of undergraduate researchers with the essential skills necessary to build robust research settings.&lt;/p&gt;
+&lt;p&gt;To learn more, please check out the &lt;a href=&#34;https://cra.org/ur2phd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UR2PhD website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Summer 2025 Week 4</title>
       <link>https://diprlab.github.io/dbrg/events/2025/summer/04/</link>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
@@ -376,7 +552,7 @@ If you would rather share information about these matters with a PSU staff membe
       Abstract
     &lt;/td&gt;
     &lt;td&gt;
-      The detection of anomalies in time series has gained ample academic and industrial attention. However, no comprehensive benchmark exists to evaluate time-series anomaly detection methods. It is common to use (i) proprietary or synthetic data, often biased to support particular claims; or (ii) a limited collection of publicly available datasets. Consequently, we often observe methods performing exceptionally well in one dataset but surprisingly poorly in another, creating an illusion of progress. To address the issues above, we thoroughly studied over one hundred papers to identify, collect, process, and systematically format datasets proposed in the past decades. We summarize our eort in TSB-UAD, a new benchmark to ease the evaluation of univariate time-series anomaly detection methods. Overall, TSB-UAD contains 13766 time series with labeled anomalies spanning dierent domains with high variability of anomaly types, ratios, and sizes. TSB-UAD includes 18 previously proposed datasets containing 1980 time series and we contribute two collections of datasets. Specically, we generate 958 time series using a principled methodology for transforming 126 time-series classication datasets into time series with labeled anomalies. In addition, we present data transformations with which we introduce new anomalies, resulting in 10828 time series with varying complexity for anomaly detection. Finally, we evaluate 12 representative methods demonstrating that TSB-UAD is a robust resource for assessing anomaly detection methods. We make our data and code available at www.timeseries.org/TSB-UAD. TSB-UAD provides a valuable, reproducible, and frequently updated resource to establish a leaderboard of univariate time-series anomaly detection methods.
+      The detection of anomalies in time series has gained ample academic and industrial attention. However, no comprehensive benchmark exists to evaluate time-series anomaly detection methods. It is common to use (i) proprietary or synthetic data, often biased to support particular claims; or (ii) a limited collection of publicly available datasets. Consequently, we often observe methods performing exceptionally well in one dataset but surprisingly poorly in another, creating an illusion of progress. To address the issues above, we thoroughly studied over one hundred papers to identify, collect, process, and systematically format datasets proposed in the past decades. We summarize our effort in TSB-UAD, a new benchmark to ease the evaluation of univariate time-series anomaly detection methods. Overall, TSB-UAD contains 13766 time series with labeled anomalies spanning different domains with high variability of anomaly types, ratios, and sizes. TSB-UAD includes 18 previously proposed datasets containing 1980 time series and we contribute two collections of datasets. Specifically, we generate 958 time series using a principled methodology for transforming 126 time-series classification datasets into time series with labeled anomalies. In addition, we present data transformations with which we introduce new anomalies, resulting in 10828 time series with varying complexity for anomaly detection. Finally, we evaluate 12 representative methods demonstrating that TSB-UAD is a robust resource for assessing anomaly detection methods. We make our data and code available at www.timeseries.org/TSB-UAD. TSB-UAD provides a valuable, reproducible, and frequently updated resource to establish a leaderboard of univariate time-series anomaly detection methods.
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
@@ -711,12 +887,11 @@ If you would rather share information about these matters with a PSU staff membe
     </item>
     
     <item>
-      <title>EduPrivacy</title>
+      <title>My Privacy Awareness Learning Games (MyPAL Games)</title>
       <link>https://diprlab.github.io/project/eduprivacy/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://diprlab.github.io/project/eduprivacy/</guid>
-      <description>&lt;p&gt;EduPrivacy is an educational website design to help children
-learn about different aspects of online privacy. It presents
+      <description>&lt;p&gt;My Privacy Awareness Learning Games (MyPAL Games) is an educational website design to help children learn about different aspects of online privacy. It presents
 lessons in the format of comics, and then quizzes them on
 their knowledge after each lesson.&lt;/p&gt;
 </description>
@@ -788,17 +963,6 @@ their communities by pursuing research opportunities in STEM, biomedical, behavi
 sciences.  Students do not have to have prior research experience to participate!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;DIPr lab had a table at SRA 2024 with the following members attending (from left to right): &lt;a href=&#34;https://diprlab.github.io/author/nicholas-g.e.-morales/&#34;&gt;Nicholas G.E. Morales&lt;/a&gt;, Michael Howard, &lt;a href=&#34;https://diprlab.github.io/author/satvik-mudgal/&#34;&gt;Satvik Mudgal&lt;/a&gt;, &lt;a href=&#34;https://diprlab.github.io/author/steve-willoughby/&#34;&gt;Steve Willoughby&lt;/a&gt;, &lt;a href=&#34;https://diprlab.github.io/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt;, and &lt;a href=&#34;https://diprlab.github.io/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt;. We had many interested undergraduates stop by our table to learn about our various research projects.&lt;/p&gt;
 &lt;p&gt;To learn more about, please check out their website &lt;a href=&#34;https://sites.google.com/pdx.edu/2024-sra/home-page?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2024 SRA website&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Securing IoT Communication Protocols at Scale</title>
-      <link>https://diprlab.github.io/project/pubsubcontrol/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://diprlab.github.io/project/pubsubcontrol/</guid>
-      <description>&lt;p&gt;The world of the connected “Internet of Things” is expanding to include more devices which observe our daily lives, routines, locations, and even our state of health. But have the underlying protocols by which they communicate this data kept pace with the need to protect our privacy and security?&lt;/p&gt;
-&lt;p&gt;In this project, we will investigate various “middleware” approaches to injecting dynamic access control agents into existing MQTT broker servers and measure their performance on real and/or simulated network environments as well as their resilience to security threats.&lt;/p&gt;
-&lt;p&gt;We seek to strengthen the protocols underlying the communication between IoT devices, such as MQTT, to adjudicate who is authorized to access which information, where the access parameters may rapidly and frequently change, without impacting performance, based on the implications of the MQTT message topic hierarchical structure combined with geospacial security policy “zones” and techniques to simplfy and consolidate policy rules in real time.&lt;/p&gt;
-</description>
     </item>
     
     <item>
