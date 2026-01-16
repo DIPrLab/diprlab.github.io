@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shufan Zhang | DIPr Lab at PSU</title>
+    <link>https://diprlab.github.io/author/shufan-zhang/</link>
+      <atom:link href="https://diprlab.github.io/author/shufan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shufan Zhang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://diprlab.github.io/media/logo_hu_f67add51057eb433.png</url>
+      <title>Shufan Zhang</title>
+      <link>https://diprlab.github.io/author/shufan-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Don&#39;t Be a Tattle-Tale: Preventing Leakages through Data Dependencies on Access Control Protected Data</title>
+      <link>https://diprlab.github.io/publication/tattle-tale/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/publication/tattle-tale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

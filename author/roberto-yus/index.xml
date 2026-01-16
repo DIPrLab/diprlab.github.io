@@ -5,12 +5,28 @@
     <link>https://diprlab.github.io/author/roberto-yus/</link>
       <atom:link href="https://diprlab.github.io/author/roberto-yus/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto Yus</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://diprlab.github.io/author/roberto-yus/avatar_hu_386d2ffc11da7ada.png</url>
+      <url>https://diprlab.github.io/media/logo_hu_f67add51057eb433.png</url>
       <title>Roberto Yus</title>
       <link>https://diprlab.github.io/author/roberto-yus/</link>
     </image>
+    
+    <item>
+      <title>BL(u)E CRAB: A User-Centric Framework for Identifying Suspicious Bluetooth Trackers</title>
+      <link>https://diprlab.github.io/publication/bluecrab/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/publication/bluecrab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants</title>
+      <link>https://diprlab.github.io/publication/genaipa/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/publication/genaipa/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

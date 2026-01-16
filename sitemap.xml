@@ -30,6 +30,14 @@
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://diprlab.github.io/project/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/post/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://diprlab.github.io/tag/access-control/</loc>
     <lastmod>2025-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -55,10 +63,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/author/jacob-olinger/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://diprlab.github.io/project/</loc>
     <lastmod>2025-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -110,11 +114,7 @@
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/post/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://diprlab.github.io/post/09-04-25-ur2phd/</loc>
+    <loc>https://diprlab.github.io/post/2025/ur2phd/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -150,7 +150,7 @@
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/post/05-06-25-satvik-urmp/</loc>
+    <loc>https://diprlab.github.io/post/2025/satvik_urmp/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -166,7 +166,7 @@
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/post/18-03-25-percom/</loc>
+    <loc>https://diprlab.github.io/post/2025/percom/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -194,7 +194,11 @@
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/author/dylan-conklin-primal-pappachan-roberto-yus/</loc>
+    <loc>https://diprlab.github.io/author/dylan-conklin/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/primal-pappachan/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -206,7 +210,7 @@
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/tag/source-themes/</loc>
+    <loc>https://diprlab.github.io/author/roberto-yus/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -230,19 +234,19 @@
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/post/02-07-25-nwds/</loc>
+    <loc>https://diprlab.github.io/post/2025/nwds/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/post/07-29-24-cyberpdx/</loc>
+    <loc>https://diprlab.github.io/post/2024/cyber_pdx/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/post/06-21-24-anadi-rpe/</loc>
+    <loc>https://diprlab.github.io/post/2024/anadi_rpe/</loc>
     <lastmod>2024-06-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/post/06-21-24-sra/</loc>
+    <loc>https://diprlab.github.io/post/2024/sra/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -310,15 +314,19 @@
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/author/aamir-hamid-hemanth-reddy-samidi-tim-finin-primal-pappachan-roberto-yus/</loc>
+    <loc>https://diprlab.github.io/author/aamir-hamid/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/author/abhiroop-tippavajjula-primal-pappachan-anna-squicciarini-jose-such/</loc>
+    <loc>https://diprlab.github.io/author/abhiroop-tippavajjula/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/publication/accord/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/anna-squicciarini/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -330,7 +338,23 @@
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/post/21-01-24-launch/</loc>
+    <loc>https://diprlab.github.io/author/hemanth-reddy-samidi/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/jose-such/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/tag/source-themes/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/tim-finin/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/post/2024/launch/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -350,7 +374,15 @@
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/author/primal-pappachan-shufan-zhang-xi-he-sharad-mehrotra/</loc>
+    <loc>https://diprlab.github.io/author/sharad-mehrotra/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/shufan-zhang/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/xi-he/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

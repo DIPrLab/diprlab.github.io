@@ -5,7 +5,7 @@
     <link>https://diprlab.github.io/post/</link>
       <atom:link href="https://diprlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diprlab.github.io/media/logo_hu_f67add51057eb433.png</url>
       <title>Latest News</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>UR2PhD programm acceptance</title>
-      <link>https://diprlab.github.io/post/09-04-25-ur2phd/</link>
+      <link>https://diprlab.github.io/post/2025/ur2phd/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://diprlab.github.io/post/09-04-25-ur2phd/</guid>
+      <guid>https://diprlab.github.io/post/2025/ur2phd/</guid>
       <description>&lt;p&gt;About UR2PHD:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://cra.org/ur2phd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UR2PhD (Undergraduate Research to PhD)&lt;/a&gt; is a three-month, national virtual program run by the Computing Research Association that pairs undergraduate researchers with graduate student mentors in computing. As part of this, there is a structured mentorship course for graduate students. The course helps graduate mentors learn how to support undergraduate researchers effectively, with a focus on inclusive, research-based mentoring practices. Topics include how people learn in research settings, aligning expectations, articulating a mentoring philosophy, giving effective feedback, and helping mentees feel that they belong in the computing research community.&lt;/p&gt;&lt;/blockquote&gt;
@@ -26,38 +26,38 @@
     
     <item>
       <title>DIPr Lab at URMP Poster Competition</title>
-      <link>https://diprlab.github.io/post/05-06-25-satvik-urmp/</link>
+      <link>https://diprlab.github.io/post/2025/satvik_urmp/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://diprlab.github.io/post/05-06-25-satvik-urmp/</guid>
+      <guid>https://diprlab.github.io/post/2025/satvik_urmp/</guid>
       <description>&lt;p&gt;Portland State University&amp;rsquo;s Undergraduate Research &amp;amp; Mentor Program &lt;a href=&#34;https://www.pdx.edu/engineering/urmp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(URMP)&lt;/a&gt; hosted a poster competition that brings together student researchers and allows them to demonstrate their work. &lt;a href=&#34;https://diprlab.github.io/author/satvik-mudgal/&#34;&gt;Satvik Mudgal&lt;/a&gt; presented a poster about &lt;a href=&#34;https://diprlab.github.io/project/sieve&#34;&gt;Sieve&lt;/a&gt;, and placed as the second runner-up.&lt;/p&gt;
 &lt;p&gt;The poster can be found &lt;a href=&#34;URMP_Poster_Satvik.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>DIPr Lab at PERCOM 2025</title>
-      <link>https://diprlab.github.io/post/18-03-25-percom/</link>
+      <title>DIPr Lab at PerCom 2025</title>
+      <link>https://diprlab.github.io/post/2025/percom/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://diprlab.github.io/post/18-03-25-percom/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.percom.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE PERCOM&lt;/a&gt; is an annual meeting that brings together researchers and practitioners of pervasive computing and communications for technical talks and networking on the broad topic of pervasive computing. &lt;a href=&#34;https://diprlab.github.io/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt; presented the &lt;a href=&#34;BLuE_CRAB_Demo_Paper.pdf&#34;&gt;demo paper&lt;/a&gt; and a live demonstration of &lt;a href=&#34;https://diprlab.github.io/project/BlueCrab&#34;&gt;BL(u)E CRAB&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://diprlab.github.io/post/2025/percom/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.percom.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE PerCom&lt;/a&gt; is an annual meeting that brings together researchers and practitioners of pervasive computing and communications for technical talks and networking on the broad topic of pervasive computing. &lt;a href=&#34;https://diprlab.github.io/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt; presented the &lt;a href=&#34;BLuE_CRAB_Demo_Paper.pdf&#34;&gt;demo paper&lt;/a&gt; and a live demonstration of &lt;a href=&#34;https://diprlab.github.io/project/BlueCrab&#34;&gt;BL(u)E CRAB&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We thank the &lt;a href=&#34;https://www.nsf.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Science Foundation (NSF)&lt;/a&gt; for awarding &lt;a href=&#34;https://diprlab.github.io/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt; a travel grant for this conference.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DIPr Lab at NorthWest Database Society (2025) Meeting</title>
-      <link>https://diprlab.github.io/post/02-07-25-nwds/</link>
+      <link>https://diprlab.github.io/post/2025/nwds/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://diprlab.github.io/post/02-07-25-nwds/</guid>
+      <guid>https://diprlab.github.io/post/2025/nwds/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://db.cs.washington.edu/events/database_day/2025/database_day_2025.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Northwest Database Society&lt;/a&gt; Annual Meeting brings together researchers and practitioners from the greater Pacific Northwest for a day of technical talks and networking on the broad topic of data management systems.
 DIPr lab members (from left to right): &lt;a href=&#34;https://diprlab.github.io/author/orobosa-ekhator/&#34;&gt;Orobosa Ekhator&lt;/a&gt;, &lt;a href=&#34;https://diprlab.github.io/author/anadi-shakya/&#34;&gt;Anadi Shakya&lt;/a&gt;, and &lt;a href=&#34;https://diprlab.github.io/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt; attended the full day event at University of Washington, Seattle.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>CyberPDX 2024</title>
-      <link>https://diprlab.github.io/post/07-29-24-cyberpdx/</link>
+      <link>https://diprlab.github.io/post/2024/cyber_pdx/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://diprlab.github.io/post/07-29-24-cyberpdx/</guid>
+      <guid>https://diprlab.github.io/post/2024/cyber_pdx/</guid>
       <description>&lt;p&gt;About CyberPDX:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;CyberPDX is a no-cost 5-day residential summer STEAM camp hosted at the Portland State University Maseeh College of Engineering &amp;amp; Computer Science. This year&amp;rsquo;s camp is designed for Native and Indigenous high school students to introduce them to cybersecurity skills, principles, policies, and careers through an interactive STEAM curriculum and career exposure. All are welcome. The camp activities will be led by many PSU faculty and local experts, which includes local Indigenous leaders. This is an incredible opportunity for Native and Indigenous students to get an immersive, interdisciplinary, and fun experience on a college campus. No prior experience is necessary, and beginners are welcome!&lt;/p&gt;&lt;/blockquote&gt;
@@ -74,9 +74,9 @@ DIPr lab members (from left to right): &lt;a href=&#34;https://diprlab.github.io
     
     <item>
       <title>RPE presentation - Anadi Shakya</title>
-      <link>https://diprlab.github.io/post/06-21-24-anadi-rpe/</link>
+      <link>https://diprlab.github.io/post/2024/anadi_rpe/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://diprlab.github.io/post/06-21-24-anadi-rpe/</guid>
+      <guid>https://diprlab.github.io/post/2024/anadi_rpe/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://diprlab.github.io/author/anadi-shakya/&#34;&gt;Anadi Shakya&lt;/a&gt; successfully completed the oral part of her Research Profiency Examination (RPE) on &lt;strong&gt;‘Sieve and Cache: Scalable Access Control for Dynamic IoT Applications’&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Committee Members&lt;/strong&gt;: &lt;a href=&#34;https://diprlab.github.io/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt; (Portland State University) ; Dave Maier (Portland State University) ; Wu-chang Feng (Portland State University)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: The proliferation of smart technologies and newer privacy regulations necessitate effective management of user preferences about data sharing using access control policies. Current Database Management Systems (DBMS) struggle to efficiently answer queries while enforcing a large number of Fine-Grained Access Control (FGAC) policies. Sieve is a middleware for relational DBMSs that generate guarded expressions, which are efficient rewriting of queries with a given set of policies. In this paper, we extend Sieve with caching of guarded expressions to better handle dynamic workloads involving a series of policy insertions and queries at different frequencies. Our novel caching approach includes a replacement policy based on clock algorithm and a refresh strategy based on cost analysis to select between regeneration and update of guarded expressions. We also develop a workload generator that creates different workloads with different distributions of policies, and queries that are relevant to a chosen scenario. These workloads simulate realistic IoT scenarios, such as smart campus applications. Experimental results show that Sieve, enhanced with caching, is effective in terms of cache-hits and efficient in terms of system load and latency of query answering, in dynamic environments.&lt;/p&gt;</description>
@@ -84,9 +84,9 @@ DIPr lab members (from left to right): &lt;a href=&#34;https://diprlab.github.io
     
     <item>
       <title>DIPr Lab at 2024 Summer Research Academy (SRA)</title>
-      <link>https://diprlab.github.io/post/06-21-24-sra/</link>
+      <link>https://diprlab.github.io/post/2024/sra/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://diprlab.github.io/post/06-21-24-sra/</guid>
+      <guid>https://diprlab.github.io/post/2024/sra/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Summer Research Academy (SRA) is designed to engage undergraduate students interested in making a difference in
 their communities by pursuing research opportunities in STEM, biomedical, behavioral, clinical, health, and social
@@ -97,9 +97,9 @@ sciences.  Students do not have to have prior research experience to participate
     
     <item>
       <title>Welcome to DIPr lab at PSU</title>
-      <link>https://diprlab.github.io/post/21-01-24-launch/</link>
+      <link>https://diprlab.github.io/post/2024/launch/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://diprlab.github.io/post/21-01-24-launch/</guid>
+      <guid>https://diprlab.github.io/post/2024/launch/</guid>
       <description>&lt;p&gt;The Database &amp;amp; Internet Privacy Lab offically starts at the Portland State University. We are a diverse group of researchers studying problems in user privacy, data management, access control, differential privacy, systems, algorithms, and privacy regulations.&lt;/p&gt;</description>
     </item>
     
