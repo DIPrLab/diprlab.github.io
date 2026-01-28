@@ -22,3 +22,9 @@
     
   </channel>
 </rss>
+cross-platform compatibility issues, and inconsistent detection methods. BL(u)E CRAB identifies suspicious BLE trackers based on various risk factors including the number of encounters, time with the user, distance traveled with the user, number of areas each device appeared in and device proximity to user. BL(u)E CRAB presents this information in an intuitive way to help users determine which devices pose the biggest threat to them based on their context.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

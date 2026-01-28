@@ -5,12 +5,40 @@
     <link>https://diprlab.github.io/post/</link>
       <atom:link href="https://diprlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diprlab.github.io/media/logo_hu_f67add51057eb433.png</url>
       <title>Latest News</title>
       <link>https://diprlab.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Data Privacy Day 2026</title>
+      <link>https://diprlab.github.io/post/2026/data_privacy_day/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/post/2026/data_privacy_day/</guid>
+      <description>&lt;div style=&#34;position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;&#34;&gt;
+  &lt;iframe loading=&#34;lazy&#34;
+    style=&#34;position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;&#34;
+    src=&#34;https://www.canva.com/design/DAG_pGGI1_0/39aqM5FzT5fmZZ1JujzPqA/view?embed&#34; allowfullscreen=&#34;allowfullscreen&#34;
+    allow=&#34;fullscreen&#34;&gt;
+  &lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thesis Defense - Dylan Conklin</title>
+      <link>https://diprlab.github.io/post/2025/blue_crab_defense/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/post/2025/blue_crab_defense/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://diprlab.github.io/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt; successfully defended is M.S. thesis on &lt;a href=&#34;https://diprlab.github.io/project/bluecrab/&#34;&gt;BL(u)E CRAB&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Committee&lt;/strong&gt;: &lt;a href=&#34;https://diprlab.github.io/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt;, Roberto Yus, Bart Massey, Nirupama Bulusu, Wu-Chang Feng&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: The usage of Bluetooth Low Energy (BLE)-based tracker devices for stalking has become a salient privacy concern. Detecting unwanted or suspicious trackers is challenging due to their cross-platform compatibility issues, inconsistent detection methods, and lack of an industry-wide standard for detecting malicious devices. BL(u)E CRAB, Bluetooth Low Energy Connection Risk Assessment Benchmarking, scans and collects risk factors about nearby devices to classify them as suspicious or not. These risk factors include the number of encounters the user had with a device, the duration of time a device has been near the user, the distance a device has travelled with the user, the number of areas each device appeared in, the device&amp;rsquo;s proximity to the user, and the stability of the device&amp;rsquo;s signal strength. After collecting this information, BL(u)E CRAB uses one of several classifiers adapted to these risk metrics to determine whether a device is suspicious or not. We have integrated a multitude of new device classifier methods, including single- and multi-dimensional clustering methods. We evaluated these classifiers against existing methods using a diverse dataset of BLE tracker data in various real-world scenarios. The benchmark results show the efficacy of different classifiers in identifying suspicious BLE trackers. We also developed a full working prototype of BL(u)E CRAB that is an end-to-end solution that is easy to use, customizable, and can easily integrate other classifiers.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>UR2PhD programm acceptance</title>
