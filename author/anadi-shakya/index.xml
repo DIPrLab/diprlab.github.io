@@ -5,12 +5,42 @@
     <link>https://diprlab.github.io/author/anadi-shakya/</link>
       <atom:link href="https://diprlab.github.io/author/anadi-shakya/index.xml" rel="self" type="application/rss+xml" />
     <description>Anadi Shakya</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diprlab.github.io/author/anadi-shakya/avatar_hu_d7d4ea540fdde860.png</url>
       <title>Anadi Shakya</title>
       <link>https://diprlab.github.io/author/anadi-shakya/</link>
     </image>
+    
+    <item>
+      <title>Winter 2026 Week 2</title>
+      <link>https://diprlab.github.io/dbrg/events/2026/winter/02/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/dbrg/events/2026/winter/02/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Title&lt;/td&gt;
+    &lt;td&gt;
+      LLM-Driven Auto Configuration for Transient IoT Device Collaboration
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Authors&lt;/td&gt;
+    &lt;td&gt;
+      Hetvi Shastri, Walid A. Hanafy, Li Wu, David Irwin, Mani Srivastava, Prashant Shenoy
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Abstract&lt;/td&gt;
+    &lt;td&gt;
+      Today&#39;s Internet of Things (IoT) has evolved from simple sensing and actuation devices to those with embedded processing and intelligent services, enabling rich collaborations between users and their devices. However, enabling such collaboration becomes challenging when transient devices need to interact with host devices in temporarily visited environments. In such cases, fine-grained access control policies are necessary to ensure secure interactions; however, manually implementing them is often impractical for non-expert users. Moreover, at run-time, the system must automatically configure the devices and enforce such fine-grained access control rules. Additionally, the system must address the heterogeneity of devices.&lt;br /&gt;&lt;br /&gt;
+      In this paper, we present CollabIoT, a system that enables secure and seamless device collaboration in transient IoT environments. CollabIoT employs a Large language Model (LLM)-driven approach to convert users&#39; high-level intents to fine-grained access control policies. To support secure and seamless device collaboration, CollabIoT adopts capability-based access control for authorization and uses lightweight proxies for policy enforcement, providing hardware-independent abstractions.&lt;br /&gt;&lt;br /&gt;
+      We implement a prototype of CollabIoT&#39;s policy generation and auto configuration pipelines and evaluate its efficacy on an IoT testbed and in large-scale emulated environments. We show that our LLM-based policy generation pipeline is able to generate functional and correct policies with 100% accuracy. At runtime, our evaluation shows that our system configures new devices in ~150 ms, and our proxy-based data plane incurs network overheads of up to 2 ms and access control overheads up to 0.3 ms.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Summer 2025 Week 2</title>

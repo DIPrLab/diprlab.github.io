@@ -5,12 +5,40 @@
     <link>https://diprlab.github.io/author/dave-meier/</link>
       <atom:link href="https://diprlab.github.io/author/dave-meier/index.xml" rel="self" type="application/rss+xml" />
     <description>Dave Meier</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diprlab.github.io/author/dave-meier/avatar_hu_386d2ffc11da7ada.png</url>
       <title>Dave Meier</title>
       <link>https://diprlab.github.io/author/dave-meier/</link>
     </image>
+    
+    <item>
+      <title>Winter 2026 Week 5</title>
+      <link>https://diprlab.github.io/dbrg/events/2026/winter/05/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/dbrg/events/2026/winter/05/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Title&lt;/td&gt;
+    &lt;td&gt;
+      I Can’t Believe It’s Not Yannakakis: Pragmatic Bitmap Filters in Microsoft SQL Server
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Authors&lt;/td&gt;
+    &lt;td&gt;
+      Hangdong Zhao et al.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Abstract&lt;/td&gt;
+    &lt;td&gt;
+      The quest for optimal join processing has reignited interest in the Yannakakis algorithm, as researchers seek to realize its theoretical ideal in practice via bitmap filters instead of expensive semijoins. While this academic pursuit may seem distant from industrial practice, our investigation into production databases led to a startling discovery: over the last decade, Microsoft SQL Server has built an infrastructure for bitmap pre-filtering that subsumes the very spirit of Yannakakis! This is not a story of academia leading industry; but rather of industry practice, guided by pragmatic optimization, outpacing academic endeavors. This paper dissects this discovery. As a crucial contribution, we prove how SQL Server’s bitmap filters, pull-based execution, and Cascades optimizer conspire to not only consider, but often generate, instance-optimal plans, when it truly minimizes the estimated cost! Moreover, its rich plan search space reveals novel, largely overlooked pre-filtering opportunities on intermediate results, which approach strong semi-robust runtime for arbitrary join graphs. Instead of a verdict, this paper is an invitation: by exposing a system design that is long-hidden, we point our community towards a challenging yet promising research terrain.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Fall 2025 Week 7</title>

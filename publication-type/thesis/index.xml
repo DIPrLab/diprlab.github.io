@@ -5,7 +5,7 @@
     <link>https://diprlab.github.io/publication-type/thesis/</link>
       <atom:link href="https://diprlab.github.io/publication-type/thesis/index.xml" rel="self" type="application/rss+xml" />
     <description>Thesis</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diprlab.github.io/media/logo_hu_f67add51057eb433.png</url>
       <title>Thesis</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>BL(u)E CRAB: A User-Centric Framework for Identifying Suspicious Bluetooth Trackers</title>
-      <link>https://diprlab.github.io/publication/bluecrab/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://diprlab.github.io/publication/bluecrab/</guid>
+      <title>BL(u)E CRAB: Bluetooth Low Energy Connection Risk Assessment Benchmarking</title>
+      <link>https://diprlab.github.io/publication/blue_crab_thesis/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/publication/blue_crab_thesis/</guid>
       <description></description>
     </item>
     
