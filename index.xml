@@ -202,20 +202,25 @@ You are not expected to work on weekends and holidays. Consult with Primal and n
 &lt;li&gt;Outreach events (such as &lt;a href=&#34;https://www.pdx.edu/center-for-internship-mentoring-and-research/summer-research-academy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer Research Academy&lt;/a&gt;, &lt;a href=&#34;https://www.pdx.edu/engineering/cyberpdx-cybersecurity-camp-native-indigenous-high-school-students&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CyberPDX&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;communication&#34;&gt;Communication&lt;/h3&gt;
-&lt;p&gt;Email and Zulip will be the primary communication mediums. This should be primarily viewed as a medium for
-asynchronous communication. If you receive a message, you are neither obligated to read nor to
-respond immediately (and you shouldn’t expect this when you’re sending, too). The expectation is that you will respond to the email within 24-48 hours.&lt;/p&gt;
+&lt;p&gt;Email and Zulip will be the primary communication mediums. This should be primarily viewed as a medium for asynchronous communication. If you receive a message, you are neither obligated to read nor to respond immediately (and you shouldn’t expect this when you’re sending, too). The expectation is that you will respond to the email within 24-48 hours.&lt;/p&gt;
 &lt;h3 id=&#34;authorship&#34;&gt;Authorship&lt;/h3&gt;
-&lt;p&gt;Authorship is earned by someone who
-significantly contributes to the project (e.g., conceives of the project, designs solution, performs
-simulations or experiments and analyzes results, writes the paper). All authors must read, proof-
-read, and sign off on the final version of the manuscript before submission.
+&lt;p&gt;Authorship is earned by someone who significantly contributes to the project (e.g., conceives of the project, designs solution, performs simulations or experiments and analyzes results, writes the paper). All authors must read, proofread, and sign off on the final version of the manuscript before submission.
 Barring unusual circumstances, the lab policy is that students are first-­author on all work for which they are leading.&lt;/p&gt;
+&lt;h3 id=&#34;guidelines-for-phd-and-ms-defense&#34;&gt;Guidelines for PhD and MS Defense&lt;/h3&gt;
+&lt;p&gt;The university has guidelines for remote participation. Please note:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All committee members must agree to remote in advance&lt;/li&gt;
+&lt;li&gt;Remote connections for committee members are expected to be both audio and video&lt;/li&gt;
+&lt;li&gt;Visual aids must be distributed in advance&lt;/li&gt;
+&lt;li&gt;All committee members must participate in the entire meeting&lt;/li&gt;
+&lt;li&gt;A draft of the thesis must be delivered to the committee at least two weeks in advance of defense&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Student must send their abstract and other required information at least two weeks in advance of the defense to the CS Graduate Advisor (&lt;a href=&#34;mailto:gccs@pdx.edu&#34;&gt;gccs@pdx.edu&lt;/a&gt;).
+Students should not book their room for the defense. The Graduate Advisor will do so once she has received the student&amp;rsquo;s abstract.&lt;/p&gt;
+&lt;p&gt;The expectations for student milestones are outlined in greater detail &lt;a href=&#34;https://docs.google.com/document/d/1-u5RtUlbHZvduDRpGGFtgLQlZ1Fy_GlsAqV9ssipXrk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in this document&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;code-management&#34;&gt;Code Management&lt;/h3&gt;
-&lt;p&gt;Code and data are important and it is your responsability to make sure that nothing is lost. Have
-a plan to make sure that your code and data are safe and accessible to other members of the group.
-We all work on related topics in the group so, we all benefit from utilizing each other code/data
-(with appropriate acknowledgement and after requesting access to it).&lt;/p&gt;
+&lt;p&gt;Code and data are important and it is your responsability to make sure that nothing is lost. Have a plan to make sure that your code and data are safe and accessible to other members of the group.
+We all work on related topics in the group so, we all benefit from utilizing each other code/data (with appropriate acknowledgement and after requesting access to it).&lt;/p&gt;
 &lt;h4 id=&#34;github&#34;&gt;GitHub&lt;/h4&gt;
 &lt;p&gt;The DIPr lab has a dedicated &lt;a href=&#34;https://github.com/DIPrLab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub account&lt;/a&gt; for hosting public repositories, including the code we create and our group website (hosted on GitHub Pages). Unless specified otherwise, all files required to reproduce research results will be made publicly available on the DIPr lab’s GitHub repository. For double-blind review cases, public access may occur post-acceptance, but every published paper will link to a public GitHub repository with the corresponding code and data.&lt;/p&gt;
 &lt;h4 id=&#34;backups&#34;&gt;Backups&lt;/h4&gt;
@@ -223,7 +228,7 @@ We all work on related topics in the group so, we all benefit from utilizing eac
 &lt;h4 id=&#34;ethical-management-of-data&#34;&gt;Ethical management of data&lt;/h4&gt;
 &lt;p&gt;If your research involves data related to individuals, it is essential to follow ethical guidelines. Always consult with Primal if you are uncertain about the responsible handling of such data. Ethical standards are particularly important in these situations, so reach out if you need clarification.&lt;/p&gt;
 &lt;h3 id=&#34;quarterly-evaluation-form&#34;&gt;Quarterly evaluation form&lt;/h3&gt;
-&lt;p&gt;At the end of each quarter, you will be a receiving &lt;a href=&#34;https://docs.google.com/document/d/1lGzuArWoY6KrTF1ploBmYVpMKWPPwqMJIHcMmrLhJtg/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the following evaluation form&lt;/a&gt; asking you to reflect you on your progress and your experience as a mentee. We will sit aside time during an individual meeting at the beginning of following quarter to review your answers together. This is an opportunity for you to share any concerns you may have about your experience as a graduate student, whether they involve other students, faculty, or staff.&lt;/p&gt;
+&lt;p&gt;At the end of each quarter, you will be receiving &lt;a href=&#34;https://docs.google.com/document/d/1lGzuArWoY6KrTF1ploBmYVpMKWPPwqMJIHcMmrLhJtg/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the following evaluation form&lt;/a&gt; asking you to reflect you on your progress and your experience as a mentee. We will sit aside time during an individual meeting at the beginning of following quarter to review your answers together. This is an opportunity for you to share any concerns you may have about your experience as a graduate student, whether they involve other students, faculty, or staff.&lt;/p&gt;
 &lt;p&gt;This discussion is also a chance to address any concerns you may have about my role as your advisor. If you need more guidance, would like more independence, or would prefer more frequent meetings, please let me know. Likewise, I’ll provide feedback on your progress, noting any areas where improvement is needed so we can address them proactively. This session is our time to address any concerns early, ensuring that we’re aligned on your goals and progress.&lt;/p&gt;
 &lt;h3 id=&#34;individual-development-plans&#34;&gt;Individual Development Plans&lt;/h3&gt;
 &lt;p&gt;Primal will work with each of you to develop your individual mentoring plan that serves to ensure your time in the lab progresses your short, medium, and long-term goals. This is a useful planning document that assists in aligning expectations. Graduate students will revisit the mentoring plan during an individual meeting with Primal during multiple times in the year. Other lab members will revisit these at appropriate time scales (e.g. every 6 months). For this purpose, we will either modify a &lt;a href=&#34;https://docs.google.com/document/d/1DdQA4rMAdrPlMW7LMsE5pfBtDGZgKRBl/edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;template&lt;/a&gt; (for all students) or use an online &lt;a href=&#34;https://myidp.sciencecareers.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tool&lt;/a&gt; (geared towards PhD students and PostDocs).&lt;/p&gt;
@@ -325,7 +330,7 @@ If you would rather share information about these matters with a PSU staff membe
 &lt;h2 id=&#34;exit-interview&#34;&gt;Exit Interview&lt;/h2&gt;
 &lt;p&gt;Set up a dedicated time to meet with Primal to talk about your time in the lab, and to go through the below checklist to make sure these have been done. Besides the checklist, things to talk about include the best part of being in our team, whether you got the support you needed and what could we improve for mentoring and training someone in your role in the future.&lt;/p&gt;
 &lt;h2 id=&#34;project-documentation&#34;&gt;Project Documentation&lt;/h2&gt;
-&lt;p&gt;Project work should be hosted either in a repository under the organizational GitHub account.&lt;/p&gt;
+&lt;p&gt;Project work should be hosted in a repository under the organizational GitHub account.&lt;/p&gt;
 &lt;p&gt;Each project should have an easily found README text file that provides information for others so they can navigate and use your work, and give contact information for authors (and any data creators/use restrictions if propietary data). Ideally, the README should also include links to publications and presentations from the work.&lt;/p&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;p&gt;Science is not finished until it has been communicated. Ideally, you’ll have the chance to publish your results in a conference or journal. In your exit interview, coordinate with Primal on any remaining publications and set a submission timeline. Ensure that all publications and presentations from your projects are archived in the appropriate folder on the lab’s Google Drive and are listed on the lab website where appropriate.&lt;/p&gt;
