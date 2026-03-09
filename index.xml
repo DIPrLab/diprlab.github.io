@@ -1219,14 +1219,11 @@ Then, using these action constraints, ACCORD can automatically detect future con
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://diprlab.github.io/contact/</link>
+      <title>About</title>
+      <link>https://diprlab.github.io/about/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://diprlab.github.io/contact/</guid>
-      <description>&lt;!--
-Photo by &lt;a href=&#34;https://unsplash.com/@tobiastu?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash&#34;&gt;Tobias Tullius&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/photos/black-and-white-rectangular-frame-4dKy7d3lkKM?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash&#34;&gt;Unsplash&lt;/a&gt;
-   --&gt;
-</description>
+      <guid>https://diprlab.github.io/about/</guid>
+      <description></description>
     </item>
     
     <item>
