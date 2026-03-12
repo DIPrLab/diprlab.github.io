@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nico Wood | DIPr Lab at PSU</title>
+    <link>http://localhost:1313/author/nico-wood/</link>
+      <atom:link href="http://localhost:1313/author/nico-wood/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nico Wood</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/nico-wood/avatar_hu_386d2ffc11da7ada.png</url>
+      <title>Nico Wood</title>
+      <link>http://localhost:1313/author/nico-wood/</link>
+    </image>
+    
+  </channel>
+</rss>
