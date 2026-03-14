@@ -1,0 +1,47 @@
+January 28, 2026
+The Data Privacy Day Newsletter
+DIPr Lab, Portland State University
+It’s Data Privacy Day, and the DIPr Lab is excited to bring you a look at some of our current projects and privacy tips we’ve gathered from students.
+myPAL Games: a fun way to learn about about Online Data Privacy 
+By Tina McComiskey
+My Privacy Awareness Learning Games (myPAL Games) is a website that includes interactive comics and games to that present various real-life scenarios and asks the player to make privacy choices. The goal of myPAL Games is to make learning about internet privacy accessible and fun for audiences of all ages. Try this out yourself to see how you score in Spot the Sensitive Information or what kind of sea animal you are in Safe to Share (tell us if you are an octopus or a gold fish!). You can read more about the website here and feel free to reach out to us with any feedback.
+
+
+Finding and Identifying Suspicious Bluetooth Trackers
+By Dylan Conklin
+Bluetooth trackers are small, low-powered devices that use nearby devices to keep it’s location up-to-date. Detecting and locating unwanted Bluetooth trackers around us is challenging. BL(u)E CRAB is a mobile app that includes various features and data-driven methods to identify unwanted trackers nearby. It provides a user-friendly interface to present information about these trackers. You can check BL(u)E CRAB out on the DIPr Lab website.
+
+
+If you are looking for more information on how to protect yourself from surveillance and data breaches, the Electronic Frontier Foundation (EFF) has put together a great list of tutorials to help users secure their data from hackers, third-party services and government agencies. Their Surveillance Self-Defense (SSD) initiative includes easy-to-follow guides for securing your data, what to do when attending a protest, finding private alternatives to popular online services, and many others.
+
+
+Good Privacy Calls* 
+A collection of privacy advice from PSU students in CS 489/589 and DIPr lab members
+
+“Use a password manager such as 1Password and allow it to generate strong passwords for you.” — Mariah
+
+“Be skeptical of links and attachments, even if they look legit because phishing is common. Some messages are fake and trick you into giving personal information or downloading something harmful.” — Veniamin Velikoretskikh
+
+“Social apps connect us with people who share our passions, fears and hopes all over the world. Everyone should know how to control and restrict what they share on these apps.” — Jelani
+
+“ChatGPT (and many other apps) use opt out rather than opt in policies for AI training, and do not properly disclose training incentives to users of the application. ” — Ambika Vyas
+
+“Use an ad blocker, preferably one that blocks trackers.” — Ryan Mayers
+
+“Disable automatic image loading in your mailbox. Only load images from email addresses you recognize!” — Chris Lu
+
+“Photos taken by phones contain location data, if you post online or send someone a photo you took with your phone (e.g., at home) they can figure out where you live. A quick fix could be to share a screenshot of that image instead. ” — William Newby
+
+“Make time to read about devices before buying/using them. Use hardware security keys (e.g., YubiKey for critical accounts) instead of SMS.” — Godwin Ferguson Achaab
+*Inspired by NYTimes Good Calls **Some responses were edited for clarity or brevity.
+Watch a talk on Portland’s Privacy Program and Digital Rights Hector Dominguez, Ph.D. Hector is the Open Data and Privacy Coordinator at the City of Portland, Oregon and part of the Smart City PDX program. He is leading initiatives on open data, privacy, surveillance technologies, and automated decision systems, including AI, in the City. 
+
+Talk Summary: This presentation explores the history and implementation of privacy policies and best practices in the City of Portland, as well as describing what are the challenges and future steps of these efforts. The City of Portland has been leading local governments implementing privacy policies that center on people’s needs, equity, and responsible technology.
+About us
+
+
+The Database and Internet Privacy (DIPr) lab researches topics related to privacy to give users more control over their data, with a particular focus on data stored in databases. We work on problems in the intersection of data management and privacy to leverage query processing and privacy-preserving techniques respectively. You can read more about our projects on the DIPr Lab home page.
+Interested in learning more about privacy or working with the DIPr lab?
+Join our mailing list!
+Newsletter edited by:
+Tina McComiskey, Dylan Conklin, and Primal Pappachan

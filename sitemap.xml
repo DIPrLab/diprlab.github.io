@@ -166,6 +166,10 @@
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://diprlab.github.io/post/2025/spencer_urmp/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://diprlab.github.io/post/2025/ur2phd/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -438,10 +442,16 @@
     <loc>https://diprlab.github.io/author/chelsea-teh/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://diprlab.github.io/author/chris-lu/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://diprlab.github.io/author/gagandeep-bhatia/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/author/julay-leatherman-brooks/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/nico-wood/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/author/siddhartha-challa/</loc>
@@ -463,6 +473,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/author/your_first_name-your_last_name/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/zhi-qu/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

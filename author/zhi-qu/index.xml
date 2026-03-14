@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhi Qu | DIPr Lab at PSU</title>
+    <link>https://diprlab.github.io/author/zhi-qu/</link>
+      <atom:link href="https://diprlab.github.io/author/zhi-qu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhi Qu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://diprlab.github.io/author/zhi-qu/avatar_hu_6b6405be4e26a2e.jpg</url>
+      <title>Zhi Qu</title>
+      <link>https://diprlab.github.io/author/zhi-qu/</link>
+    </image>
+    
+  </channel>
+</rss>
