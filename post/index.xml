@@ -5,12 +5,25 @@
     <link>https://diprlab.github.io/post/</link>
       <atom:link href="https://diprlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diprlab.github.io/media/logo_hu_f67add51057eb433.png</url>
       <title>Latest News</title>
       <link>https://diprlab.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>UR2PhD program acceptance</title>
+      <link>https://diprlab.github.io/post/2026/ur2phd/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/post/2026/ur2phd/</guid>
+      <description>&lt;p&gt;About UR2PHD:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://cra.org/ur2phd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UR2PhD (Undergraduate Research to PhD)&lt;/a&gt; is a three-month, national virtual program run by the Computing Research Association that pairs undergraduate researchers with graduate student mentors in computing. The undergraduate research training course is a virtual, synchronous opportunity where undergraduate students receive support and training during their research with a faculty and graduate student mentor. It is designed for first-time researchers who want tostrengthen their technical and communication skills in the context of research.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://diprlab.github.io/author/ambika-vyas/&#34;&gt;Ambika Vyas&lt;/a&gt; and &lt;a href=&#34;https://diprlab.github.io/author/nico-wood/&#34;&gt;Nico Wood&lt;/a&gt; got accepted into the Undergraduate research training course for Spring of 2026.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;As an aspiring researcher, I&amp;rsquo;m grateful for this opportunity and the mentorship I will receive. I have been with the DIPr lab for a few months and have enjoyed participating in the research environment and working with Primal &amp;amp; Anadi. Being able to continue this with additional support from computer science professionals at different institutions is something I&amp;rsquo;m looking forward to.&amp;rdquo; – Ambika&lt;/p&gt;
+&lt;p&gt;“As an undergraduate with an interest in research, I’m thankful for the opportunity provided by UR2PhD for a formal environment to build these skills and make connections with other researchers. Being new to the DIPr lab, I’m also very excited for the chance to work under the care of Anadi and Primal while Ambika and I progress through this course. I look forward to growing alongside each other and continuing to build community together going forward.” – Nico&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Data Privacy Day 2026</title>
