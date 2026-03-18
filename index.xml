@@ -427,8 +427,40 @@ If you would rather share information about these matters with a PSU staff membe
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://cra.org/ur2phd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UR2PhD (Undergraduate Research to PhD)&lt;/a&gt; is a three-month, national virtual program run by the Computing Research Association that pairs undergraduate researchers with graduate student mentors in computing. The undergraduate research training course is a virtual, synchronous opportunity where undergraduate students receive support and training during their research with a faculty and graduate student mentor. It is designed for first-time researchers who want tostrengthen their technical and communication skills in the context of research.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://diprlab.github.io/author/ambika-vyas/&#34;&gt;Ambika Vyas&lt;/a&gt; and &lt;a href=&#34;https://diprlab.github.io/author/nico-wood/&#34;&gt;Nico Wood&lt;/a&gt; got accepted into the Undergraduate research training course for Spring of 2026.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;As an aspiring researcher, I&amp;rsquo;m grateful for this opportunity and the mentorship I will receive. I have been with the DIPr lab for a few months and have enjoyed participating in the research environment and working with Primal &amp;amp; Anadi. Being able to continue this with additional support from computer science professionals at different institutions is something I&amp;rsquo;m looking forward to.&amp;rdquo; – Ambika&lt;/p&gt;
-&lt;p&gt;“As an undergraduate with an interest in research, I’m thankful for the opportunity provided by UR2PhD for a formal environment to build these skills and make connections with other researchers. Being new to the DIPr lab, I’m also very excited for the chance to work under the care of Anadi and Primal while Ambika and I progress through this course. I look forward to growing alongside each other and continuing to build community together going forward.” – Nico&lt;/p&gt;</description>
+&lt;p&gt;&amp;ldquo;As an aspiring researcher, I&amp;rsquo;m grateful for this opportunity and the mentorship I will receive. I have been with the DIPr lab for a few months and have enjoyed participating in the research environment and working with &lt;a href=&#34;https://diprlab.github.io/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://diprlab.github.io/author/anadi-shakya/&#34;&gt;Anadi Shakya&lt;/a&gt;. Being able to continue this with additional support from computer science professionals at different institutions is something I&amp;rsquo;m looking forward to.&amp;rdquo; – &lt;a href=&#34;https://diprlab.github.io/author/ambika-vyas/&#34;&gt;Ambika Vyas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;“As an undergraduate with an interest in research, I’m thankful for the opportunity provided by UR2PhD for a formal environment to build these skills and make connections with other researchers. Being new to the DIPr lab, I’m also very excited for the chance to work under the care of Anadi and Primal while Ambika and I progress through this course. I look forward to growing alongside each other and continuing to build community together going forward.” – &lt;a href=&#34;https://diprlab.github.io/author/nico-wood/&#34;&gt;Nico Wood&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DIPr Lab at NorthWest Database Society (2026) Meeting</title>
+      <link>https://diprlab.github.io/post/2026/nwds/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://diprlab.github.io/post/2026/nwds/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://db.cs.washington.edu/events/database_day/2026/database_day_2026.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Northwest Database Society&lt;/a&gt; Annual Meeting brings together researchers and practitioners from the greater Pacific Northwest for a day of technical talks and networking on the broad topic of data management systems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://diprlab.github.io/author/orobosa-ekhator/&#34;&gt;Orobosa Ekhator&lt;/a&gt; attended the full day event at University of Washington, Seattle. She presented a poster about the Clustering-Based Local Outlier Factor (CBLOF) classifier she developed for &lt;a href=&#34;https://diprlab.github.io/project/bluecrab&#34;&gt;BL(u)E CRAB&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./poster.pdf&#34; alt=&#34;CBLOF Poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -717,7 +749,6 @@ system without altering the base code of that server itself.&lt;/p&gt;
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://diprlab.github.io/post/2025/spencer_urmp/</guid>
       <description>&lt;p&gt;Portland State University&amp;rsquo;s Undergraduate Research &amp;amp; Mentor Program &lt;a href=&#34;https://www.pdx.edu/engineering/urmp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(URMP)&lt;/a&gt; hosted a poster event that brings together student researchers and allows them to demonstrate their work. &lt;a href=&#34;https://diprlab.github.io/author/spencer-henwood/&#34;&gt;Spencer Henwood&lt;/a&gt; presented a poster about securing Publish-Subscribe (pub/sub) systems with fine-grained access control (FGAC).&lt;/p&gt;
-&lt;p&gt;The poster can be found &lt;a href=&#34;./poster.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -736,7 +767,7 @@ system without altering the base code of that server itself.&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./poster.png&#34; alt=&#34;URMP Poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./poster.pdf&#34; alt=&#34;URMP Poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
@@ -1110,8 +1141,29 @@ system without altering the base code of that server itself.&lt;/p&gt;
       <link>https://diprlab.github.io/post/2025/percom/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://diprlab.github.io/post/2025/percom/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.percom.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE PerCom&lt;/a&gt; is an annual meeting that brings together researchers and practitioners of pervasive computing and communications for technical talks and networking on the broad topic of pervasive computing. &lt;a href=&#34;https://diprlab.github.io/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt; presented the &lt;a href=&#34;BLuE_CRAB_Demo_Paper.pdf&#34;&gt;demo paper&lt;/a&gt; and a live demonstration of &lt;a href=&#34;https://diprlab.github.io/project/BlueCrab&#34;&gt;BL(u)E CRAB&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.percom.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE PerCom&lt;/a&gt; is an annual meeting that brings together researchers and practitioners of pervasive computing and communications for technical talks and networking on the broad topic of pervasive computing. &lt;a href=&#34;https://diprlab.github.io/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt; presented the &lt;a href=&#34;https://diprlab.github.io/publication/blue_crab_demo&#34;&gt;demo paper&lt;/a&gt; and a live demonstration of &lt;a href=&#34;https://diprlab.github.io/project/BlueCrab&#34;&gt;BL(u)E CRAB&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We thank the &lt;a href=&#34;https://www.nsf.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Science Foundation (NSF)&lt;/a&gt; for awarding &lt;a href=&#34;https://diprlab.github.io/author/dylan-conklin/&#34;&gt;Dylan Conklin&lt;/a&gt; a travel grant for this conference.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./poster.pdf&#34; alt=&#34;BL(u)E CRAB Poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -1148,8 +1200,9 @@ their knowledge after each lesson.&lt;/p&gt;
       <link>https://diprlab.github.io/post/2025/nwds/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://diprlab.github.io/post/2025/nwds/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://db.cs.washington.edu/events/database_day/2025/database_day_2025.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Northwest Database Society&lt;/a&gt; Annual Meeting brings together researchers and practitioners from the greater Pacific Northwest for a day of technical talks and networking on the broad topic of data management systems.
-DIPr lab members (from left to right): &lt;a href=&#34;https://diprlab.github.io/author/orobosa-ekhator/&#34;&gt;Orobosa Ekhator&lt;/a&gt;, &lt;a href=&#34;https://diprlab.github.io/author/anadi-shakya/&#34;&gt;Anadi Shakya&lt;/a&gt;, and &lt;a href=&#34;https://diprlab.github.io/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt; attended the full day event at University of Washington, Seattle.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://db.cs.washington.edu/events/database_day/2025/database_day_2025.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Northwest Database Society&lt;/a&gt; Annual Meeting brings together researchers and practitioners from the greater Pacific Northwest for a day of technical talks and networking on the broad topic of data management systems.&lt;/p&gt;
+&lt;p&gt;DIPr lab members (from left to right): &lt;a href=&#34;https://diprlab.github.io/author/orobosa-ekhator/&#34;&gt;Orobosa Ekhator&lt;/a&gt;, &lt;a href=&#34;https://diprlab.github.io/author/anadi-shakya/&#34;&gt;Anadi Shakya&lt;/a&gt;, and &lt;a href=&#34;https://diprlab.github.io/author/primal-pappachan/&#34;&gt;Primal Pappachan&lt;/a&gt; attended the full day event at University of Washington, Seattle.&lt;/p&gt;
+</description>
     </item>
     
     <item>
