@@ -198,6 +198,14 @@
     <lastmod>2025-07-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://diprlab.github.io/publication/edu_privacy/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/tina-mccomiskey/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://diprlab.github.io/dbrg/events/2025/spring/09/</loc>
     <lastmod>2025-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -251,10 +259,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/tag/safety/</loc>
-    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://diprlab.github.io/author/tina-mccomiskey/</loc>
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -354,52 +358,28 @@
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://diprlab.github.io/author/aamir-hamid/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://diprlab.github.io/author/abhiroop-tippavajjula/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/publication/accord/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/author/anna-squicciarini/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/publication-type/conference/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://diprlab.github.io/publication/genaipa/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://diprlab.github.io/author/hemanth-reddy-samidi/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/author/jose-such/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://diprlab.github.io/author/primal-pappachan/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://diprlab.github.io/author/roberto-yus/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/tag/source-themes/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://diprlab.github.io/author/tim-finin/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/post/2024/launch/</loc>
@@ -408,6 +388,30 @@
   </url><url>
     <loc>https://diprlab.github.io/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/aamir-hamid/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/publication/genaipa/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/hemanth-reddy-samidi/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/primal-pappachan/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/roberto-yus/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diprlab.github.io/author/tim-finin/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/about/</loc>
@@ -419,19 +423,19 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/publication/tattle-tale/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/author/sharad-mehrotra/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/author/shufan-zhang/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/author/xi-he/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://diprlab.github.io/privacy/</loc>
